@@ -70,16 +70,20 @@ def forward_stats(ex, sym, since_iso='2024-01-01T00:00:00Z', H=126, CD=18):
     df=pd.DataFrame(out,columns=['ts','o','h','l','c','v']).drop_duplicates('ts')
     c,o2,v=df['c'].values,df['o'].values,df['v'].values
     sma=pd.Series(c).rolling(50).mean().values; va=pd.Series(v).shift(1).rolling(LOOK).mean().values
-    fwd=[]; nxt=[]; last=-10**9
+    fwd=[]; dd=[]; nxt=[]; last=-10**9
     for i in range(50,len(c)-1):
         if i-last<CD: continue
         if v[i]>=VOLX*va[i] and c[i]>o2[i] and c[i]>c[i-1] and c[i]<=sma[i]*(1+BASEMUL):
             w=c[i+1:i+1+H]
-            if len(w): fwd.append(w.max()/c[i]-1); nxt.append(c[i+1]/c[i]-1); last=i
+            if len(w):
+                fwd.append(w.max()/c[i]-1)        # best level reached (upside ceiling)
+                dd.append(w.min()/c[i]-1)          # worst level reached (drawdown from entry)
+                nxt.append(c[i+1]/c[i]-1); last=i
     if len(fwd)<5: return None
-    f=np.array(fwd); nb=np.array(nxt)
+    f=np.array(fwd); nb=np.array(nxt); d=np.array(dd)
     return dict(n=len(f),hit=round(100*np.mean(f>=0.20)),med=round(100*np.median(f)),
-                neg=round(100*np.mean(f<0)),nb=round(100*nb.mean(),1),nbpos=round(100*np.mean(nb>0)))
+                dd=round(100*np.median(d)),neg=round(100*np.mean(f<0)),
+                nb=round(100*nb.mean(),1),nbpos=round(100*np.mean(nb>0)))
 
 def send(text):
     tok,chat=os.environ.get("TELEGRAM_TOKEN"),os.environ.get("TELEGRAM_CHAT_ID")
@@ -94,7 +98,7 @@ LEGEND=("\n\n⭐CORE strong · ◎VERIFY check liquidity · ·watch low-convicti
 def block(ex, r, kind):
     s=forward_stats(ex, r['sym'])
     hist=(f"\n   ↳ next 4h bar avg {s['nb']:+.1f}% (green {s['nbpos']}%)"
-          f"\n   ↳ 21d: {s['med']:+d}% median · hit {s['hit']}% · neg {s['neg']}% (n={s['n']})") if s else ""
+          f"\n   ↳ 21d: up {s['med']:+d}% median · dip {s['dd']:+d}% typical · hit {s['hit']}% (n={s['n']})") if s else ""
     head="⚡ IGNITION" if kind=='fire' else "🟡 WARMING"
     badge=BADGE.get(r['tier'],'')
     return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}"
@@ -114,8 +118,9 @@ def scan_once(force=False):
         except Exception: pass
     have=fired or warm
     def build():
-        return "\n".join([block(ex,r,'fire') for r in sorted(fired,key=lambda x:-x['volx'])]
-                        +[block(ex,r,'warm') for r in sorted(warm,key=lambda x:-x['volx'])])+LEGEND
+        body="\n".join([block(ex,r,'fire') for r in sorted(fired,key=lambda x:-x['volx'])]
+                      +[block(ex,r,'warm') for r in sorted(warm,key=lambda x:-x['volx'])])
+        return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){LEGEND}"
     if force:
         send(build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.")
         return
@@ -137,4 +142,5 @@ def scan_once(force=False):
             print(f"quiet — scanned {scanned}, nothing igniting (silent)")
 
 if __name__=='__main__':
-    scan_once(force=False)
+    import sys
+    scan_once(force=('force' in sys.argv or '--scan' in sys.argv))   # `python scan_notify.py force` = manual send
