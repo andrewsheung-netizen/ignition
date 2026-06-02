@@ -3,8 +3,9 @@ Always-on ignition scanner — runs in the cloud (GitHub Actions), checks the wa
 latest CLOSED 4h candle, and sends a Telegram message when any coin fires. No API keys needed
 for price data (public Binance). Set TELEGRAM_TOKEN and TELEGRAM_CHAT_ID as env/secrets.
 """
-import os, ccxt, numpy as np, pandas as pd, requests
+import os, datetime, ccxt, numpy as np, pandas as pd, requests
 VOLX, LOOK, BASEMUL, WARMX = 3.0, 6, 0.05, 2.0
+HEARTBEAT_HOUR = 8   # UTC hour for the once-a-day "all quiet" confirmation (matches the 08:10 run)
 DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
            "RAY","PYTH","SEI","STX","DUSK"]
 
@@ -19,11 +20,20 @@ def get_exchange():
             print(f"{name} unavailable: {str(e)[:70]}")
     raise SystemExit("no exchange reachable")
 
-def watchlist():
+BADGE={'CORE':'⭐CORE','VERIFY':'◎VERIFY','WATCH':'·watch'}
+def load_watch():
+    # Prefer the tiered CSV (sym,tier,...); fall back to plain txt, then DEFAULT.
+    if os.path.exists("ignition_watchlist.csv"):
+        import csv
+        syms=[]; tiers={}
+        for r in csv.DictReader(open("ignition_watchlist.csv")):
+            s=(r.get('sym') or '').strip().upper()
+            if s: syms.append(s); tiers[s]=(r.get('tier') or '').strip().upper()
+        if syms: return syms, tiers
     if os.path.exists("ignition_watchlist.txt"):
         wl=[l.strip().upper() for l in open("ignition_watchlist.txt") if l.strip()]
-        if wl: return wl
-    return DEFAULT
+        if wl: return wl, {}
+    return DEFAULT, {}
 
 def check(ex, sym):
     o=ex.fetch_ohlcv(f"{sym}/USDT",'4h',limit=60)
@@ -47,23 +57,24 @@ def send(text):
 
 if __name__=='__main__':
     ex=get_exchange()
-    wl=watchlist(); fired,warm=[],[]; scanned=0
-    for s in wl:
+    syms,tiers=load_watch(); fired,warm=[],[]; scanned=0
+    for s in syms:
         try:
             r=check(ex,s)
             if not r: continue
-            scanned+=1
+            scanned+=1; r['tier']=tiers.get(s,'')
             if r['fired']: fired.append(r)
             elif r['warm']: warm.append(r)
         except Exception: pass
-    test=os.environ.get("TEST_PING","").lower() in ("1","true","yes")
+    lbl=lambda r:(f"{r['sym']} {BADGE.get(r['tier'],'')}").strip()
     if fired:
-        lines=[f"⚡ IGNITION — {r['sym']} (vol {r['volx']:.1f}x, ${r['close']:.6g})" for r in sorted(fired,key=lambda x:-x['volx'])]
-        if warm: lines.append("warming: "+", ".join(f"{r['sym']} ({r['volx']:.1f}x)" for r in warm))
-        send("\n".join(lines)+"\n\nEntry alert only — exit is discretionary. Not financial advice.")
+        lines=[f"⚡ IGNITION — {lbl(r)} (vol {r['volx']:.1f}x, ${r['close']:.6g})" for r in sorted(fired,key=lambda x:-x['volx'])]
+        if warm: lines.append("warming: "+", ".join(f"{lbl(r)} ({r['volx']:.1f}x)" for r in warm))
+        send("\n".join(lines)+"\n\n⭐CORE = strong · ◎VERIFY = check liquidity · ·watch = low-conviction. "
+             "Exit discretionary. Not financial advice.")
     elif warm:
-        send("Warming (watch): "+", ".join(f"{r['sym']} ({r['volx']:.1f}x)" for r in warm)+"\nNot financial advice.")
-    elif test:
-        send(f"✅ Scanner ran OK — scanned {scanned} coins, none igniting right now. (test ping)")
+        send("Warming (watch): "+", ".join(f"{lbl(r)} ({r['volx']:.1f}x)" for r in warm)+"\nNot financial advice.")
+    elif datetime.datetime.now(datetime.timezone.utc).hour == HEARTBEAT_HOUR:
+        send(f"✅ Daily check — scanned {scanned} coins on {ex.id}, nothing igniting today.")  # once-a-day heartbeat
     else:
-        print(f"quiet — scanned {scanned}, nothing igniting")   # silent on Telegram to avoid spam
+        print(f"quiet — scanned {scanned}, nothing igniting (silent this run)")
