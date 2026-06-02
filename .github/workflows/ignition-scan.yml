@@ -1,0 +1,30 @@
+name: ignition-scan
+on:
+  schedule:
+    - cron: '10 */4 * * *'      # 00:10, 04:10, 08:10, 12:10, 16:10, 20:10 UTC — just after each 4h candle close
+  workflow_dispatch:            # lets you run it manually from the Actions tab
+permissions:
+  contents: write               # needed so the heartbeat step can commit
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python scan_notify.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Heartbeat (keeps the schedule from auto-pausing after 60 idle days)
+        if: always()            # log even if the scan step errored
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ last scan" > heartbeat.txt
+          git config user.name  "ignition-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add heartbeat.txt
+          git diff --staged --quiet || git commit -m "heartbeat [skip ci]"
+          git push
