@@ -10,29 +10,35 @@ DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
            "RAY","PYTH","SEI","STX","DUSK"]
 
 def get_exchange():
-    # Binance returns HTTP 451 to US cloud IPs (GitHub runners). Try US-cloud-friendly
-    # exchanges that list the same coins; use the first that loads.
-    for name in ['kucoin','okx','gateio','mexc','binance']:
+    # 1) Binance PUBLIC-DATA host (data-api.binance.vision) — not geo-blocked like api.binance.com,
+    #    so the cloud scanner uses the SAME feed as your TradingView (Binance). Try this first.
+    try:
+        ex=ccxt.binance({'enableRateLimit':True})
+        ex.urls['api']['public']='https://data-api.binance.vision/api/v3'
+        ex.load_markets(); print("using exchange: binance (data-api.binance.vision)"); return ex
+    except Exception as e:
+        print(f"binance-vision unavailable: {str(e)[:70]}")
+    # 2) Fallbacks if even the vision host is blocked (data differs slightly from Binance).
+    for name in ['kucoin','okx','gateio','mexc']:
         try:
             ex=getattr(ccxt,name)({'enableRateLimit':True}); ex.load_markets()
             print(f"using exchange: {name}"); return ex
         except Exception as e:
-            print(f"{name} unavailable: {str(e)[:70]}")
+            print(f"{name} unavailable: {str(e)[:60]}")
     raise SystemExit("no exchange reachable")
 
 BADGE={'CORE':'⭐CORE','VERIFY':'◎VERIFY','WATCH':'·watch'}
 def load_watch():
-    # Prefer the tiered CSV (sym,tier,...); fall back to plain txt, then DEFAULT.
-    if os.path.exists("ignition_watchlist.csv"):
-        import csv
-        syms=[]; tiers={}
-        for r in csv.DictReader(open("ignition_watchlist.csv")):
-            s=(r.get('sym') or '').strip().upper()
-            if s: syms.append(s); tiers[s]=(r.get('tier') or '').strip().upper()
-        if syms: return syms, tiers
+    # watchlist file holds "SYM,TIER" per line (TIER optional). One file carries everything.
     if os.path.exists("ignition_watchlist.txt"):
-        wl=[l.strip().upper() for l in open("ignition_watchlist.txt") if l.strip()]
-        if wl: return wl, {}
+        syms=[]; tiers={}
+        for line in open("ignition_watchlist.txt"):
+            line=line.strip()
+            if not line: continue
+            parts=[p.strip().upper() for p in line.split(',')]
+            syms.append(parts[0])
+            if len(parts)>1 and parts[1]: tiers[parts[0]]=parts[1]
+        if syms: return syms, tiers
     return DEFAULT, {}
 
 def check(ex, sym):
