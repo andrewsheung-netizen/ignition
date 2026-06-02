@@ -10,6 +10,8 @@ on:
         default: false
 permissions:
   contents: write               # needed so the heartbeat step can commit
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"   # silences the Node 20 deprecation; keeps working after Jun 16 2026
 jobs:
   scan:
     runs-on: ubuntu-latest
