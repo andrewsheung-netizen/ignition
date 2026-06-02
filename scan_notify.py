@@ -87,7 +87,21 @@ def send(text):
     requests.post(f"https://api.telegram.org/bot{tok}/sendMessage",
                   data={"chat_id":chat,"text":text},timeout=20)
 
-if __name__=='__main__':
+LEGEND=("\n\n⭐CORE strong · ◎VERIFY check liquidity · ·watch low-conviction. "
+        "history = past 21-day move after this coin's signals (upside excursion). "
+        "Exit discretionary. Not financial advice.")
+
+def block(ex, r, kind):
+    s=forward_stats(ex, r['sym'])
+    hist=(f"\n   ↳ next 4h bar avg {s['nb']:+.1f}% (green {s['nbpos']}%)"
+          f"\n   ↳ 21d: {s['med']:+d}% median · hit {s['hit']}% · neg {s['neg']}% (n={s['n']})") if s else ""
+    head="⚡ IGNITION" if kind=='fire' else "🟡 WARMING"
+    badge=BADGE.get(r['tier'],'')
+    return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}"
+
+def scan_once(force=False):
+    """force=True (manual /scan): always report current status, ignore dedup.
+       force=False (scheduled): alert once per 4h candle, heartbeat once/day."""
     ex=get_exchange()
     syms,tiers=load_watch(); fired,warm=[],[]; scanned=0
     for s in syms:
@@ -98,30 +112,22 @@ if __name__=='__main__':
             if r['fired']: fired.append(r)
             elif r['warm']: warm.append(r)
         except Exception: pass
-    lbl=lambda r:(f"{r['sym']} {BADGE.get(r['tier'],'')}").strip()
-    # De-dup across the :05/:15/:25 retry runs: alert at most once per 4h candle, heartbeat once/day.
-    candle_id=(int(time.time())//14400)*14400          # identifies the current 4h window
+    have=fired or warm
+    def build():
+        return "\n".join([block(ex,r,'fire') for r in sorted(fired,key=lambda x:-x['volx'])]
+                        +[block(ex,r,'warm') for r in sorted(warm,key=lambda x:-x['volx'])])+LEGEND
+    if force:
+        send(build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.")
+        return
+    candle_id=(int(time.time())//14400)*14400          # current 4h window (dedup key)
     try: state=json.load(open('scan_state.json'))
     except Exception: state={'alert_id':0,'hb_date':''}
     save=lambda: json.dump(state,open('scan_state.json','w'))
     now=datetime.datetime.now(datetime.timezone.utc)
-
-    if (fired or warm) and candle_id!=state.get('alert_id'):
-        if fired:
-            lines=[]
-            for r in sorted(fired,key=lambda x:-x['volx']):
-                s=forward_stats(ex,r['sym'])
-                hist=(f"\n   ↳ next 4h bar avg {s['nb']:+.1f}% (green {s['nbpos']}%)"
-                      f"\n   ↳ 21d: {s['med']:+d}% median · hit {s['hit']}% · neg {s['neg']}% (n={s['n']})") if s else ""
-                lines.append(f"⚡ IGNITION — {lbl(r)} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}")
-            if warm: lines.append("warming: "+", ".join(f"{lbl(r)} ({r['volx']:.1f}x)" for r in warm))
-            send("\n".join(lines)+"\n\n⭐CORE strong · ◎VERIFY check liquidity · ·watch low-conviction. "
-                 "history = past 21-day move after THIS coin's signals (upside excursion). Exit discretionary. Not financial advice.")
-        else:
-            send("Warming (watch): "+", ".join(f"{lbl(r)} ({r['volx']:.1f}x)" for r in warm)+"\nNot financial advice.")
-        state['alert_id']=candle_id; save()
-    elif fired or warm:
-        print("already alerted for this candle (retry run) — staying silent")
+    if have and candle_id!=state.get('alert_id'):
+        send(build()); state['alert_id']=candle_id; save()
+    elif have:
+        print("already alerted this candle (retry run) — staying silent")
     else:
         today=now.strftime('%Y-%m-%d')
         if now.hour==HEARTBEAT_HOUR and state.get('hb_date')!=today:
@@ -129,3 +135,6 @@ if __name__=='__main__':
             state['hb_date']=today; save()
         else:
             print(f"quiet — scanned {scanned}, nothing igniting (silent)")
+
+if __name__=='__main__':
+    scan_once(force=False)
