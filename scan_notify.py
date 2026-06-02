@@ -8,6 +8,17 @@ VOLX, LOOK, BASEMUL, WARMX = 3.0, 6, 0.05, 2.0
 DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
            "RAY","PYTH","SEI","STX","DUSK"]
 
+def get_exchange():
+    # Binance returns HTTP 451 to US cloud IPs (GitHub runners). Try US-cloud-friendly
+    # exchanges that list the same coins; use the first that loads.
+    for name in ['kucoin','okx','gateio','mexc','binance']:
+        try:
+            ex=getattr(ccxt,name)({'enableRateLimit':True}); ex.load_markets()
+            print(f"using exchange: {name}"); return ex
+        except Exception as e:
+            print(f"{name} unavailable: {str(e)[:70]}")
+    raise SystemExit("no exchange reachable")
+
 def watchlist():
     if os.path.exists("ignition_watchlist.txt"):
         wl=[l.strip().upper() for l in open("ignition_watchlist.txt") if l.strip()]
@@ -35,7 +46,7 @@ def send(text):
                   data={"chat_id":chat,"text":text},timeout=20)
 
 if __name__=='__main__':
-    ex=ccxt.binance({'enableRateLimit':True}); ex.load_markets()
+    ex=get_exchange()
     wl=watchlist(); fired,warm=[],[]; scanned=0
     for s in wl:
         try:
