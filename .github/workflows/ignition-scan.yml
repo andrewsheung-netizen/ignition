@@ -1,7 +1,7 @@
 name: ignition-scan
 on:
   schedule:
-    - cron: '10 */4 * * *'      # 00:10, 04:10, 08:10, 12:10, 16:10, 20:10 UTC — just after each 4h candle close
+    - cron: '5,15,25 */4 * * *'  # :05/:15/:25 after each Binance 4h candle close (3 retries vs GitHub skips; dedup in code)
   workflow_dispatch:            # lets you run it manually from the Actions tab
     inputs:
       test_ping:
@@ -33,6 +33,7 @@ jobs:
           date -u +"%Y-%m-%dT%H:%M:%SZ last scan" > heartbeat.txt
           git config user.name  "ignition-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add heartbeat.txt
+          git pull --rebase --autostash || true   # get the latest dedup state before committing
+          git add -A                                # commit heartbeat.txt AND scan_state.json (alert dedup)
           git diff --staged --quiet || git commit -m "heartbeat [skip ci]"
-          git push
+          git push || true
