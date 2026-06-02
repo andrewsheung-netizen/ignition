@@ -36,20 +36,23 @@ def send(text):
 
 if __name__=='__main__':
     ex=ccxt.binance({'enableRateLimit':True}); ex.load_markets()
-    fired,warm=[],[]
-    for s in watchlist():
+    wl=watchlist(); fired,warm=[],[]; scanned=0
+    for s in wl:
         try:
             r=check(ex,s)
             if not r: continue
+            scanned+=1
             if r['fired']: fired.append(r)
             elif r['warm']: warm.append(r)
         except Exception: pass
+    test=os.environ.get("TEST_PING","").lower() in ("1","true","yes")
     if fired:
         lines=[f"⚡ IGNITION — {r['sym']} (vol {r['volx']:.1f}x, ${r['close']:.6g})" for r in sorted(fired,key=lambda x:-x['volx'])]
         if warm: lines.append("warming: "+", ".join(f"{r['sym']} ({r['volx']:.1f}x)" for r in warm))
         send("\n".join(lines)+"\n\nEntry alert only — exit is discretionary. Not financial advice.")
     elif warm:
-        send("Warming (watch): "+", ".join(f"{r['sym']} ({r['volx']:.1f}x)" for r in warm)+
-             "\nNot financial advice.")
+        send("Warming (watch): "+", ".join(f"{r['sym']} ({r['volx']:.1f}x)" for r in warm)+"\nNot financial advice.")
+    elif test:
+        send(f"✅ Scanner ran OK — scanned {scanned} coins, none igniting right now. (test ping)")
     else:
-        print("quiet — nothing igniting")     # stays silent on Telegram to avoid spam
+        print(f"quiet — scanned {scanned}, nothing igniting")   # silent on Telegram to avoid spam
