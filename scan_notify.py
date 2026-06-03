@@ -8,6 +8,10 @@ try:
     import catalyst_news as cat        # auto news screen on a fire (optional; safe if missing)
 except Exception as e:
     cat = None; print(f"(catalyst_news unavailable: {str(e)[:60]})")
+try:
+    import regime                       # BTC-trend regime flip alert (optional; safe if missing)
+except Exception as e:
+    regime = None; print(f"(regime unavailable: {str(e)[:60]})")
 VOLX, LOOK, BASEMUL, WARMX = 3.0, 6, 0.05, 2.0
 HEARTBEAT_HOUR = 8   # UTC hour for the once-a-day "all quiet" confirmation (matches the 08:10 run)
 DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
@@ -117,10 +121,28 @@ def send_catalysts(coins):
         except Exception as e:
             print(f"catalyst {r['sym']} failed: {str(e)[:60]}")
 
+def regime_flip_check(ex):
+    """Read BTC-trend regime; Telegram-alert ONLY when it flips state. Returns the regime dict."""
+    if not regime: return None
+    try:
+        reg=regime.get_regime(ex)
+    except Exception as e:
+        print(f"regime check failed: {str(e)[:50]}"); return None
+    if not reg: return None
+    try: st=json.load(open('scan_state.json'))
+    except Exception: st={}
+    prev=st.get('regime','')
+    if prev and prev!=reg['state']:
+        send(regime.flip_msg(reg, prev))                    # the FLIP alert
+    if st.get('regime')!=reg['state']:
+        st['regime']=reg['state']; json.dump(st,open('scan_state.json','w'))
+    return reg
+
 def scan_once(force=False):
     """force=True (manual /scan): always report current status, ignore dedup.
        force=False (scheduled): alert once per 4h candle, heartbeat once/day."""
     ex=get_exchange()
+    reg=regime_flip_check(ex)                                # regime flip alert (once per state change)
     syms,tiers=load_watch(); fired,warm=[],[]; scanned=0
     for s in syms:
         try:
@@ -134,9 +156,11 @@ def scan_once(force=False):
     def build():
         body="\n".join([block(ex,r,'fire') for r in sorted(fired,key=lambda x:-x['volx'])]
                       +[block(ex,r,'warm') for r in sorted(warm,key=lambda x:-x['volx'])])
-        return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){LEGEND}"
+        rl=regime.line(reg) if (regime and reg) else ""
+        return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){rl}{LEGEND}"
+    rline=regime.line(reg) if (regime and reg) else ""
     if force:
-        send(build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.")
+        send((build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.") + (rline if not have else ""))
         send_catalysts(fired + warm)                       # news screen on each fired AND warming ticker
         return
     candle_id=(int(time.time())//14400)*14400          # current 4h window (dedup key)
@@ -151,7 +175,7 @@ def scan_once(force=False):
     else:
         today=now.strftime('%Y-%m-%d')
         if now.hour==HEARTBEAT_HOUR and state.get('hb_date')!=today:
-            send(f"✅ Daily check — scanned {scanned} coins on {ex.id}, nothing igniting today.")
+            send(f"✅ Daily check — scanned {scanned} coins on {ex.id}, nothing igniting today." + rline)
             state['hb_date']=today; save()
         else:
             print(f"quiet — scanned {scanned}, nothing igniting (silent)")
