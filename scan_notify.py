@@ -4,6 +4,10 @@ latest CLOSED 4h candle, and sends a Telegram message when any coin fires. No AP
 for price data (public Binance). Set TELEGRAM_TOKEN and TELEGRAM_CHAT_ID as env/secrets.
 """
 import os, time, json, datetime, ccxt, numpy as np, pandas as pd, requests
+try:
+    import catalyst_news as cat        # auto news screen on a fire (optional; safe if missing)
+except Exception as e:
+    cat = None; print(f"(catalyst_news unavailable: {str(e)[:60]})")
 VOLX, LOOK, BASEMUL, WARMX = 3.0, 6, 0.05, 2.0
 HEARTBEAT_HOUR = 8   # UTC hour for the once-a-day "all quiet" confirmation (matches the 08:10 run)
 DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
@@ -103,6 +107,16 @@ def block(ex, r, kind):
     badge=BADGE.get(r['tier'],'')
     return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}"
 
+def send_catalysts(fired):
+    """After an ignition alert, send a SEPARATE catalyst-news message per fired ticker."""
+    if not cat or not fired: return
+    for r in sorted(fired, key=lambda x: -x['volx']):
+        try:
+            msg = cat.catalyst_message(r['sym'])
+            if msg: send(msg)
+        except Exception as e:
+            print(f"catalyst {r['sym']} failed: {str(e)[:60]}")
+
 def scan_once(force=False):
     """force=True (manual /scan): always report current status, ignore dedup.
        force=False (scheduled): alert once per 4h candle, heartbeat once/day."""
@@ -123,6 +137,7 @@ def scan_once(force=False):
         return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){LEGEND}"
     if force:
         send(build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.")
+        send_catalysts(fired)                              # news screen on each fired ticker
         return
     candle_id=(int(time.time())//14400)*14400          # current 4h window (dedup key)
     try: state=json.load(open('scan_state.json'))
@@ -130,7 +145,7 @@ def scan_once(force=False):
     save=lambda: json.dump(state,open('scan_state.json','w'))
     now=datetime.datetime.now(datetime.timezone.utc)
     if have and candle_id!=state.get('alert_id'):
-        send(build()); state['alert_id']=candle_id; save()
+        send(build()); send_catalysts(fired); state['alert_id']=candle_id; save()
     elif have:
         print("already alerted this candle (retry run) — staying silent")
     else:
