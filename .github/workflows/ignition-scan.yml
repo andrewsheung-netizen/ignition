@@ -25,7 +25,8 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          CRYPTOPANIC_TOKEN: ${{ secrets.CRYPTOPANIC_TOKEN }}   # optional; CryptoCompare works without it
+          NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}   # optional free news key
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}         # optional free news key (CryptoCompare works without either)
           TEST_PING: ${{ github.event.inputs.test_ping }}
 
       - name: Heartbeat (keeps the schedule from auto-pausing after 60 idle days)

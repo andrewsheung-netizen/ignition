@@ -20,7 +20,8 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          CRYPTOPANIC_TOKEN: ${{ secrets.CRYPTOPANIC_TOKEN }}   # optional
+          NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}   # optional
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}         # optional
       - name: Persist the command offset
         if: always()
         run: |
