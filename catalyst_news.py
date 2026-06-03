@@ -1,30 +1,45 @@
 """
 Catalyst-news screen for a single ticker — used by scan_notify.py when a coin IGNITES.
-Pulls recent headlines from TWO sources and merges/dedupes them:
-  1. CryptoPanic   (per-ticker, best) — needs a free token in env CRYPTOPANIC_TOKEN
-  2. CryptoCompare (no key) — general crypto feed, filtered to the ticker by symbol match
+Pulls recent headlines from up to THREE free sources, merges/dedupes, tags catalysts:
+  1. NewsData.io   (free key, env NEWSDATA_KEY) — keyword search by the coin's FULL NAME + crypto ctx
+  2. GNews         (free key, env GNEWS_KEY)     — same name+ctx search; good small-cap coverage
+  3. CryptoCompare (no key)                       — general crypto feed, filtered to the ticker
+(CryptoPanic was removed — its API is no longer free.)
 
-Then tags headlines that look like catalysts (listing, partnership, launch, mainnet, ...) and
-builds a Telegram message: catalyst-tagged items first; if none match in the window, the latest
-3 headlines as a fallback so you always get a read. Bearish items (unlock, hack...) flagged too.
+Querying the coin's full name (e.g. "Dusk Network") with a crypto-context filter catches far more
+small-cap catalysts than the bare ticker. Results are post-filtered for relevance (name or ticker
+must appear in the headline/description). Then catalyst keywords are tagged (🔥 bullish / ⚠️ risk),
+and a Telegram message is built: tagged items first, else the latest 3 headlines as a fallback.
 
-No heavy deps — just `requests`. Safe to import even with no token (CryptoPanic just skipped).
-Not financial advice.
+Only dep is `requests`. Safe to import with no keys (those sources just skip). Not financial advice.
 """
 import os, re, time, requests
 
 DAYS = 14
 TIMEOUT = 15
 UA = {'User-Agent': 'ignition-catalyst-screen'}
+CTX = "(crypto OR cryptocurrency OR token OR blockchain OR coin OR web3 OR DeFi)"
 
-# bullish catalysts -> 🔥 ; risks -> ⚠️ (checked first so warnings surface)
-BULL_KW = ["listing", "list on", "lists ", "listed", "binance", "coinbase", "kraken", "okx",
-           "upbit", "bybit", "kucoin", "bitget", "partner", "integrat", "launch", "mainnet",
-           "testnet", "go live", "golive", "upgrade", "collaborat", "acquire", "acquisition",
-           "custody", "etf", "funding", "raises", "raised", "investment", "staking", "airdrop",
-           "buyback", "burn", "tokeniz", "rwa", "treasury", "grant", "whitelist", "tge", "listing on"]
-RISK_KW = ["unlock", "hack", "exploit", "lawsuit", "delist", "sec charges", "sec sues",
-           "rug", "drain", "outage", "halt"]
+# ticker -> full project name, so news search hits articles that don't use the ticker symbol.
+# Only confident names are listed; unknown tickers fall back to a ticker-only search.
+NAMES = {
+    "ZEC":"Zcash","BONK":"Bonk","WIF":"dogwifhat","FET":"Fetch.ai","PENDLE":"Pendle","AAVE":"Aave",
+    "JTO":"Jito","JUP":"Jupiter","INJ":"Injective","RAY":"Raydium","WLD":"Worldcoin",
+    "PYTH":"Pyth Network","AVAX":"Avalanche","JASMY":"Jasmy","ALGO":"Algorand","DUSK":"Dusk Network",
+    "HUMA":"Huma Finance","AGLD":"Adventure Gold","EDU":"Open Campus","BNX":"BinaryX",
+    "HOLO":"Holoworld","ZEN":"Horizen","BOME":"Book of Meme","USUAL":"Usual","TURBO":"Turbo",
+    "GALA":"Gala","XAI":"Xai","NIL":"Nillion","POLYX":"Polymesh","XVG":"Verge","PORTAL":"Portal",
+    "SNT":"Status","ROSE":"Oasis Network","RED":"RedStone","API3":"API3","STX":"Stacks",
+    "KAITO":"Kaito","REZ":"Renzo","SLP":"Smooth Love Potion","SEI":"Sei","PROS":"Prosper",
+    "ZRO":"LayerZero","PEOPLE":"ConstitutionDAO","LPT":"Livepeer","SCRT":"Secret Network","AXL":"Axelar",
+}
+
+BULL_KW = ["listing","list on","lists ","listed","binance","coinbase","kraken","okx","upbit","bybit",
+           "kucoin","bitget","partner","integrat","launch","mainnet","testnet","go live","golive",
+           "upgrade","collaborat","acquire","acquisition","custody","etf","funding","raises","raised",
+           "investment","staking","airdrop","buyback","burn","tokeniz","rwa","treasury","grant",
+           "whitelist","tge"]
+RISK_KW = ["unlock","hack","exploit","lawsuit","delist","sec charges","sec sues","rug","drain","outage","halt"]
 
 def _ago(ts):
     d = int(time.time()) - int(ts)
@@ -32,67 +47,91 @@ def _ago(ts):
     if d < 86400: return f"{d//3600}h"
     return f"{d//86400}d"
 
-def _cryptopanic(sym, token):
-    """Per-currency feed. Tries the classic v1 then the developer v2 endpoint."""
-    urls = [f"https://cryptopanic.com/api/v1/posts/?auth_token={token}&currencies={sym}&public=true",
-            f"https://cryptopanic.com/api/developer/v2/posts/?auth_token={token}&currencies={sym}"]
-    for u in urls:
-        try:
-            r = requests.get(u, headers=UA, timeout=TIMEOUT)
-            if r.status_code != 200:
-                print(f"  cryptopanic {sym}: HTTP {r.status_code}"); continue
-            js = r.json(); res = js.get('results') or js.get('data') or []
-            out = []
-            for p in res:
-                title = p.get('title') or (p.get('instruments') and '') or ''
-                if not title: continue
-                pub = p.get('published_at') or p.get('published') or ''
-                ts = _iso_ts(pub)
-                src = (p.get('source') or {}).get('domain') or (p.get('source') or {}).get('title') or 'cryptopanic'
-                out.append(dict(title=title.strip(), url=p.get('url') or '', ts=ts, source=src, hay=title.upper()))
-            if out: return out
-        except Exception as e:
-            print(f"  cryptopanic {sym} err: {str(e)[:50]}")
-    return []
-
 def _iso_ts(s):
     if not s: return int(time.time())
+    s = str(s).strip().replace('Z', '+00:00').replace(' ', 'T', 1)
     try:
         import datetime
-        s = s.replace('Z', '+00:00')
         return int(datetime.datetime.fromisoformat(s).timestamp())
     except Exception:
         return int(time.time())
 
+def _query(sym):
+    name = NAMES.get(sym.upper())
+    return (f'"{name}" AND {CTX}' if name else f'{sym} AND {CTX}'), name
+
+def _newsdata(sym):
+    key = os.environ.get('NEWSDATA_KEY')
+    if not key: return []
+    q, name = _query(sym)
+    try:
+        r = requests.get("https://newsdata.io/api/1/latest", headers=UA, timeout=TIMEOUT,
+                         params={'apikey': key, 'q': q, 'language': 'en'})
+        if r.status_code != 200:
+            print(f"  newsdata {sym}: HTTP {r.status_code}"); return []
+        out = []
+        for a in r.json().get('results', []) or []:
+            title = (a.get('title') or '').strip()
+            if not title: continue
+            out.append(dict(title=title, url=a.get('link') or '', ts=_iso_ts(a.get('pubDate')),
+                            source=a.get('source_id') or 'newsdata', desc=a.get('description') or ''))
+        return out
+    except Exception as e:
+        print(f"  newsdata {sym} err: {str(e)[:50]}"); return []
+
+def _gnews(sym):
+    key = os.environ.get('GNEWS_KEY')
+    if not key: return []
+    q, name = _query(sym)
+    try:
+        r = requests.get("https://gnews.io/api/v4/search", headers=UA, timeout=TIMEOUT,
+                         params={'q': q, 'lang': 'en', 'max': 10, 'apikey': key, 'sortby': 'publishedAt'})
+        if r.status_code != 200:
+            print(f"  gnews {sym}: HTTP {r.status_code}"); return []
+        out = []
+        for a in r.json().get('articles', []) or []:
+            title = (a.get('title') or '').strip()
+            if not title: continue
+            out.append(dict(title=title, url=a.get('url') or '', ts=_iso_ts(a.get('publishedAt')),
+                            source=(a.get('source') or {}).get('name') or 'gnews', desc=a.get('description') or ''))
+        return out
+    except Exception as e:
+        print(f"  gnews {sym} err: {str(e)[:50]}"); return []
+
 _CC_CACHE = {'ts': 0, 'data': None}
 def _cryptocompare_all():
-    """One shared fetch of the latest ~100 crypto headlines (no key). Cached 5 min per process."""
     if _CC_CACHE['data'] is not None and time.time() - _CC_CACHE['ts'] < 300:
         return _CC_CACHE['data']
     try:
-        u = "https://data-api.cryptocompare.com/news/v1/article/list?lang=EN&limit=100"
-        r = requests.get(u, headers=UA, timeout=TIMEOUT); r.raise_for_status()
+        r = requests.get("https://data-api.cryptocompare.com/news/v1/article/list",
+                         headers=UA, timeout=TIMEOUT, params={'lang': 'EN', 'limit': 100})
+        r.raise_for_status()
         data = []
         for a in r.json().get('Data', []):
             title = (a.get('TITLE') or '').strip()
             if not title: continue
             cats = " ".join(c.get('CATEGORY', '') for c in a.get('CATEGORY_DATA', []))
-            hay = f"{title} {a.get('KEYWORDS','')} {cats}".upper()
             data.append(dict(title=title, url=a.get('URL') or '',
                              ts=int(a.get('PUBLISHED_ON') or time.time()),
-                             source=(a.get('SOURCE_DATA') or {}).get('NAME') or 'cryptocompare', hay=hay))
+                             source=(a.get('SOURCE_DATA') or {}).get('NAME') or 'cryptocompare',
+                             desc='', hay=f"{title} {a.get('KEYWORDS','')} {cats}".upper()))
         _CC_CACHE.update(ts=time.time(), data=data); return data
     except Exception as e:
         print(f"  cryptocompare err: {str(e)[:50]}"); return []
 
+def _relevant(sym, name, title, desc):
+    h = f"{title} {desc or ''}".lower()
+    if name and name.lower() in h: return True
+    return re.search(rf'\b{re.escape(sym.lower())}\b', h) is not None
+
 def _norm(t): return re.sub(r'[^a-z0-9]', '', t.lower())[:60]
 
 def gather(sym, days=DAYS):
-    posts, token = [], os.environ.get('CRYPTOPANIC_TOKEN')
-    if token: posts += _cryptopanic(sym, token)
-    # CryptoCompare: keep only headlines that mention the ticker as a standalone token
-    pat = re.compile(rf'\b{re.escape(sym.upper())}\b')
-    posts += [p for p in _cryptocompare_all() if pat.search(p['hay'])]
+    sym = sym.upper(); name = NAMES.get(sym)
+    posts = _newsdata(sym) + _gnews(sym)
+    posts = [p for p in posts if _relevant(sym, name, p['title'], p.get('desc'))]
+    pat = re.compile(rf'\b{re.escape(sym)}\b')
+    posts += [p for p in _cryptocompare_all() if pat.search(p['hay']) or (name and name.upper() in p['hay'])]
     cutoff = int(time.time()) - days*86400
     posts = [p for p in posts if p['ts'] >= cutoff]
     seen, uniq = set(), []
@@ -111,11 +150,10 @@ def _tag(title):
     return None
 
 def catalyst_message(sym, days=DAYS):
-    posts = gather(sym, days)
+    sym = sym.upper(); posts = gather(sym, days)
     if not posts:
-        return f"📰 {sym} — catalyst check: no ticker news in last {days}d (CryptoPanic+CryptoCompare)."
-    tagged = [(p, _tag(p['title'])) for p in posts]
-    cats = [(p, tg) for p, tg in tagged if tg]
+        return f"📰 {sym} — catalyst check: no ticker news in last {days}d (NewsData+GNews+CryptoCompare)."
+    cats = [(p, tg) for p in posts if (tg := _tag(p['title']))]
     lines = [f"📰 {sym} — catalyst check (last {days}d)"]
     if cats:
         for p, (emoji, kw) in cats[:5]:
