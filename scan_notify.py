@@ -12,6 +12,10 @@ try:
     import regime                       # BTC-trend regime flip alert (optional; safe if missing)
 except Exception as e:
     regime = None; print(f"(regime unavailable: {str(e)[:60]})")
+try:
+    import action                       # tier+regime -> recommended play line (optional; safe if missing)
+except Exception as e:
+    action = None; print(f"(action unavailable: {str(e)[:60]})")
 VOLX, LOOK, BASEMUL, WARMX = 3.0, 6, 0.05, 2.0
 HEARTBEAT_HOUR = 8   # UTC hour for the once-a-day "all quiet" confirmation (matches the 08:10 run)
 DEFAULT = ["ZEC","BONK","FET","AAVE","PENDLE","WIF","RENDER","INJ","JTO","JUP",
@@ -103,13 +107,15 @@ LEGEND=("\n\n⭐CORE strong · ◎VERIFY check liquidity · ·watch low-convicti
         "history = past 21-day move after this coin's signals (upside excursion). "
         "Exit discretionary. Not financial advice.")
 
-def block(ex, r, kind):
+def block(ex, r, kind, reg=None):
     s=forward_stats(ex, r['sym'])
     hist=(f"\n   ↳ next 4h bar avg {s['nb']:+.1f}% (green {s['nbpos']}%)"
           f"\n   ↳ 21d: up {s['med']:+d}% median · dip {s['dd']:+d}% typical · hit {s['hit']}% (n={s['n']})") if s else ""
     head="⚡ IGNITION" if kind=='fire' else "🟡 WARMING"
     badge=BADGE.get(r['tier'],'')
-    return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}"
+    # On a FIRE, append the tier+regime recommended play (rules §3/§6). Warming = heads-up only.
+    act=(f"\n   {action.action_line(r, reg)}") if (kind=='fire' and action) else ""
+    return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}{act}"
 
 def send_catalysts(coins):
     """After an alert, send a SEPARATE catalyst-news message per coin (fired AND warming)."""
@@ -154,10 +160,12 @@ def scan_once(force=False):
         except Exception: pass
     have=fired or warm
     def build():
-        body="\n".join([block(ex,r,'fire') for r in sorted(fired,key=lambda x:-x['volx'])]
-                      +[block(ex,r,'warm') for r in sorted(warm,key=lambda x:-x['volx'])])
+        body="\n".join([block(ex,r,'fire',reg) for r in sorted(fired,key=lambda x:-x['volx'])]
+                      +[block(ex,r,'warm',reg) for r in sorted(warm,key=lambda x:-x['volx'])])
         rl=regime.line(reg) if (regime and reg) else ""
-        return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){rl}{LEGEND}"
+        # discipline footer once per alert, only when something actually fired (rules §5/§6)
+        disc=(f"\n\n{action.discipline_footer()}") if (fired and action) else ""
+        return f"{body}\n\n(scanned {scanned}: {len(fired)} firing, {len(warm)} warming){rl}{disc}{LEGEND}"
     rline=regime.line(reg) if (regime and reg) else ""
     if force:
         send((build() if have else f"✅ /scan — checked {scanned} coins on {ex.id}, nothing igniting right now.") + (rline if not have else ""))
