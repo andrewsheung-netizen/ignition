@@ -1,0 +1,20 @@
+# Watchlist catalyst log (auto, daily_brief.py)
+
+2026-06-04 | ZEC | 🔥 | UPCOMING | Zcash Foundation Releases Upgrade to Fix Orchard Bug as ZEC Rallies | https://coingape.com/zcash-foundation-releases-upgrade-to-fix-orchard-bug-as-zec-rallies/
+2026-06-04 | ZEC | ⚠️ | RECENT | Crypto News Today: Bitcoin Outflows, ZCash DSurged Over 13%, and TesserDAO Suffers Exploit | https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-news-today-bitcoin-outflows-zcash-dsurged-over-13-and-tesserdao-suffers-exploit
+2026-06-04 | ZEC | ⚠️ | RECENT | Why is the ZEC price still bullish despite the 3-hour Zcash outage | https://invezz.com/news/2026/06/03/why-is-the-zec-price-still-bullish-despite-the-3-hour-zcash-outage/
+2026-06-04 | BONK | 🔥 | RECENT | Bonk Price Falls 91% From Its Peak as Pepeto Crosses $10M Raised | https://techbullion.com/bonk-price-falls-91-from-its-peak-as-pepeto-crosses-10m-raised/
+2026-06-04 | BONK | 🔥 | UPCOMING | Could the Bonk Price Prediction Change Direction While Pepeto Targets 100x Before the Bina | https://www.openpr.com/news/4535638/could-the-bonk-price-prediction-change-direction-while-pepeto
+2026-06-04 | BONK | ⚠️ | RECENT | Next Pepe Coin With 100x Potential: Pepeto Crosses $10M While BONK and FLOKI Struggle Belo | https://www.openpr.com/news/4535634/next-pepe-coin-with-100x-potential-pepeto-crosses-10m-while
+2026-06-04 | BONK | 🔥 | UPCOMING | Bonk Price Prediction Points to Recovery But Whales Seeking Higher ROI Turn to Pepeto Befo | https://techbullion.com/bonk-price-prediction-points-to-recovery-but-whales-seeking-higher-roi-turn-to-pepeto-before-listing/
+2026-06-04 | AAVE | ⚠️ | UPCOMING | Aave Says Operations Back to Normal as $300M Backstop Replaces Drained Assets | https://news.bitcoin.com/aave-says-operations-back-to-normal-as-300m-backstop-replaces-drained-assets/
+2026-06-04 | INJ | 🔥 | UPCOMING | Injective Proposes Vulcan Mainnet Upgrade for June 4, Targeting 90% Reduction in Oracle Ga | https://bitcoinworld.co.in/injective-vulcan-mainnet-upgrade-june-4/
+2026-06-04 | PYTH | 🔥 | UPCOMING | Pyth Network Expands Cross-Asset Coverage with Launch of Hong Kong Equity Feeds | https://www.finanznachrichten.de/nachrichten-2026-06/68667606-pyth-network-expands-cross-asset-coverage-with-launch-of-hong-kong-equity-feeds-004.htm
+2026-06-04 | HUMA | ⚠️ | RECENT | New Crypto With 100x-300x Targets: Pepeto Leads as LINK and AVAX Face Unlocks | https://techbullion.com/new-crypto-with-100x-300x-targets-pepeto-leads-as-link-and-avax-face-unlocks/
+2026-06-04 | FORM | 🔥 | UPCOMING | Real Finance, Anchorage Digital partner to expand RWA infrastructure | https://coinjournal.net/news/real-finance-anchorage-digital-partner-to-expand-rwa-infrastructure/
+2026-06-04 | FORM | 🔥 | RECENT | Morningstar Investment Management LLC Has $308,000 Holdings in JPMorgan Chase & Co. $JPM | https://www.dailypolitical.com/2026/06/03/morningstar-investment-management-llc-has-308000-holdings-in-jpmorgan-chase-co-jpm.html
+2026-06-04 | FORM | 🔥 | RECENT | RHL Group LLC Acquires New Shares in JPMorgan Chase & Co. $JPM | https://www.watchlistnews.com/rhl-group-llc-acquires-new-shares-in-jpmorgan-chase-co-jpm/11103028.html
+2026-06-04 | TURBO | ⚠️ | RECENT | BlockDAG Turbo’s Burns Could Fuel 200x Rally From $0.0005 While ADA Struggles Near $0.30 & | https://www.crypto-reporter.com/news/blockdag-turbos-burns-could-fuel-200x-rally-from-0-0005-while-ada-struggles-near-0-30-xlm-stalls-127138/
+2026-06-04 | TURBO | ⚠️ | UPCOMING | Top Memecoins to Invest 2026: PENGU, FARTCOIN & TURBO Struggle As MemeToro Takes All the I | https://techbullion.com/top-memecoins-to-invest-2026-pengu-fartcoin-turbo-struggle-as-memetoro-takes-all-the-investor-interest/
+2026-06-04 | TURBO | ⚠️ | RECENT | XRP, Dogecoin holders: BlockDAG TURBO unlocks weekly rewards and an 80x gap from $0.0005 | https://crypto.news/xrp-dogecoin-holders-blockdag-turbo-unlocks-weekly-rewards-and-an-80x-gap-from-0-0005/
+2026-06-04 | ZRO | ⚠️ | RECENT | Popular crypto platform shuts down after $50 million hack | https://finance.yahoo.com/markets/crypto/articles/popular-crypto-platform-shuts-down-175109076.html
