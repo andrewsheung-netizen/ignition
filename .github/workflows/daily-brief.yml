@@ -1,0 +1,33 @@
+name: daily-brief
+on:
+  schedule:
+    - cron: '0 0 * * *'        # 00:00 UTC = 08:00 HKT — once a day, token-free (pure Python, no LLM)
+  workflow_dispatch:            # run manually from the Actions tab
+permissions:
+  contents: write               # to persist the catalyst logs + digest back to the repo
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python daily_brief.py
+        env:
+          BRIEF_BOT_TOKEN: ${{ secrets.BRIEF_BOT_TOKEN }}   # the SEPARATE brief bot
+          BRIEF_CHAT_ID: ${{ secrets.BRIEF_CHAT_ID }}       # your chat id (set if it differs)
+          NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}   # optional
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}         # optional (CryptoCompare works without keys)
+      - name: Persist catalyst logs + digest
+        if: always()
+        run: |
+          git config user.name  "ignition-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add -A
+          git diff --staged --quiet || git commit -m "daily catalyst brief [skip ci]"
+          git push || true
