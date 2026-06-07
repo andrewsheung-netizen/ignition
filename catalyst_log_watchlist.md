@@ -55,3 +55,4 @@
 2026-06-07 | FORM | 🔥 | RECENT | Radnor Capital Management LLC Raises Holdings in Amazon.com, Inc. $AMZN | https://www.watchlistnews.com/radnor-capital-management-llc-raises-holdings-in-amazon-com-inc-amzn/11106319.html
 2026-06-07 | XAI | ⚠️ | RECENT | Every Grok Deepfake Lawsuit and Ban in 2026: UK MP Joins Growing Legal Fight Against xAI | https://memeburn.com/every-grok-deepfake-lawsuit-and-ban-in-2026/
 2026-06-07 | STX | 🔥 | RECENT | Crypto Update That Could Change Everything as BTC ETFs Hit $467M and Pepeto Stacks $10M | https://techbullion.com/crypto-update-that-could-change-everything-as-btc-etfs-hit-467m-and-pepeto-stacks-10m/
+2026-06-07 | AAVE | ⚠️ | RECENT | Is This The End Of DeFi? TVL Drops 57%, And Crypto Hacks Hit $16.5 Billion | https://www.benzinga.com/crypto/26/06/53048094/is-this-the-end-of-defi-tvl-drops-57-and-crypto-hacks-hit-16-5-billion
