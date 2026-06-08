@@ -56,3 +56,7 @@
 2026-06-07 | XAI | ⚠️ | RECENT | Every Grok Deepfake Lawsuit and Ban in 2026: UK MP Joins Growing Legal Fight Against xAI | https://memeburn.com/every-grok-deepfake-lawsuit-and-ban-in-2026/
 2026-06-07 | STX | 🔥 | RECENT | Crypto Update That Could Change Everything as BTC ETFs Hit $467M and Pepeto Stacks $10M | https://techbullion.com/crypto-update-that-could-change-everything-as-btc-etfs-hit-467m-and-pepeto-stacks-10m/
 2026-06-07 | AAVE | ⚠️ | RECENT | Is This The End Of DeFi? TVL Drops 57%, And Crypto Hacks Hit $16.5 Billion | https://www.benzinga.com/crypto/26/06/53048094/is-this-the-end-of-defi-tvl-drops-57-and-crypto-hacks-hit-16-5-billion
+2026-06-08 | ZEC | ⚠️ | RECENT | BitForex Founder Nets $11.24M Profit from Zcash Short After Exploit-Driven Crash | https://bitcoinworld.co.in/bitforex-founder-zcash-short-profit-2/
+2026-06-08 | JTO | 🔥 | RECENT | Why Jito’s 14% rally faces a reality check as JTO netflow turns negative | https://ambcrypto.com/why-jitos-14-rally-faces-a-reality-check-as-jto-netflow-turns-negative/
+2026-06-08 | FORM | 🔥 | RECENT | Life Cycle Investment Partners Ltd Makes New $608.66 Million Investment in Amazon.com, Inc | https://www.thelincolnianonline.com/2026/06/07/life-cycle-investment-partners-ltd-makes-new-608-66-million-investment-in-amazon-com-inc-amzn.html
+2026-06-08 | FORM | 🔥 | RECENT | Triglav Investments D.O.O. Has $64.28 Million Stock Holdings in JPMorgan Chase & Co. $JPM | https://www.tickerreport.com/banking-finance/13466332/triglav-investments-d-o-o-has-64-28-million-stock-holdings-in-jpmorgan-chase-co-jpm.html
