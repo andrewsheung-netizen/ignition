@@ -5,20 +5,21 @@
 
 🔭 UPCOMING CATALYSTS (watchlist):
    ⚠️ ZEC [CORE] — Security experts warn advanced AI is about to spark a hacking crisis for both cr https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next
-   🔥 BONK [CORE] — Could the Bonk Price Prediction Recover Past 3x When Pepeto Targets 100x From a  https://techbullion.com/could-the-bonk-price-prediction-recover-past-3x-when-pepeto-targets-100x-from-a-single-listing-event/
-   🔥 AAVE [CORE] — BitGo Launches Institutional DeFi Access to Aave, Spark, and Tesseract Through N https://www.newswire.co.kr/newsRead.php?no=1036181&sourceType=rss
-   🔥 AAVE [CORE] — Decentralized lending protocol Morpho raises $175M to build the world’s biggest  https://siliconangle.com/2026/06/09/decentralized-lending-protocol-morpho-raises-175m-build-worlds-biggest-open-credit-network/
-   🔥 INJ [CORE] — Injective Burns 7 Million INJ in an On-Chain Buyback as Ruvi (RUVI) Ties Supply  https://www.openpr.com/news/4543252/injective-burns-7-million-inj-in-an-on-chain-buyback-as-ruvi
-   🔥 PORTAL [VERIFY] — Ignite Launch Platform Opens Main TGE Access Path for LITHO Ecosystem Participat https://techbullion.com/ignite-launch-platform-opens-main-tge-access-path-for-litho-ecosystem-participation/
+   🔥 BONK [CORE] — Bonk Price Drops 71 Percent From Its Peak While Pepeto Presale Grows Past $10.2  https://www.openpr.com/news/4544987/bonk-price-drops-71-percent-from-its-peak-while-pepeto-presale
+   🔥 PYTH [VERIFY] — Pyth Network Launches Proprietary 24/7 Index Products Across Metals, Oil, and U. https://www.finanznachrichten.de/nachrichten-2026-06/68731365-pyth-network-launches-proprietary-24-7-index-products-across-metals-oil-and-u-s-equities-partners-with-marketvector-on-equity-index-futures-004.htm
+   🔥 AVAX [CORE] — US equipment finance firm Trad.Fi to tokenize up to $650M in loans on Base, Arch https://bitcoinworld.co.in/trad-fi-tokenizes-650-million-loans/
    🔥 SNT [VERIFY] — CryptoSlate Launches "Crypto Laws," the Most Comprehensive Free Global Tracker f https://cryptoslate.com/press-releases/cryptoslate-launches-crypto-laws-the-most-comprehensive-free-global-tracker-for-cryptocurrency-regulation/
 
 📰 recent catalysts:
+   🔥 ZEC [CORE] — BlockDAG Hits 1B+ Buyback Milestone as Bittensor Shows AI Network Growth & Zcash
+   🔥 ZEC [CORE] — Coinbase (COIN), Galaxy (GLXY), Zcash (ZEC), Ripple (XRP) Lobbying For Clarity
    ⚠️ ZEC [CORE] — BTC Drops, Zcash Minting Flaw and Gnosis Pay Exploit Shake Markets
-   🔥 INJ [CORE] — Crypto News Today: Coinbase x402 Launched on Injective for Autonomous AI Payment
-   🔥 AVAX [CORE] — BlockDAG $0.03 Buyback Price Draws Crypto Whales in Q2 as XRP Slides 7% & AVAX R
-   🔥 FORM [CORE] — Microsoft Corporation $MSFT Shares Acquired by Foundations Investment Advisors L
-   🔥 FORM [CORE] — JPMorgan Chase & Co. Sells 1,010,231 Shares of iShares MSCI EAFE Value ETF $EFV
+   🔥 INJ [CORE] — Injective Price Eyes Major Breakout Toward $12 Following Record Token Burn
+   ⚠️ RAY [VERIFY] — Raydium Loses $1.34 Million as Attacker Drains Three Token Pools on Solana
+   ⚠️ RAY [VERIFY] — Raydium DEX’s AMM Program Exploited For $1.34 Million — Here’s What Went Wrong
+   ⚠️ RAY [VERIFY] — Raydium Confirms $1.34M Hack on Legacy AMM V3, Pledges Full User Compensation
+   🔥 RAY [VERIFY] — Ray Day NYC Spotlights AI Scaling from Coinbase, Discord, Torc
+   ⚠️ RAY [VERIFY] — Raydium Exploit Drains $1.34M from Legacy Liquidity Pools on Solana
    🔥 SNT [VERIFY] — SEC Grants Paxos Blockchain-Native Clearing Agency Status
-   ⚠️ STX [WATCH] — Unlocking Financial Flexibility: Why Linkable Cards Are the Modern Marketer’s Se
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
