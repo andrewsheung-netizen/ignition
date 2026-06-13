@@ -122,3 +122,12 @@
 2026-06-12 | FORM | 🔥 | UPCOMING | BlackRock’s Bitcoin Premium Income ETF Could Launch Next Week, Filing Suggests | https://bitcoinworld.co.in/blackrock-bitcoin-premium-income-etf-launch/
 2026-06-12 | XAI | 🔥 | UPCOMING | Grok Build Launches Plugin Marketplace for Developers | https://blockchain.news/news/grok-build-plugin-marketplace-launch
 2026-06-12 | SNT | ⚠️ | RECENT | Microsoft Copilot Outage: Is Microsoft Copilot Down? Users Reporting of Issues with Websit | https://sundayguardianlive.com/world/microsoft-copilot-outage-is-microsoft-copilot-down-users-reporting-of-issues-with-website-check-latest-update-downdetector-status-205299/
+2026-06-13 | ZEC | 🔥 | RECENT | Block DAG's $0.05 Fixed Buyback Rate Creates Rare Arbitrage Play Against Shaky Zcash ZEC P | https://www.openpr.com/news/4547011/block-dag-s-0-05-fixed-buyback-rate-creates-rare-arbitrage-play
+2026-06-13 | WLD | 🔥 | RECENT | Tools for Humanity Restructuring Amid Shifting Tech Investment Climate | https://www.tekedia.com/tools-for-humanity-restructuring-amid-shifting-tech-investment-climate/
+2026-06-13 | WLD | 🔥 | RECENT | Why Traders Favor BlockDAG’s $0.00000044 Entry and $0.05 Buyback Over HYPE, WLD | https://techbullion.com/why-traders-favor-blockdags-0-00000044-entry-and-0-05-buyback-over-hype-wld/
+2026-06-13 | WLD | 🔥 | RECENT | Buy BlockDAG’s Legacy Sale at $0.00000044 & Sell at the $0.03 Buyback Price for Gains: Whi | https://www.tekedia.com/worldcoin-news-ethereum-price-top-crypto-to-buy/
+2026-06-13 | AVAX | 🔥 | UPCOMING | Avalanche Treasury (AVAT) Plunges 38% on Nasdaq Debut | https://bitcoinworld.co.in/avalanche-treasury-avat-nasdaq-debut-38-percent-drop/
+2026-06-13 | AVAX | 🔥 | RECENT | Avalanche Treasury Lists on Nasdaq, Shares Fall 16% | https://us.headtopics.com/news/avalanche-treasury-lists-on-nasdaq-shares-fall-16-84414885
+2026-06-13 | FORM | 🔥 | RECENT | JPMorgan Chase & Co. $JPM Holdings Raised by UniSuper Management Pty Ltd | https://www.themarketsdaily.com/2026/06/12/jpmorgan-chase-co-jpm-holdings-raised-by-unisuper-management-pty-ltd.html
+2026-06-13 | XAI | 🔥 | RECENT | Neptune's SpaceX Investment Commences Trading on NASDAQ | https://www.newsfilecorp.com/release/301254/Neptunes-SpaceX-Investment-Commences-Trading-on-NASDAQ
+2026-06-13 | XVG | 🔥 | RECENT | Why Traders Favor BlockDAG’s $0.00000044 Entry and $0.05 Buyback Over HYPE, WLD | https://techbullion.com/why-traders-favor-blockdags-0-00000044-entry-and-0-05-buyback-over-hype-wld/
