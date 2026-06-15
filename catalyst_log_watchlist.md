@@ -151,3 +151,4 @@
 2026-06-15 | AVAX | 🔥 | RECENT | FIFA World Cup kicks off June 14 with crypto partnerships from Kraken, Avalanche, and Chil | https://www.newsbreak.com/news/4709915997074-fifa-world-cup-kicks-off-june-14-with-crypto-partnerships-from-kraken-avalanche-and-chiliz-in-tow
 2026-06-15 | FORM | 🔥 | RECENT | GameStop SEC Filing Highlights Coinbase Custody Liquidation Risk For Bitcoin Holdings | https://www.newsbtc.com/news/gamestop-sec-filing-highlights-coinbase-custody-liquidation-risk-for-bitcoin-hol/
 2026-06-15 | FORM | 🔥 | RECENT | FTX Recovery Trust Makes New Investment in Exodus Movement, Inc. $EXOD | https://www.thelincolnianonline.com/2026/06/14/ftx-recovery-trust-makes-new-investment-in-exodus-movement-inc-exod.html
+2026-06-15 | ZEC | ⚠️ | RECENT | Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat | https://telecomlive.in/web/2026/06/15/crypto-tokens-50-wipeout-shows-magnitude-of-ai-hacking-threat/
