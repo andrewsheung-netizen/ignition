@@ -97,6 +97,32 @@ def forward_stats(ex, sym, since_iso='2024-01-01T00:00:00Z', H=126, CD=18):
                 dd=round(100*np.median(d)),neg=round(100*np.mean(f<0)),
                 nb=round(100*nb.mean(),1),nbpos=round(100*np.mean(nb>0)))
 
+def ethbtc_regime(ex):
+    """Entry filter #4: True if ETH/BTC is BELOW its 20d MA (favourable alt-rotation tape), else False.
+    Computed once per scan from daily closes. None on failure (treated as neutral downstream)."""
+    try:
+        b = ex.fetch_ohlcv("BTC/USDT", '1d', limit=60); e = ex.fetch_ohlcv("ETH/USDT", '1d', limit=60)
+        if len(b) < 25 or len(e) < 25: return None
+        bc = pd.Series([x[4] for x in b]); ec = pd.Series([x[4] for x in e])
+        ratio = ec / bc; ma = ratio.rolling(20).mean()
+        return bool(ratio.iloc[-1] < ma.iloc[-1])
+    except Exception as ex2:
+        print(f"ethbtc_regime failed: {str(ex2)[:50]}"); return None
+
+def current_funding(sym):
+    """Entry filter #1: current 8h funding for {sym} (USDT-M perp). GitHub runners can reach fapi.
+    Tries {sym}USDT then 1000{sym}USDT (scaled listings). Returns float or None."""
+    for cand in (f"{sym}USDT", f"1000{sym}USDT"):
+        try:
+            r = requests.get("https://fapi.binance.com/fapi/v1/premiumIndex",
+                             params={"symbol": cand}, timeout=10)
+            if r.status_code != 200: continue
+            fr = r.json().get("lastFundingRate")
+            if fr is not None: return float(fr)
+        except Exception:
+            continue
+    return None
+
 def send(text):
     tok,chat=os.environ.get("TELEGRAM_TOKEN"),os.environ.get("TELEGRAM_CHAT_ID")
     if not tok or not chat: print("(no Telegram creds; message below)\n"+text); return
@@ -107,14 +133,18 @@ LEGEND=("\n\n⭐CORE strong · ◎VERIFY check liquidity · ·watch low-convicti
         "history = past 21-day move after this coin's signals (upside excursion). "
         "Exit discretionary. Not financial advice.")
 
-def block(ex, r, kind, reg=None):
+def block(ex, r, kind, reg=None, ethbtc_off=None):
     s=forward_stats(ex, r['sym'])
     hist=(f"\n   ↳ next 4h bar avg {s['nb']:+.1f}% (green {s['nbpos']}%)"
           f"\n   ↳ 21d: up {s['med']:+d}% median · dip {s['dd']:+d}% typical · hit {s['hit']}% (n={s['n']})") if s else ""
     head="⚡ IGNITION" if kind=='fire' else "🟡 WARMING"
     badge=BADGE.get(r['tier'],'')
-    # On a FIRE, append the tier+regime recommended play (rules §3/§6). Warming = heads-up only.
-    act=(f"\n   {action.action_line(r, reg)}") if (kind=='fire' and action) else ""
+    # On a FIRE, append the recommended play WITH the validated entry filters (#1 funding, #4 ETH/BTC).
+    if kind=='fire' and action:
+        fv=current_funding(r['sym'])                       # current 8h funding (filter #1)
+        act=f"\n   {action.action_line(r, reg, funding=fv, ethbtc_off=ethbtc_off)}"
+    else:
+        act=""
     return f"{head} — {r['sym']}{(' '+badge) if badge else ''} (vol {r['volx']:.1f}x, ${r['close']:.6g}){hist}{act}"
 
 def send_catalysts(coins):
@@ -149,6 +179,7 @@ def scan_once(force=False):
        force=False (scheduled): alert once per 4h candle, heartbeat once/day."""
     ex=get_exchange()
     reg=regime_flip_check(ex)                                # regime flip alert (once per state change)
+    ethbtc_off=ethbtc_regime(ex)                             # entry filter #4 (once per scan)
     syms,tiers=load_watch(); fired,warm=[],[]; scanned=0
     for s in syms:
         try:
@@ -160,8 +191,8 @@ def scan_once(force=False):
         except Exception: pass
     have=fired or warm
     def build():
-        body="\n".join([block(ex,r,'fire',reg) for r in sorted(fired,key=lambda x:-x['volx'])]
-                      +[block(ex,r,'warm',reg) for r in sorted(warm,key=lambda x:-x['volx'])])
+        body="\n".join([block(ex,r,'fire',reg,ethbtc_off) for r in sorted(fired,key=lambda x:-x['volx'])]
+                      +[block(ex,r,'warm',reg,ethbtc_off) for r in sorted(warm,key=lambda x:-x['volx'])])
         rl=regime.line(reg) if (regime and reg) else ""
         # discipline footer once per alert, only when something actually fired (rules §5/§6)
         disc=(f"\n\n{action.discipline_footer()}") if (fired and action) else ""
