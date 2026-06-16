@@ -1,0 +1,32 @@
+name: paper-trade
+on:
+  schedule:
+    - cron: '7,17,27 */4 * * *'  # a few min after each 4h candle close (offset from ignition-scan)
+  workflow_dispatch:            # run manually from the Actions tab
+permissions:
+  contents: write               # needed to commit paper_state.json back so balances persist
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+jobs:
+  paper:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python paper_trader.py
+        env:
+          PAPER_BOT_TOKEN: ${{ secrets.PAPER_BOT_TOKEN }}   # NEW dedicated paper bot
+          PAPER_CHAT_ID:   ${{ secrets.PAPER_CHAT_ID }}
+
+      - name: Commit paper state
+        if: always()            # persist even if the run errored
+        run: |
+          git config user.name  "paper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase --autostash || true   # get latest state before committing
+          git add -A                                # paper_state.json (virtual balances + open positions)
+          git diff --staged --quiet || git commit -m "paper state [skip ci]"
+          git push || true
