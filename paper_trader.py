@@ -96,32 +96,33 @@ def open_pos(bot, sym, price, ts, tier):
                        "peak": price, "half": False, "tier": tier}
     bot["last_entry"][sym] = ts
 
-def close_pos(bot, sym, gross, why, frac=1.0):
+def close_pos(bot, sym, gross, why, xts, frac=1.0):
     """Realize `frac` of the position at gross return `gross`. Returns (pnl, closed_fully)."""
     p = bot["pos"][sym]; pnl = p["notional"] * frac * _net(gross)
     bot["bal"] += pnl
-    bot["closed"].append({"sym": sym, "ret": round(100*_net(gross), 1), "pnl": round(pnl), "why": why})
+    bot["closed"].append({"sym": sym, "ret": round(100*_net(gross), 2), "pnl": round(pnl, 2),
+                          "why": why, "xts": int(xts), "entry_ts": p["ts"]})
     if frac >= 1.0:
         del bot["pos"][sym]; return pnl, True
     p["notional"] *= (1 - frac); p["half"] = True; return pnl, False
 
-def manage_exits(bot, which, sym, hi, lo, cl):
+def manage_exits(bot, which, sym, hi, lo, cl, xts):
     """Apply the bot's exit rules to one position given the latest closed candle. Returns list of event strs."""
     p = bot["pos"][sym]; e = p["entry"]; p["age"] += 1; p["peak"] = max(p["peak"], hi); ev = []
     if which == 'A':      # mechanical +20% / -15% / 21d
-        if lo <= e*(1-STOP):      _, _ = close_pos(bot, sym, -STOP, "stop -15%");  ev.append(f"{sym} stop −15%")
-        elif hi >= e*1.20:        close_pos(bot, sym, 0.20, "tp +20%");            ev.append(f"{sym} TP +20%")
-        elif p["age"] >= H:       close_pos(bot, sym, cl/e-1, "21d cap");          ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+        if lo <= e*(1-STOP):      close_pos(bot, sym, -STOP, "stop -15%", xts);   ev.append(f"{sym} stop −15%")
+        elif hi >= e*1.20:        close_pos(bot, sym, 0.20, "tp +20%", xts);      ev.append(f"{sym} TP +20%")
+        elif p["age"] >= H:       close_pos(bot, sym, cl/e-1, "21d cap", xts);    ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
     else:                 # scale + trail
         if not p["half"]:
-            if lo <= e*(1-STOP):  close_pos(bot, sym, -STOP, "stop -15%");         ev.append(f"{sym} stop −15%")
-            elif hi >= e*1.18:    close_pos(bot, sym, 0.18, "half +18%", frac=0.5);ev.append(f"{sym} half +18%")
-            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap");          ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+            if lo <= e*(1-STOP):  close_pos(bot, sym, -STOP, "stop -15%", xts);          ev.append(f"{sym} stop −15%")
+            elif hi >= e*1.18:    close_pos(bot, sym, 0.18, "half +18%", xts, frac=0.5); ev.append(f"{sym} half +18%")
+            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap", xts);           ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
         else:             # remaining half: target +27% / 20% trail / catastrophe / time
-            if hi >= e*1.27:      close_pos(bot, sym, 0.27, "runner +27%");        ev.append(f"{sym} runner +27%")
-            elif cl <= p["peak"]*0.80: close_pos(bot, sym, cl/e-1, "trail 20%");   ev.append(f"{sym} trail {100*(cl/e-1):+.0f}%")
-            elif lo <= e*(1-STOP):close_pos(bot, sym, -STOP, "stop -15%");         ev.append(f"{sym} stop −15%")
-            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap");          ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+            if hi >= e*1.27:      close_pos(bot, sym, 0.27, "runner +27%", xts);   ev.append(f"{sym} runner +27%")
+            elif cl <= p["peak"]*0.80: close_pos(bot, sym, cl/e-1, "trail 20%", xts);ev.append(f"{sym} trail {100*(cl/e-1):+.0f}%")
+            elif lo <= e*(1-STOP):close_pos(bot, sym, -STOP, "stop -15%", xts);     ev.append(f"{sym} stop −15%")
+            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap", xts);      ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
     return ev
 
 def main():
@@ -139,7 +140,7 @@ def main():
             df = getdf(sym)
             if df is None: continue
             last = df.iloc[-2]
-            exits[bk] += manage_exits(s[bk], bk, sym, float(last['h']), float(last['l']), float(last['c']))
+            exits[bk] += manage_exits(s[bk], bk, sym, float(last['h']), float(last['l']), float(last['c']), int(last['ts']))
 
     # 2) entries — same signal + filters for both bots
     entries, skips = [], []
@@ -166,10 +167,19 @@ def main():
     s["candle"] = (int(datetime.datetime.now(datetime.timezone.utc).timestamp())//14400)*14400
     save_state(s)
 
-    # 3) report
+    # 3) report — equity = realized balance + mark-to-market of open positions (latest close)
+    def equity(bk):
+        b = s[bk]; unreal = 0.0
+        for sym, p in b["pos"].items():
+            df = getdf(sym)
+            if df is None: continue
+            cl = float(df.iloc[-2]['c'])
+            unreal += p["notional"] * _net(cl/p["entry"] - 1)
+        return b["bal"] + unreal, unreal
     def line(bk, label):
-        b = s[bk]; ret = 100*(b["bal"]/START_BAL - 1)
-        return f"{label}: ${b['bal']:,.0f} ({ret:+.1f}%) · {len(b['pos'])} open · {len(b['closed'])} closed"
+        b = s[bk]; eq, unreal = equity(bk); ret = 100*(eq/START_BAL - 1)
+        return (f"{label}: equity ${eq:,.0f} ({ret:+.1f}%) = realized ${b['bal']:,.0f} + open ${unreal:+,.0f}"
+                f" · {len(b['pos'])} open · {len(b['closed'])} closed")
     reg = "ETH/BTC<MA ✓ (trade)" if ethbtc_off else "ETH/BTC>MA ✗ (skip)" if ethbtc_off is False else "ETH/BTC n/a"
     msg = ["📝 DUSK PAPER (4h step) — " + reg,
            "TRADE entries: " + (", ".join(entries) if entries else "none"),
