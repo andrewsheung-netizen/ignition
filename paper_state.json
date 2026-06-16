@@ -1,0 +1,15 @@
+{
+ "A": {
+  "bal": 25000.0,
+  "pos": {},
+  "closed": [],
+  "last_entry": {}
+ },
+ "B": {
+  "bal": 25000.0,
+  "pos": {},
+  "closed": [],
+  "last_entry": {}
+ },
+ "candle": 1781596800
+}
