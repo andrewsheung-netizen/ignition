@@ -180,3 +180,4 @@
 2026-06-17 | XVG | 🔥 | RECENT | Binance Faces EU Exit as Greek MiCA License Rejection Looms, Sources Say | https://bitcoinworld.co.in/binance-greece-mica-license-rejection-eu/
 2026-06-17 | PORTAL | ⚠️ | UPCOMING | Pyra to shut down after Drift exploit derails recovery efforts | https://crypto.news/pyra-to-shut-down-after-drift-exploit-derails-recovery-efforts/
 2026-06-17 | PORTAL | 🔥 | UPCOMING | Ignite Expands Launch Access Infrastructure for Upcoming LITHO TGE Participation | https://techbullion.com/ignite-expands-launch-access-infrastructure-for-upcoming-litho-tge-participation/
+2026-06-18 | AVAX | 🔥 | RECENT | AVAX Slows, and XRP Stays Fragile While BlockDAG Pushes Ahead With High-Speed Upgrade and  | https://www.analyticsinsight.net/cryptocurrency-analytics-insight/avax-slows-and-xrp-stays-fragile-while-blockdag-pushes-ahead-with-high-speed-upgrade-and-010-buyback-model
