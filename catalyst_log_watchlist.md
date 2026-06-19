@@ -195,3 +195,10 @@
 2026-06-19 | ALGO | 🔥 | UPCOMING | Algorand Foundation Launches Global x402 Challenge with $100k USD + 500k ALGO Prize Pool | https://www.crypto-reporter.com/press-releases/algorand-foundation-launches-global-x402-challenge-with-100k-usd-500k-algo-prize-pool-128163/
 2026-06-19 | STX | 🔥 | UPCOMING | dev.fun launches Poker Arena: the first public benchmark for AI agent reasoning | https://www.benzinga.com/pressreleases/26/06/n53271722/dev-fun-launches-poker-arena-the-first-public-benchmark-for-ai-agent-reasoning
 2026-06-19 | ZRO | 🔥 | UPCOMING | Suspected Early LayerZero Investor Moves $3.9M in ZRO to Binance, Signaling Potential Sell | https://bitcoinworld.co.in/layerzero-early-investor-binance-deposit/
+2026-06-19 | BONK | 🔥 | RECENT | Pepe (PEPE) Surges 35% and Burns $6 Million of Tokens While Ruvi (RUVI) Fills Phase 4 Befo | https://www.openpr.com/news/4554530/pepe-pepe-surges-35-and-burns-6-million-of-tokens-while-ruvi
+2026-06-19 | BONK | 🔥 | UPCOMING | Bonk Price Prediction Trapped 92% Below Record as Pepeto Nears a Binance Listing | https://techbullion.com/bonk-price-prediction-trapped-92-below-record-as-pepeto-nears-a-binance-listing/
+2026-06-19 | AVAX | 🔥 | UPCOMING | Avalanche launches institutional payments collective with 28 major financial firms | https://bitcoinworld.co.in/avalanche-payments-collective-launch/
+2026-06-19 | ALGO | 🔥 | RECENT | Algorand (ALGO) Targets Quantum Resistance by 2027 with Key Upgrades | https://blockchain.news/news/algorand-quantum-resistance-roadmap-2027
+2026-06-19 | XAI | 🔥 | UPCOMING | xAI Launches Grok Add-In for Microsoft Word | https://blockchain.news/news/xai-grok-word-addin
+2026-06-19 | SNT | 🔥 | UPCOMING | Zoomex Launches World Cup Prediction Market Campaign | https://hackernoon.com/zoomex-launches-world-cup-prediction-market-campaign
+2026-06-19 | SNT | 🔥 | UPCOMING | Singapore MAS adds Bybit to investor alert list over licensing status | https://crypto.news/singapore-mas-adds-bybit-to-investor-alert-list-over-licensing-status/
