@@ -205,3 +205,9 @@
 2026-06-20 | ZEC | 🔥 | UPCOMING | Zcash Price Prediction: Emergency Patch Fears Fade While AlphaPepe New-Listing Hunters Rot | https://www.openpr.com/news/4555132/zcash-price-prediction-emergency-patch-fears-fade-while
 2026-06-20 | AAVE | 🔥 | RECENT | Aave Price Prediction: Grayscale Calls AAVE Undervalued as AlphaPepe Presale Crosses $1.65 | https://www.openpr.com/news/4554854/aave-price-prediction-grayscale-calls-aave-undervalued-as
 2026-06-20 | RED | 🔥 | RECENT | Red-letter week for FinTechs as $1bn raised across 17 deals | https://fintech.global/2026/06/19/red-letter-week-for-fintechs-as-1bn-raised-across-17-deals/
+2026-06-20 | AAVE | 🔥 | UPCOMING | Aave Price Prediction: Grayscale Tags AAVE Undervalued at $71 While Pepeto Passes $10.2M B | https://www.openpr.com/news/4555608/aave-price-prediction-grayscale-tags-aave-undervalued-at-71
+2026-06-20 | ALGO | ⚠️ | RECENT | Crypto News Today: Bitcoin Outflows, Aztec Exploit, and Ethereum’s $12.7674 million Outflo | https://www.analyticsinsight.net/news/crypto-news-today-bitcoin-outflows-aztec-exploit-and-ethereums-127674-million-outflow
+2026-06-20 | SNT | 🔥 | UPCOMING | Crypto Casino No Deposit Bonus 2026 - Bitstarz Launches New No Deposit Bonuses & Fast Cash | https://www.manilatimes.net/2026/06/20/tmt-newswire/globenewswire/crypto-casino-no-deposit-bonus-2026-bitstarz-launches-new-no-deposit-bonuses-fast-cashouts/2369278
+2026-06-20 | REZ | 🔥 | RECENT | EigenLayer Commands 93.9% of Ethereum (ETH) Restaking at $15B as Ruvi (RUVI) Opens Phase 4 | https://www.openpr.com/news/4555181/eigenlayer-commands-93-9-of-ethereum-eth-restaking-at-15b-as
+2026-06-20 | SCRT | ⚠️ | RECENT | Axelar Network Confirms $4.7 Million Bridge Hack; Core Protocol Unaffected | https://bitcoinworld.co.in/axelar-network-bridge-hack-4-7-million/
+2026-06-20 | AXL | ⚠️ | RECENT | Axelar Network Confirms $4.7 Million Bridge Hack; Core Protocol Unaffected | https://bitcoinworld.co.in/axelar-network-bridge-hack-4-7-million/
