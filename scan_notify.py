@@ -110,17 +110,27 @@ def ethbtc_regime(ex):
         print(f"ethbtc_regime failed: {str(ex2)[:50]}"); return None
 
 def current_funding(sym):
-    """Entry filter #1: current 8h funding for {sym} (USDT-M perp). GitHub runners can reach fapi.
-    Tries {sym}USDT then 1000{sym}USDT (scaled listings). Returns float or None."""
-    for cand in (f"{sym}USDT", f"1000{sym}USDT"):
+    """Entry filter #1: current 8h funding for {sym}. Binance fapi is geo-blocked from US (GitHub runners)
+    AND HK -> use US-reachable venues OKX then Gate. Tries bare + 1000-scaled ticker. Returns float or None."""
+    s = sym.upper()
+    for base in (s, "1000" + s):
+        # OKX public funding-rate
         try:
-            r = requests.get("https://fapi.binance.com/fapi/v1/premiumIndex",
-                             params={"symbol": cand}, timeout=10)
-            if r.status_code != 200: continue
-            fr = r.json().get("lastFundingRate")
-            if fr is not None: return float(fr)
+            r = requests.get("https://www.okx.com/api/v5/public/funding-rate",
+                             params={"instId": f"{base}-USDT-SWAP"}, timeout=10)
+            if r.status_code == 200:
+                d = r.json().get("data") or []
+                if d and d[0].get("fundingRate") not in (None, ""): return float(d[0]["fundingRate"])
         except Exception:
-            continue
+            pass
+        # Gate.io futures contract (funding_rate field)
+        try:
+            r = requests.get(f"https://api.gateio.ws/api/v4/futures/usdt/contracts/{base}_USDT", timeout=10)
+            if r.status_code == 200:
+                fr = r.json().get("funding_rate")
+                if fr not in (None, ""): return float(fr)
+        except Exception:
+            pass
     return None
 
 def send(text):
