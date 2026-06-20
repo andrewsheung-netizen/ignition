@@ -202,3 +202,6 @@
 2026-06-19 | XAI | 🔥 | UPCOMING | xAI Launches Grok Add-In for Microsoft Word | https://blockchain.news/news/xai-grok-word-addin
 2026-06-19 | SNT | 🔥 | UPCOMING | Zoomex Launches World Cup Prediction Market Campaign | https://hackernoon.com/zoomex-launches-world-cup-prediction-market-campaign
 2026-06-19 | SNT | 🔥 | UPCOMING | Singapore MAS adds Bybit to investor alert list over licensing status | https://crypto.news/singapore-mas-adds-bybit-to-investor-alert-list-over-licensing-status/
+2026-06-20 | ZEC | 🔥 | UPCOMING | Zcash Price Prediction: Emergency Patch Fears Fade While AlphaPepe New-Listing Hunters Rot | https://www.openpr.com/news/4555132/zcash-price-prediction-emergency-patch-fears-fade-while
+2026-06-20 | AAVE | 🔥 | RECENT | Aave Price Prediction: Grayscale Calls AAVE Undervalued as AlphaPepe Presale Crosses $1.65 | https://www.openpr.com/news/4554854/aave-price-prediction-grayscale-calls-aave-undervalued-as
+2026-06-20 | RED | 🔥 | RECENT | Red-letter week for FinTechs as $1bn raised across 17 deals | https://fintech.global/2026/06/19/red-letter-week-for-fintechs-as-1bn-raised-across-17-deals/
