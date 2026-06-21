@@ -1,20 +1,18 @@
-📅 DUSK watchlist — catalyst brief 2026-06-20
+📅 DUSK watchlist — catalyst brief 2026-06-21
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 ZEC [CORE] — Zcash Price Prediction: Emergency Patch Fears Fade While AlphaPepe New-Listing H https://www.openpr.com/news/4555132/zcash-price-prediction-emergency-patch-fears-fade-while
+   🔥 BONK [CORE] — Could the Bonk Price Prediction Recover Past 3x When Pepeto Targets 100x From a  https://techbullion.com/could-the-bonk-price-prediction-recover-past-3x-when-pepeto-targets-100x-from-a-single-listing-event/
    🔥 AAVE [CORE] — Aave Price Prediction: Grayscale Tags AAVE Undervalued at $71 While Pepeto Passe https://www.openpr.com/news/4555608/aave-price-prediction-grayscale-tags-aave-undervalued-at-71
-   🔥 AVAX [CORE] — Avalanche Treasury Co set to start trading on Nasdaq as crypto proxy trade evolv https://www.cnbc.com/2026/06/11/avalanche-focused-treasury-firm-launches-on-nasdaq-as-crypto-proxy-trade-evolves.html
-   🔥 SNT [VERIFY] — Crypto Casino No Deposit Bonus 2026 - Bitstarz Launches New No Deposit Bonuses & https://www.manilatimes.net/2026/06/20/tmt-newswire/globenewswire/crypto-casino-no-deposit-bonus-2026-bitstarz-launches-new-no-deposit-bonuses-fast-cashouts/2369278
-   🔥 SNT [VERIFY] — Singapore MAS adds Bybit to investor alert list over licensing status https://crypto.news/singapore-mas-adds-bybit-to-investor-alert-list-over-licensing-status/
-   🔥 SNT [VERIFY] — CryptoSlate Launches "Crypto Laws," the Most Comprehensive Free Global Tracker f https://cryptoslate.com/press-releases/cryptoslate-launches-crypto-laws-the-most-comprehensive-free-global-tracker-for-cryptocurrency-regulation/
+   ⚠️ PYTH [VERIFY] — Pyth price rebounds 21% this week, but can PYTH overcome token unlocks? https://crypto.news/pyth-price-rebounds-21-this-week-but-can-pyth-overcome-token-unlocks/
 
 📰 recent catalysts:
    ⚠️ ZEC [CORE] — Crypto token’s wipeout shows scale of AI-hacking threat
    ⚠️ ZEC [CORE] — Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat
-   🔥 BONK [CORE] — Pepe (PEPE) Surges 35% and Burns $6 Million of Tokens While Ruvi (RUVI) Fills Ph
+   ⚠️ RAY [VERIFY] — The next DeFi drain could come from legacy contracts everyone forgot
+   ⚠️ RAY [VERIFY] — Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow
    🔥 WLD [CORE] — Why Traders Favor BlockDAG’s $0.00000044 Entry and $0.05 Buyback Over HYPE, WLD
    ⚠️ ALGO [CORE] — Crypto News Today: Bitcoin Outflows, Aztec Exploit, and Ethereum’s $12.7674 mill
    🔥 RED [VERIFY] — Red-letter week for FinTechs as $1bn raised across 17 deals
