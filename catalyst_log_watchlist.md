@@ -211,3 +211,7 @@
 2026-06-20 | REZ | 🔥 | RECENT | EigenLayer Commands 93.9% of Ethereum (ETH) Restaking at $15B as Ruvi (RUVI) Opens Phase 4 | https://www.openpr.com/news/4555181/eigenlayer-commands-93-9-of-ethereum-eth-restaking-at-15b-as
 2026-06-20 | SCRT | ⚠️ | RECENT | Axelar Network Confirms $4.7 Million Bridge Hack; Core Protocol Unaffected | https://bitcoinworld.co.in/axelar-network-bridge-hack-4-7-million/
 2026-06-20 | AXL | ⚠️ | RECENT | Axelar Network Confirms $4.7 Million Bridge Hack; Core Protocol Unaffected | https://bitcoinworld.co.in/axelar-network-bridge-hack-4-7-million/
+2026-06-21 | BONK | ⚠️ | RECENT | Bonk Price Prediction: Can BONK Recover After $1B in Solana Unlocks? | https://techbullion.com/bonk-price-prediction-can-bonk-recover-after-1b-in-solana-unlocks/
+2026-06-21 | RAY | 🔥 | RECENT | Crypto News Today: Solana Ranks No. 3 on Fortune, as Morgan Stanley ETF Moves Draw Focus | https://www.analyticsinsight.net/news/crypto-news-today-solana-ranks-no-3-on-fortune-as-morgan-stanley-etf-moves-draw-focus
+2026-06-21 | SNT | 🔥 | UPCOMING | XRP Price Prediction as CLARITY Act Nears Senate Vote While Pepeto Races Toward Binance Li | https://www.openpr.com/news/4556183/xrp-price-prediction-as-clarity-act-nears-senate-vote-while
+2026-06-21 | STX | 🔥 | UPCOMING | Hedera Price Prediction Stays Trapped Below $0.10 While Pepeto Presale Stacks $10.2 Millio | https://www.openpr.com/news/4556169/hedera-price-prediction-stays-trapped-below-0-10-while-pepeto
