@@ -220,3 +220,6 @@
 2026-06-22 | SCRT | ⚠️ | RECENT | Secret Network Hit by $4.67M Infinite-Mint Exploit as Axelar Bridge Flaw Goes Undetected f | https://easternherald.com/2026/06/21/secret-network-hack-axelar-bridge-exploit-4-67m/
 2026-06-22 | AXL | ⚠️ | RECENT | Secret Network Hit by $4.67M Infinite-Mint Exploit as Axelar Bridge Flaw Goes Undetected f | https://easternherald.com/2026/06/21/secret-network-hack-axelar-bridge-exploit-4-67m/
 2026-06-22 | AXL | ⚠️ | RECENT | Crypto News Today: Axelar Disables Secret Links After Exploit as AlphaPepe Becomes the Ris | https://www.openpr.com/news/4556246/crypto-news-today-axelar-disables-secret-links-after-exploit-as
+2026-06-22 | BONK | 🔥 | UPCOMING | Bonk Price Drops 92% From Its Peak While Pepeto Collects $10.3M Before Binance Listing | https://www.openpr.com/news/4556513/bonk-price-drops-92-from-its-peak-while-pepeto-collects-10-3m
+2026-06-22 | AAVE | 🔥 | RECENT | Ethereum Foundation faces mounting criticism over financial management and funding strateg | https://bitcoinworld.co.in/ethereum-foundation-funding-criticism/
+2026-06-22 | AVAX | 🔥 | UPCOMING | Binance New Listing RE Surges 90% on Day One as Pepeto Nears Exchange Launch With LINK and | https://www.openpr.com/news/4556460/binance-new-listing-re-surges-90-on-day-one-as-pepeto-nears
