@@ -107,22 +107,29 @@ def close_pos(bot, sym, gross, why, xts, frac=1.0):
     p["notional"] *= (1 - frac); p["half"] = True; return pnl, False
 
 def manage_exits(bot, which, sym, hi, lo, cl, xts):
-    """Apply the bot's exit rules to one position given the latest closed candle. Returns list of event strs."""
-    p = bot["pos"][sym]; e = p["entry"]; p["age"] += 1; p["peak"] = max(p["peak"], hi); ev = []
+    """Apply the bot's exit rules to one position given the latest closed candle. Returns detailed event strs:
+    🔴/🟢/🟡/⏳ SYM TIER — Bot X reason  $entry→$exit  (ret% , $pnl)."""
+    p = bot["pos"][sym]; e = p["entry"]; tier = p.get("tier", "")
+    p["age"] += 1; p["peak"] = max(p["peak"], hi); ev = []
+    def do(gross, why, frac=1.0, tag='🔴', extra=''):
+        pnl, _ = close_pos(bot, sym, gross, why, xts, frac=frac)
+        xpx = e * (1 + gross); basis = 'on ½' if frac < 1 else 'net'
+        ev.append(f"{tag} {sym} {tier} — Bot {which} {why}  ${e:.6g}→${xpx:.6g}  "
+                  f"({100*_net(gross):+.1f}% {basis}, ${pnl:+,.0f}){extra}")
     if which == 'A':      # mechanical +20% / -15% / 21d
-        if lo <= e*(1-STOP):      close_pos(bot, sym, -STOP, "stop -15%", xts);   ev.append(f"{sym} stop −15%")
-        elif hi >= e*1.20:        close_pos(bot, sym, 0.20, "tp +20%", xts);      ev.append(f"{sym} TP +20%")
-        elif p["age"] >= H:       close_pos(bot, sym, cl/e-1, "21d cap", xts);    ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+        if   lo <= e*(1-STOP): do(-STOP, "stop −15%")
+        elif hi >= e*1.20:     do(0.20, "TP +20%", tag='🟢')
+        elif p["age"] >= H:    do(cl/e-1, "21d time-exit", tag='⏳')
     else:                 # scale + trail
         if not p["half"]:
-            if lo <= e*(1-STOP):  close_pos(bot, sym, -STOP, "stop -15%", xts);          ev.append(f"{sym} stop −15%")
-            elif hi >= e*1.18:    close_pos(bot, sym, 0.18, "half +18%", xts, frac=0.5); ev.append(f"{sym} half +18%")
-            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap", xts);           ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+            if   lo <= e*(1-STOP): do(-STOP, "stop −15%")
+            elif hi >= e*1.18:     do(0.18, "booked ½ @ +18%", frac=0.5, tag='🟡', extra=' · riding rest → +27%')
+            elif p["age"] >= H:    do(cl/e-1, "21d time-exit", tag='⏳')
         else:             # remaining half: target +27% / 20% trail / catastrophe / time
-            if hi >= e*1.27:      close_pos(bot, sym, 0.27, "runner +27%", xts);   ev.append(f"{sym} runner +27%")
-            elif cl <= p["peak"]*0.80: close_pos(bot, sym, cl/e-1, "trail 20%", xts);ev.append(f"{sym} trail {100*(cl/e-1):+.0f}%")
-            elif lo <= e*(1-STOP):close_pos(bot, sym, -STOP, "stop -15%", xts);     ev.append(f"{sym} stop −15%")
-            elif p["age"] >= H:   close_pos(bot, sym, cl/e-1, "21d cap", xts);      ev.append(f"{sym} 21d cap {100*(cl/e-1):+.0f}%")
+            if   hi >= e*1.27:         do(0.27, "runner +27%", tag='🟢')
+            elif cl <= p["peak"]*0.80: do(cl/e-1, "trail stop", tag='🔴')
+            elif lo <= e*(1-STOP):     do(-STOP, "stop −15%")
+            elif p["age"] >= H:        do(cl/e-1, "21d time-exit", tag='⏳')
     return ev
 
 def main():
@@ -194,8 +201,7 @@ def main():
     msg = ["📝 DUSK PAPER (4h step) — " + reg,
            ("📈 NEW TRADES:\n" + "\n".join(entries)) if entries else "📈 NEW TRADES: none",
            "⛔ SKIP (filter): " + (", ".join(skips) if skips else "none"),
-           "Bot A exits: " + (", ".join(exits["A"]) if exits["A"] else "none"),
-           "Bot B exits: " + (", ".join(exits["B"]) if exits["B"] else "none"),
+           ("🔻 EXITS:\n" + "\n".join(exits["A"] + exits["B"])) if (exits["A"] or exits["B"]) else "🔻 EXITS: none",
            line("A", "Bot A mech  +20/−15"),
            line("B", "Bot B scale ½@18/trail"),
            "(paper — virtual money, real prices. Not financial advice.)"]
