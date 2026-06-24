@@ -1,15 +1,39 @@
 {
  "A": {
   "bal": 25000.0,
-  "pos": {},
+  "pos": {
+   "ALGO": {
+    "entry": 0.0928,
+    "notional": 1666.6666666666667,
+    "ts": 1782216000000,
+    "age": 1,
+    "peak": 0.0942,
+    "half": false,
+    "tier": "CORE"
+   }
+  },
   "closed": [],
-  "last_entry": {}
+  "last_entry": {
+   "ALGO": 1782216000000
+  }
  },
  "B": {
   "bal": 25000.0,
-  "pos": {},
+  "pos": {
+   "ALGO": {
+    "entry": 0.0928,
+    "notional": 1666.6666666666667,
+    "ts": 1782216000000,
+    "age": 1,
+    "peak": 0.0942,
+    "half": false,
+    "tier": "CORE"
+   }
+  },
   "closed": [],
-  "last_entry": {}
+  "last_entry": {
+   "ALGO": 1782216000000
+  }
  },
- "candle": 1781899200
+ "candle": 1782244800
 }
