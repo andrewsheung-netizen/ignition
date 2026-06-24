@@ -6,7 +6,7 @@
     "entry": 0.0928,
     "notional": 1666.6666666666667,
     "ts": 1782216000000,
-    "age": 2,
+    "age": 3,
     "peak": 0.0942,
     "half": false,
     "tier": "CORE"
@@ -15,7 +15,7 @@
     "entry": 0.0374,
     "notional": 1666.6666666666667,
     "ts": 1782273600000,
-    "age": 0,
+    "age": 1,
     "peak": 0.0374,
     "half": false,
     "tier": "VERIFY"
@@ -34,7 +34,7 @@
     "entry": 0.0928,
     "notional": 1666.6666666666667,
     "ts": 1782216000000,
-    "age": 2,
+    "age": 3,
     "peak": 0.0942,
     "half": false,
     "tier": "CORE"
@@ -43,7 +43,7 @@
     "entry": 0.0374,
     "notional": 1666.6666666666667,
     "ts": 1782273600000,
-    "age": 0,
+    "age": 1,
     "peak": 0.0374,
     "half": false,
     "tier": "VERIFY"
@@ -55,5 +55,5 @@
    "POLYX": 1782273600000
   }
  },
- "candle": 1782288000
+ "candle": 1782316800
 }
