@@ -160,9 +160,19 @@ def main():
             if not fund_ok: why.append(f"funding {fv*100:+.3f}%")
             if not reg_ok:  why.append("ETH/BTC>MA")
             skips.append(f"{sym} ({', '.join(why)})"); continue
+        opened = []
         for bk in ("A", "B"):
-            if len(s[bk]["pos"]) < MAXPOS: open_pos(s[bk], sym, close, ts, tier)
-        entries.append(f"{sym} @{close:.6g} (vol {volx:.1f}x)")
+            if len(s[bk]["pos"]) < MAXPOS: open_pos(s[bk], sym, close, ts, tier); opened.append(bk)
+        if opened:
+            stop_px = close * (1 - STOP)
+            size_str = " · ".join(f"{bk} ${s[bk]['pos'][sym]['notional']:,.0f}" for bk in opened)
+            fstr = 'n/a' if fv is None else f"{fv*100:+.3f}%/8h"
+            entries.append(
+                f"🟢 {sym} {tier} @ ${close:.6g}  (vol {volx:.1f}x · funding {fstr})\n"
+                f"     position ~{RISK/STOP*100:.1f}% of capital  ·  stop −15% = ${stop_px:.6g}\n"
+                f"     Bot A: take-profit +20% = ${close*1.20:.6g}\n"
+                f"     Bot B: ½ at +18% = ${close*1.18:.6g}, trail rest → +27% = ${close*1.27:.6g}\n"
+                f"     size: {size_str}")
 
     s["candle"] = (int(datetime.datetime.now(datetime.timezone.utc).timestamp())//14400)*14400
     save_state(s)
@@ -182,8 +192,8 @@ def main():
                 f" · {len(b['pos'])} open · {len(b['closed'])} closed")
     reg = "ETH/BTC<MA ✓ (trade)" if ethbtc_off else "ETH/BTC>MA ✗ (skip)" if ethbtc_off is False else "ETH/BTC n/a"
     msg = ["📝 DUSK PAPER (4h step) — " + reg,
-           "TRADE entries: " + (", ".join(entries) if entries else "none"),
-           "SKIP (filter): " + (", ".join(skips) if skips else "none"),
+           ("📈 NEW TRADES:\n" + "\n".join(entries)) if entries else "📈 NEW TRADES: none",
+           "⛔ SKIP (filter): " + (", ".join(skips) if skips else "none"),
            "Bot A exits: " + (", ".join(exits["A"]) if exits["A"] else "none"),
            "Bot B exits: " + (", ".join(exits["B"]) if exits["B"] else "none"),
            line("A", "Bot A mech  +20/−15"),
