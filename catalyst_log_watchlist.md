@@ -241,3 +241,9 @@
 2026-06-24 | STX | 🔥 | RECENT | “For Founders, Singapore Is Less a Destination and More a Launchpad”: Lessons from FM Sing | https://www.financemagnates.com/fm-events/for-founders-singapore-is-less-a-destination-and-more-a-launchpad-lessons-from-fm-singapore-summit-2026/
 2026-06-25 | SEI | 🔥 | RECENT | Sei (SEI) Price Outlook 2026–2030: Can the Giga Upgrade Fuel a Sustained Rally? | https://bitcoinworld.co.in/sei-price-prediction-2026-2030-giga-upgrade-4/
 2026-06-25 | SEI | 🔥 | UPCOMING | Sei (SEI) Price Prediction 2026, 2027-2030: Will the Sei Giga Upgrade Trigger a Bullish Br | https://coinpedia.org/price-prediction/sei-price-prediction/
+2026-06-25 | ZEC | ⚠️ | UPCOMING | Kalshi launches Zcash and SHIB perps as lawsuit heats up | https://crypto.news/kalshi-launches-zcash-and-shib-perps-as-lawsuit-heats-up/
+2026-06-25 | AAVE | ⚠️ | RECENT | Standard Chartered predicts 5,000% upside for struggling token | https://finance.yahoo.com/markets/crypto/articles/standard-chartered-predicts-5-000-174500073.html
+2026-06-25 | AAVE | 🔥 | UPCOMING | Standard Chartered Extends Tokenization Thesis to Aave Lending | https://us.headtopics.com/news/standard-chartered-extends-tokenization-thesis-to-aave-84865465
+2026-06-25 | FORM | 🔥 | UPCOMING | ConectivGlobal Unveils Expanded Platform with Launch of ConeqtX and MyLife Wellness | https://www.manilatimes.net/2026/06/25/tmt-newswire/globenewswire/conectivglobal-unveils-expanded-platform-with-launch-of-coneqtx-and-mylife-wellness/2372395
+2026-06-25 | FORM | 🔥 | UPCOMING | ICE And OKX Form Joint Venture To Connect NYSE Infrastructure With 120 Million Crypto User | https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse
+2026-06-25 | PORTAL | ⚠️ | RECENT | Own A Pet Dog In Gurugram? Registration Is Mandatory Again As Dog Bite Incidents Rise | https://www.news18.com/india/own-a-pet-dog-in-gurugram-registration-is-mandatory-again-as-dog-bite-incidents-rise-ws-el-10171583.html
