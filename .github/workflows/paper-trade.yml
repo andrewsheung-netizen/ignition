@@ -1,7 +1,7 @@
 name: paper-trade
 on:
   schedule:
-    - cron: '7,17,27 */4 * * *'  # a few min after each 4h candle close (offset from ignition-scan)
+    - cron: '*/30 * * * *'       # every 30 min: live exit-checks (15m candles) + entries on each new 4h close
   workflow_dispatch:            # run manually from the Actions tab
 permissions:
   contents: write               # needed to commit paper_state.json back so balances persist
