@@ -6,15 +6,55 @@
     "entry": 0.0928,
     "notional": 1666.6666666666667,
     "ts": 1782216000000,
-    "age": 1,
+    "age": 4,
     "peak": 0.0942,
     "half": false,
     "tier": "CORE"
+   },
+   "POLYX": {
+    "entry": 0.0374,
+    "notional": 1666.6666666666667,
+    "ts": 1782273600000,
+    "age": 2,
+    "peak": 0.0374,
+    "half": false,
+    "tier": "VERIFY"
+   },
+   "PENDLE": {
+    "entry": 1.227,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 1.227,
+    "half": false,
+    "tier": "VERIFY"
+   },
+   "STX": {
+    "entry": 0.1694,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 0.1694,
+    "half": false,
+    "tier": "WATCH"
+   },
+   "SEI": {
+    "entry": 0.05343,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 0.05343,
+    "half": false,
+    "tier": "WATCH"
    }
   },
   "closed": [],
   "last_entry": {
-   "ALGO": 1782216000000
+   "ALGO": 1782216000000,
+   "POLYX": 1782273600000,
+   "PENDLE": 1782316800000,
+   "STX": 1782316800000,
+   "SEI": 1782316800000
   }
  },
  "B": {
@@ -24,16 +64,56 @@
     "entry": 0.0928,
     "notional": 1666.6666666666667,
     "ts": 1782216000000,
-    "age": 1,
+    "age": 4,
     "peak": 0.0942,
     "half": false,
     "tier": "CORE"
+   },
+   "POLYX": {
+    "entry": 0.0374,
+    "notional": 1666.6666666666667,
+    "ts": 1782273600000,
+    "age": 2,
+    "peak": 0.0374,
+    "half": false,
+    "tier": "VERIFY"
+   },
+   "PENDLE": {
+    "entry": 1.227,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 1.227,
+    "half": false,
+    "tier": "VERIFY"
+   },
+   "STX": {
+    "entry": 0.1694,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 0.1694,
+    "half": false,
+    "tier": "WATCH"
+   },
+   "SEI": {
+    "entry": 0.05343,
+    "notional": 1666.6666666666667,
+    "ts": 1782316800000,
+    "age": 0,
+    "peak": 0.05343,
+    "half": false,
+    "tier": "WATCH"
    }
   },
   "closed": [],
   "last_entry": {
-   "ALGO": 1782216000000
+   "ALGO": 1782216000000,
+   "POLYX": 1782273600000,
+   "PENDLE": 1782316800000,
+   "STX": 1782316800000,
+   "SEI": 1782316800000
   }
  },
- "candle": 1782244800
+ "candle": 1782331200
 }
