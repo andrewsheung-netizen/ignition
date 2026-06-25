@@ -239,3 +239,5 @@
 2026-06-24 | WLD | 🔥 | RECENT | Robinhood lists Worldcoin as Sam Altman faces fresh scrutiny | https://crypto.news/robinhood-lists-worldcoin-as-sam-altman-faces-fresh-scrutiny/
 2026-06-24 | ALGO | 🔥 | UPCOMING | Trump launches quantum race as crypto faces Q-Day threat | https://crypto.news/trump-launches-quantum-race-as-crypto-faces-q-day-threat/
 2026-06-24 | STX | 🔥 | RECENT | “For Founders, Singapore Is Less a Destination and More a Launchpad”: Lessons from FM Sing | https://www.financemagnates.com/fm-events/for-founders-singapore-is-less-a-destination-and-more-a-launchpad-lessons-from-fm-singapore-summit-2026/
+2026-06-25 | SEI | 🔥 | RECENT | Sei (SEI) Price Outlook 2026–2030: Can the Giga Upgrade Fuel a Sustained Rally? | https://bitcoinworld.co.in/sei-price-prediction-2026-2030-giga-upgrade-4/
+2026-06-25 | SEI | 🔥 | UPCOMING | Sei (SEI) Price Prediction 2026, 2027-2030: Will the Sei Giga Upgrade Trigger a Bullish Br | https://coinpedia.org/price-prediction/sei-price-prediction/
