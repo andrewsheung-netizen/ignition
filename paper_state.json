@@ -9,43 +9,48 @@
     "age": 4,
     "peak": 0.0942,
     "half": false,
-    "tier": "CORE"
+    "tier": "CORE",
+    "last_check": 1782451800000
    },
    "POLYX": {
     "entry": 0.0374,
     "notional": 1666.6666666666667,
     "ts": 1782273600000,
     "age": 2,
-    "peak": 0.0374,
+    "peak": 0.0378,
     "half": false,
-    "tier": "VERIFY"
+    "tier": "VERIFY",
+    "last_check": 1782451800000
    },
    "PENDLE": {
     "entry": 1.227,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 1.227,
+    "peak": 1.304,
     "half": false,
-    "tier": "VERIFY"
+    "tier": "VERIFY",
+    "last_check": 1782451800000
    },
    "STX": {
     "entry": 0.1694,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 0.1694,
+    "peak": 0.1762,
     "half": false,
-    "tier": "WATCH"
+    "tier": "WATCH",
+    "last_check": 1782451800000
    },
    "SEI": {
     "entry": 0.05343,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 0.05343,
+    "peak": 0.05977,
     "half": false,
-    "tier": "WATCH"
+    "tier": "WATCH",
+    "last_check": 1782451800000
    }
   },
   "closed": [],
@@ -67,43 +72,48 @@
     "age": 4,
     "peak": 0.0942,
     "half": false,
-    "tier": "CORE"
+    "tier": "CORE",
+    "last_check": 1782451800000
    },
    "POLYX": {
     "entry": 0.0374,
     "notional": 1666.6666666666667,
     "ts": 1782273600000,
     "age": 2,
-    "peak": 0.0374,
+    "peak": 0.0378,
     "half": false,
-    "tier": "VERIFY"
+    "tier": "VERIFY",
+    "last_check": 1782451800000
    },
    "PENDLE": {
     "entry": 1.227,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 1.227,
+    "peak": 1.304,
     "half": false,
-    "tier": "VERIFY"
+    "tier": "VERIFY",
+    "last_check": 1782451800000
    },
    "STX": {
     "entry": 0.1694,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 0.1694,
+    "peak": 0.1762,
     "half": false,
-    "tier": "WATCH"
+    "tier": "WATCH",
+    "last_check": 1782451800000
    },
    "SEI": {
     "entry": 0.05343,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 0.05343,
+    "peak": 0.05977,
     "half": false,
-    "tier": "WATCH"
+    "tier": "WATCH",
+    "last_check": 1782451800000
    }
   },
   "closed": [],
@@ -115,5 +125,7 @@
    "SEI": 1782316800000
   }
  },
- "candle": 1782331200
+ "candle": 1782331200,
+ "last_4h": 1782446400,
+ "hb_date": "2026-06-26"
 }
