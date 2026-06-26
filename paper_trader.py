@@ -148,7 +148,7 @@ def exit_pass(ex, s):
         for sym in list(s[bk]['pos']):
             df = fine.get(sym)
             if df is None: continue
-            lastc = s[bk]['pos'][sym]['last_check']; closed = False
+            p0 = s[bk]['pos'][sym]; lastc = p0.get('last_check', p0.get('ts', 0)); closed = False
             for _, row in df.iterrows():
                 cts = int(row['ts'])
                 if cts <= lastc: continue
@@ -204,8 +204,18 @@ def heartbeat(ex, s):
          + "\n(paper — virtual money, real prices. Not financial advice.)")
     s['hb_date'] = today
 
+def _migrate(s):
+    """Backfill fields on positions created by older versions (e.g. missing 'last_check')."""
+    for bk in ('A', 'B'):
+        for p in s.get(bk, {}).get('pos', {}).values():
+            p.setdefault('ts', 0); p.setdefault('entry', p.get('entry', 0.0))
+            p.setdefault('last_check', p.get('ts', 0)); p.setdefault('peak', p.get('entry', 0.0))
+            p.setdefault('half', False); p.setdefault('tier', '')
+    s.setdefault('last_4h', 0); s.setdefault('hb_date', "")
+    return s
+
 def main():
-    ex = get_exchange(); s = load_state(); watch = load_watch()
+    ex = get_exchange(); s = _migrate(load_state()); watch = load_watch()
     exit_pass(ex, s)          # live exits (every run, 15m, catch-up)
     entry_pass(ex, s, watch)  # live entries (only on a new closed 4h candle)
     heartbeat(ex, s)          # once-daily equity
