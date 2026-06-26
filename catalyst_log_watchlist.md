@@ -250,3 +250,9 @@
 2026-06-26 | INJ | 🔥 | RECENT | Flash News: OKX Wallet Pioneers the Future of DeFi with Injective ... | https://ng.shotoe.com/okx-st_494762/news/flash-news-okx-wallet-pioneers-the-future-of-defi-with-injective-sn_4704369/
 2026-06-26 | AVAX | 🔥 | RECENT | Archax Adds tGBP Access For Tokenised RWAs | http://www.mondovisione.com/media-and-resources/news/archax-adds-tgbp-access-for-tokenised-rwas-2026625/
 2026-06-26 | RED | 🔥 | RECENT | Talentir: Austrian-Swiss Startup Raises €4 Million for Global Payout Infrastructure | https://www.trendingtopics.eu/talentir-austrian-swiss-startup-raises-e4-million-for-global-payout-infrastructure/
+2026-06-26 | AAVE | 🔥 | UPCOMING | Kraken To Buy 15% Stake In DeFi Lender Aave | https://biztoc.com/x/01629de094c72783
+2026-06-26 | AAVE | 🔥 | UPCOMING | Kraken in Advanced Talks to Acquire 15% Stake in DeFi Lender Aave | https://bitcoinworld.co.in/kraken-aave-stake-talks/
+2026-06-26 | AAVE | 🔥 | RECENT | Kraken eyes 15% stake in DeFi lender Aave in deal valuing protocol at $385 million | https://us.headtopics.com/news/kraken-eyes-15-stake-in-defi-lender-aave-in-deal-valuing-84919296
+2026-06-26 | AAVE | 🔥 | UPCOMING | Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation | https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation
+2026-06-26 | SNT | 🔥 | UPCOMING | XRP News Puts CLARITY Act One Vote Away While Pepeto Presale Builds Toward Expected Binanc | https://www.openpr.com/news/4561247/xrp-news-puts-clarity-act-one-vote-away-while-pepeto-presale
+2026-06-26 | STX | 🔥 | UPCOMING | Crypto Update Shows BTC Below $60K While Pepeto Presale Stacks $10.3 Million Before Listin | https://www.openpr.com/news/4561264/crypto-update-shows-btc-below-60k-while-pepeto-presale-stacks
