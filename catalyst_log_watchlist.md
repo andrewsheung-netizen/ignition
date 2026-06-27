@@ -256,3 +256,5 @@
 2026-06-26 | AAVE | 🔥 | UPCOMING | Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation | https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation
 2026-06-26 | SNT | 🔥 | UPCOMING | XRP News Puts CLARITY Act One Vote Away While Pepeto Presale Builds Toward Expected Binanc | https://www.openpr.com/news/4561247/xrp-news-puts-clarity-act-one-vote-away-while-pepeto-presale
 2026-06-26 | STX | 🔥 | UPCOMING | Crypto Update Shows BTC Below $60K While Pepeto Presale Stacks $10.3 Million Before Listin | https://www.openpr.com/news/4561264/crypto-update-shows-btc-below-60k-while-pepeto-presale-stacks
+2026-06-27 | AVAX | 🔥 | UPCOMING | Crypto Update: BNB and AVAX Hold Key Levels While Pepeto Presale Races Toward Binance List | https://www.openpr.com/news/4561632/crypto-update-bnb-and-avax-hold-key-levels-while-pepeto-presale
+2026-06-27 | PORTAL | 🔥 | UPCOMING | Akemona Launches CapMarkTM AI Agent as Part of Its AI Investment Banker Platform | https://financialit.net/news/artificial-intelligence/akemona-launches-capmarktm-ai-agent-part-its-ai-investment-banker
