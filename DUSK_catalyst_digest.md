@@ -5,16 +5,15 @@
 
 🔭 UPCOMING CATALYSTS (watchlist):
    ⚠️ ZEC [CORE] — Kalshi launches Zcash and SHIB perps as lawsuit heats up https://crypto.news/kalshi-launches-zcash-and-shib-perps-as-lawsuit-heats-up/
+   🔥 AAVE [CORE] — Is Kraken in talks to buy 15% stake in Aave? The DeFi lender says no. https://ca.finance.yahoo.com/video/kraken-talks-buy-15-stake-163000525.html
+   🔥 AAVE [CORE] — Midas launches mGLOBAL as collateral on Aave Horizon https://cfotech.asia/story/midas-launches-mglobal-as-collateral-on-aave-horizon
    🔥 AVAX [CORE] — Crypto Update: BNB and AVAX Hold Key Levels While Pepeto Presale Races Toward Bi https://www.openpr.com/news/4561632/crypto-update-bnb-and-avax-hold-key-levels-while-pepeto-presale
-   🔥 PORTAL [VERIFY] — Akemona Launches CapMarkTM AI Agent as Part of Its AI Investment Banker Platform https://financialit.net/news/artificial-intelligence/akemona-launches-capmarktm-ai-agent-part-its-ai-investment-banker
-   ⚠️ PORTAL [VERIFY] — Pyra to shut down after Drift exploit derails recovery efforts https://crypto.news/pyra-to-shut-down-after-drift-exploit-derails-recovery-efforts/
-   🔥 PORTAL [VERIFY] — Ignite Expands Launch Access Infrastructure for Upcoming LITHO TGE Participation https://techbullion.com/ignite-expands-launch-access-infrastructure-for-upcoming-litho-tge-participation/
+   🔥 XAI [VERIFY] — OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limit https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
 
 📰 recent catalysts:
    ⚠️ ZEC [CORE] — Crypto token’s wipeout shows scale of AI-hacking threat
    ⚠️ ZEC [CORE] — Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat
-   ⚠️ BONK [CORE] — Bonk Price Prediction: Can BONK Recover After $1B in Solana Unlocks?
-   🔥 WLD [CORE] — Robinhood lists Worldcoin as Sam Altman faces fresh scrutiny
-   🔥 RED [VERIFY] — Talentir: Austrian-Swiss Startup Raises €4 Million for Global Payout Infrastruct
+   🔥 JUP [CORE] — Jupiter Adds Support for Memory ETF ‘DRAM,’ Bridging DeFi and Semiconductor Mark
+   🔥 PROS [WATCH] — OneGrowth 2026: Shared AI Token Era Ahead China Telecom Global Partner Conferenc
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.

@@ -258,3 +258,8 @@
 2026-06-26 | STX | 🔥 | UPCOMING | Crypto Update Shows BTC Below $60K While Pepeto Presale Stacks $10.3 Million Before Listin | https://www.openpr.com/news/4561264/crypto-update-shows-btc-below-60k-while-pepeto-presale-stacks
 2026-06-27 | AVAX | 🔥 | UPCOMING | Crypto Update: BNB and AVAX Hold Key Levels While Pepeto Presale Races Toward Binance List | https://www.openpr.com/news/4561632/crypto-update-bnb-and-avax-hold-key-levels-while-pepeto-presale
 2026-06-27 | PORTAL | 🔥 | UPCOMING | Akemona Launches CapMarkTM AI Agent as Part of Its AI Investment Banker Platform | https://financialit.net/news/artificial-intelligence/akemona-launches-capmarktm-ai-agent-part-its-ai-investment-banker
+2026-06-27 | AAVE | 🔥 | UPCOMING | Is Kraken in talks to buy 15% stake in Aave? The DeFi lender says no. | https://ca.finance.yahoo.com/video/kraken-talks-buy-15-stake-163000525.html
+2026-06-27 | AAVE | 🔥 | UPCOMING | Midas launches mGLOBAL as collateral on Aave Horizon | https://cfotech.asia/story/midas-launches-mglobal-as-collateral-on-aave-horizon
+2026-06-27 | JUP | 🔥 | RECENT | Jupiter Adds Support for Memory ETF ‘DRAM,’ Bridging DeFi and Semiconductor Markets | https://bitcoinworld.co.in/jupiter-dram-etf-trading-support/
+2026-06-27 | XAI | 🔥 | UPCOMING | OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview | https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
+2026-06-27 | PROS | 🔥 | RECENT | OneGrowth 2026: Shared AI Token Era Ahead China Telecom Global Partner Conference Held | https://thearabianpost.com/onegrowth-2026-shared-ai-token-era-ahead-china-telecom-global-partner-conference-held/
