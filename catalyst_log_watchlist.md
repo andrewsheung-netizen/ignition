@@ -263,3 +263,5 @@
 2026-06-27 | JUP | 🔥 | RECENT | Jupiter Adds Support for Memory ETF ‘DRAM,’ Bridging DeFi and Semiconductor Markets | https://bitcoinworld.co.in/jupiter-dram-etf-trading-support/
 2026-06-27 | XAI | 🔥 | UPCOMING | OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview | https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov
 2026-06-27 | PROS | 🔥 | RECENT | OneGrowth 2026: Shared AI Token Era Ahead China Telecom Global Partner Conference Held | https://thearabianpost.com/onegrowth-2026-shared-ai-token-era-ahead-china-telecom-global-partner-conference-held/
+2026-06-28 | AAVE | 🔥 | RECENT | Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation | https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation
+2026-06-28 | INJ | 🔥 | RECENT | Canary ETF Filing Sends INJ Higher: Can Injective Price Reach $7 Next? | https://coinpedia.org/price-analysis/canary-etf-filing-sends-inj-higher-can-injective-price-reach-7-next/
