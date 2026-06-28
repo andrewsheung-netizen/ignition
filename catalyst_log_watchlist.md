@@ -265,3 +265,6 @@
 2026-06-27 | PROS | 🔥 | RECENT | OneGrowth 2026: Shared AI Token Era Ahead China Telecom Global Partner Conference Held | https://thearabianpost.com/onegrowth-2026-shared-ai-token-era-ahead-china-telecom-global-partner-conference-held/
 2026-06-28 | AAVE | 🔥 | RECENT | Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation | https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation
 2026-06-28 | INJ | 🔥 | RECENT | Canary ETF Filing Sends INJ Higher: Can Injective Price Reach $7 Next? | https://coinpedia.org/price-analysis/canary-etf-filing-sends-inj-higher-can-injective-price-reach-7-next/
+2026-06-28 | BONK | ⚠️ | RECENT | Bonk Price Prediction: Can BONK Hold Through $1 Billion in Solana Unlocks While Pepeto Pre | https://www.openpr.com/news/4562570/bonk-price-prediction-can-bonk-hold-through-1-billion-in-solana
+2026-06-28 | AAVE | 🔥 | UPCOMING | Kraken Aave Stake Talks Expose DeFi Pricing Paradox: Revenue Flows to Token, Not Equity | https://www.techtimes.com/articles/319156/20260627/kraken-aave-stake-talks-expose-defi-pricing-paradox-revenue-flows-token-not-equity.htm
+2026-06-28 | STX | 🔥 | UPCOMING | Best Crypto to Buy in 2026: $11 Billion in Options Expire as Pepeto Presale Stacks $10.3M  | https://www.openpr.com/news/4562580/best-crypto-to-buy-in-2026-11-billion-in-options-expire-as-pepeto
