@@ -271,3 +271,5 @@
 2026-06-29 | ZEC | 🔥 | RECENT | Zcash Founder Rails Against Coinbase | https://u.today/zcash-founder-rails-against-coinbase
 2026-06-29 | ZEC | 🔥 | RECENT | Zcash Price Prediction: ETF Speculation Lifts ZEC While AlphaPepe Builds the 100x Watchlis | https://www.openpr.com/news/4562759/zcash-price-prediction-etf-speculation-lifts-zec-while
 2026-06-29 | PROS | ⚠️ | UPCOMING | 399 Blog Posts To Learn About Growth Hacking | https://hackernoon.com/399-blog-posts-to-learn-about-growth-hacking
+2026-06-29 | AAVE | 🔥 | UPCOMING | Kraken Eyes Aave at $385 Million as New Cryptocurrency Pepeto Nears Listing With $10.3 Mil | https://www.openpr.com/news/4562992/kraken-eyes-aave-at-385-million-as-new-cryptocurrency-pepeto
+2026-06-29 | PORTAL | ⚠️ | UPCOMING | 331 Blog Posts To Learn About Hacking | https://hackernoon.com/331-blog-posts-to-learn-about-hacking
