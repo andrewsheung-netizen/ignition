@@ -10,7 +10,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -20,17 +20,17 @@
     "peak": 0.0382,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "PENDLE": {
     "entry": 1.227,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 1.304,
+    "peak": 1.337,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "STX": {
     "entry": 0.1694,
@@ -40,7 +40,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "SEI": {
     "entry": 0.05343,
@@ -50,7 +50,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    }
   },
   "closed": [],
@@ -73,7 +73,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -83,17 +83,17 @@
     "peak": 0.0382,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "PENDLE": {
     "entry": 1.227,
     "notional": 1666.6666666666667,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 1.304,
+    "peak": 1.337,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "STX": {
     "entry": 0.1694,
@@ -103,7 +103,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    },
    "SEI": {
     "entry": 0.05343,
@@ -113,7 +113,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782675900000
+    "last_check": 1782736200000
    }
   },
   "closed": [],
@@ -126,6 +126,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1782676800,
- "hb_date": "2026-06-28"
+ "last_4h": 1782734400,
+ "hb_date": "2026-06-29"
 }
