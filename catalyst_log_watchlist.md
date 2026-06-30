@@ -275,3 +275,7 @@
 2026-06-29 | PORTAL | ⚠️ | UPCOMING | 331 Blog Posts To Learn About Hacking | https://hackernoon.com/331-blog-posts-to-learn-about-hacking
 2026-06-30 | ZEC | ⚠️ | RECENT | As Exchanges Delist Monero, GhostSwap Keeps It Swappable – No KYC | https://cryptonews.com/news/as-exchanges-delist-monero-ghostswap-keeps-it-swappable-no-kyc/
 2026-06-30 | GALA | 🔥 | UPCOMING | MEXC Launches TradFi Gala With 1,000,000 USDT Reward Pool | https://mpost.io/mexc-launches-tradfi-gala-with-1000000-usdt-reward-pool/
+2026-06-30 | AAVE | ⚠️ | UPCOMING | Midas and Fasanara Launch mGLOBAL on Aave to Unlock On-Chain Private Credit Liquidity | https://thefintechtimes.com/midas-and-fasanara-launch-mglobal-on-aave-to-unlock-on-chain-private-credit-liquidity/
+2026-06-30 | AAVE | 🔥 | RECENT | Kraken Reportedly Eyes Aave Acquisition in $385M Deal | https://www.tekedia.com/kraken-reportedly-eyes-aave-acquisition-in-385m-deal/
+2026-06-30 | XVG | 🔥 | RECENT | Binance Founder CZ Says Political Intervention Forced Withdrawal of MiCA License Applicati | https://bitcoinworld.co.in/binance-cz-political-intervention-mica-application-greece/
+2026-06-30 | SNT | 🔥 | RECENT | Indiana Grants Bitcoin Legal Tender Status with New Pro-Crypto Law | https://www.webpronews.com/indiana-grants-bitcoin-legal-tender-status-with-new-pro-crypto-law/
