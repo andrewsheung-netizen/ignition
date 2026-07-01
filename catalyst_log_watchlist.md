@@ -279,3 +279,4 @@
 2026-06-30 | AAVE | 🔥 | RECENT | Kraken Reportedly Eyes Aave Acquisition in $385M Deal | https://www.tekedia.com/kraken-reportedly-eyes-aave-acquisition-in-385m-deal/
 2026-06-30 | XVG | 🔥 | RECENT | Binance Founder CZ Says Political Intervention Forced Withdrawal of MiCA License Applicati | https://bitcoinworld.co.in/binance-cz-political-intervention-mica-application-greece/
 2026-06-30 | SNT | 🔥 | RECENT | Indiana Grants Bitcoin Legal Tender Status with New Pro-Crypto Law | https://www.webpronews.com/indiana-grants-bitcoin-legal-tender-status-with-new-pro-crypto-law/
+2026-07-01 | PORTAL | 🔥 | UPCOMING | Auddia Launches Discovr Radio Monthly Subscription Model, Advancing Shift Toward Recurring | https://www.manilatimes.net/2026/06/30/tmt-newswire/globenewswire/auddia-launches-discovr-radio-monthly-subscription-model-advancing-shift-toward-recurring-revenue/2375650
