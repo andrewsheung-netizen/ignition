@@ -1,6 +1,6 @@
 {
  "A": {
-  "bal": 25000.0,
+  "bal": 25330.13333333333,
   "pos": {
    "ALGO": {
     "entry": 0.0928,
@@ -10,7 +10,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -20,17 +20,7 @@
     "peak": 0.0384,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782945000000
-   },
-   "PENDLE": {
-    "entry": 1.227,
-    "notional": 1666.6666666666667,
-    "ts": 1782316800000,
-    "age": 0,
-    "peak": 1.44,
-    "half": false,
-    "tier": "VERIFY",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "STX": {
     "entry": 0.1694,
@@ -40,7 +30,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -50,10 +40,19 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    }
   },
-  "closed": [],
+  "closed": [
+   {
+    "sym": "PENDLE",
+    "ret": 19.81,
+    "pnl": 330.13,
+    "why": "TP +20%",
+    "xts": 1782955800000,
+    "entry_ts": 1782316800000
+   }
+  ],
   "last_entry": {
    "ALGO": 1782216000000,
    "POLYX": 1782273600000,
@@ -63,7 +62,7 @@
   }
  },
  "B": {
-  "bal": 25000.0,
+  "bal": 25148.426666666666,
   "pos": {
    "ALGO": {
     "entry": 0.0928,
@@ -73,7 +72,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -83,17 +82,17 @@
     "peak": 0.0384,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "PENDLE": {
     "entry": 1.227,
-    "notional": 1666.6666666666667,
+    "notional": 833.3333333333334,
     "ts": 1782316800000,
     "age": 0,
-    "peak": 1.44,
-    "half": false,
+    "peak": 1.519,
+    "half": true,
     "tier": "VERIFY",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "STX": {
     "entry": 0.1694,
@@ -103,7 +102,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -113,10 +112,19 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1782945000000
+    "last_check": 1782986400000
    }
   },
-  "closed": [],
+  "closed": [
+   {
+    "sym": "PENDLE",
+    "ret": 17.81,
+    "pnl": 148.43,
+    "why": "booked \u00bd @ +18%",
+    "xts": 1782946800000,
+    "entry_ts": 1782316800000
+   }
+  ],
   "last_entry": {
    "ALGO": 1782216000000,
    "POLYX": 1782273600000,
@@ -126,6 +134,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1782936000,
- "hb_date": "2026-07-01"
+ "last_4h": 1782979200,
+ "hb_date": "2026-07-02"
 }
