@@ -10,7 +10,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -20,7 +20,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "STX": {
     "entry": 0.1694,
@@ -30,7 +30,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "SEI": {
     "entry": 0.05343,
@@ -40,7 +40,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    }
   },
   "closed": [
@@ -72,7 +72,7 @@
     "peak": 0.0942,
     "half": false,
     "tier": "CORE",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "POLYX": {
     "entry": 0.0374,
@@ -82,7 +82,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "PENDLE": {
     "entry": 1.227,
@@ -92,7 +92,7 @@
     "peak": 1.55,
     "half": true,
     "tier": "VERIFY",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "STX": {
     "entry": 0.1694,
@@ -102,7 +102,7 @@
     "peak": 0.1762,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    },
    "SEI": {
     "entry": 0.05343,
@@ -112,7 +112,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1783039500000
+    "last_check": 1783055700000
    }
   },
   "closed": [
@@ -134,6 +134,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1783036800,
+ "last_4h": 1783051200,
  "hb_date": "2026-07-03"
 }
