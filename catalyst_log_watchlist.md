@@ -300,3 +300,6 @@
 2026-07-04 | FORM | 🔥 | UPCOMING | Bitget Launches TradFi 101 to Prepare Users for the Universal Exchange Era | https://www.riauone.com/global/Bitget-Launches-TradFi-101-to-Prepare-Users-for-the-Universal-Exchange-Era
 2026-07-04 | PORTAL | 🔥 | UPCOMING | How to Trace and Recover Assets Lost to Online Investment Schemes | https://techbullion.com/how-to-trace-and-recover-assets-lost-to-online-investment-schemes/
 2026-07-04 | SNT | 🔥 | RECENT | Europe Has No Licensed Prediction Markets. ESMA Just Raised the Entry Bar | https://www.financemagnates.com/fintech/europe-has-no-licensed-prediction-markets-esma-just-raised-the-entry-bar/
+2026-07-05 | AVAX | 🔥 | UPCOMING | Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut | https://biztoc.com/x/8f02ea721170d09e
+2026-07-05 | FORM | 🔥 | RECENT | Fjarde AP Fonden Fourth Swedish National Pension Fund Acquires 104,600 Shares of Robinhood | https://www.americanbankingnews.com/2026/07/04/fjarde-ap-fonden-fourth-swedish-national-pension-fund-acquires-104600-shares-of-robinhood-markets-inc-hood.html
+2026-07-05 | STX | 🔥 | RECENT | The Search for the Next Pepe Coin Heats Up as PEPE ETF Filing Lands and PEPETO Stacks Over | https://www.openpr.com/news/4568128/the-search-for-the-next-pepe-coin-heats-up-as-pepe-etf-filing-lands
