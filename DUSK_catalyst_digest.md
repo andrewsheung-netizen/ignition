@@ -1,19 +1,23 @@
-📅 DUSK watchlist — catalyst brief 2026-07-08
+📅 DUSK watchlist — catalyst brief 2026-07-09
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   ⚠️ ZEC [CORE] — Kalshi launches Zcash and SHIB perps as lawsuit heats up https://crypto.news/kalshi-launches-zcash-and-shib-perps-as-lawsuit-heats-up/
-   🔥 RAY [VERIFY] — Tianrong Internet Products and Services Inc. (OTC: TIPS) Ignites Next-Gen Gaming https://www.manilatimes.net/2026/07/06/tmt-newswire/globenewswire/tianrong-internet-products-and-services-inc-otc-tips-ignites-next-gen-gaming-with-launch-of-ai-powered-depin-studios-introducing-depin-dash-and-revolutionary-low-cost-game-development-platform/2378977
-   🔥 AVAX [CORE] — Securitize (SECZ) takes $295M of its own tokenized stock to Solana, Avalanche am https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut
-   🔥 SNT [VERIFY] — KuCoin Becomes Official Partner of UAE Team Emirates – XRG, Debuts at the Tour d https://egamers.io/kucoin-becomes-official-partner-of-uae-team-emirates-xrg-debuts-at-the-tour-de-france/
+   🔥 AVAX [CORE] — Clearstream Expands Crypto Custody Services to Include XRP, Solana, Cardano, and https://bitcoinworld.co.in/clearstream-crypto-custody-xrp-solana-cardano/
+   🔥 AVAX [CORE] — KOR Protocol Raises $7.5 Million Series A to Build the Creative Asset Clearingho https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/kor-protocol-raises-75-million-series-a-to-build-the-creative-asset-clearinghouse/2380271
+   🔥 XAI [VERIFY] — Elon Musk Confirms Opus-Class Grok 4.5 AI Launch, Says It's Faster And Cheaper https://www.timesnownews.com/technology-science/elon-musk-confirms-opus-class-grok-4-5-ai-launch-says-its-faster-and-cheaper-article-154984837
+   🔥 PORTAL [VERIFY] — etoro Launches New App: AI-First, Smart, and Social https://financialit.net/news/artificial-intelligence/etoro-launches-new-app-ai-first-smart-and-social
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Founder Rails Against Coinbase
-   🔥 BONK [CORE] — Crypto News Today: Pepeto Staking Pays 169% APY While Solana Price Targets $600
-   🔥 RAY [VERIFY] — Solana News: Solana Hits $5.77B Tokenized Asset Volume in Q2 2026 All-Time High
-   🔥 FORM [CORE] — House of Doge Issues Mid-2026 Shareholder Letter Highlighting Achievements after
+   ⚠️ BONK [CORE] — Can BONK survive the $20 million treasury exploit as sellers pile in?
+   ⚠️ BONK [CORE] — Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance 
+   🔥 AAVE [CORE] — Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation
+   🔥 JTO [VERIFY] — Jito (JTO) Plunges Nearly 20% as Solana Liquid Staking Token Faces Sell-Off
+   🔥 GALA [VERIFY] — Category finalists from Garden Route Badgers for CSA 2025/26 at annual awards
+   ⚠️ PORTAL [VERIFY] — ED's 3,500-page charge sheet maps Bengaluru hacker Sriki's darknet and crypto la
    🔥 PROS [WATCH] — Bridge Growth Partners Expands Investment Team with Addition of Prosper Vignone 
+   ⚠️ SCRT [WATCH] — Secret Network Warns Of AI Exploit Risks In Proposed Arbitrum Plan
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
