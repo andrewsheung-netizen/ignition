@@ -11,12 +11,12 @@
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Founder Rails Against Coinbase
+   ⚠️ BONK [CORE] — Bitcoin ETFs Record $266 Million in Net Inflows Despite Bonk Treasury Exploit
    ⚠️ BONK [CORE] — Can BONK survive the $20 million treasury exploit as sellers pile in?
-   ⚠️ BONK [CORE] — Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance 
    🔥 AAVE [CORE] — Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation
    🔥 JTO [VERIFY] — Jito (JTO) Plunges Nearly 20% as Solana Liquid Staking Token Faces Sell-Off
+   🔥 FORM [CORE] — UISEE and Xunce Technology Form Strategic Partnership
    🔥 GALA [VERIFY] — Category finalists from Garden Route Badgers for CSA 2025/26 at annual awards
-   ⚠️ PORTAL [VERIFY] — ED's 3,500-page charge sheet maps Bengaluru hacker Sriki's darknet and crypto la
    🔥 PROS [WATCH] — Bridge Growth Partners Expands Investment Team with Addition of Prosper Vignone 
    ⚠️ SCRT [WATCH] — Secret Network Warns Of AI Exploit Risks In Proposed Arbitrum Plan
 

@@ -340,3 +340,5 @@
 2026-07-09 | PORTAL | 🔥 | UPCOMING | etoro Launches New App: AI-First, Smart, and Social | https://financialit.net/news/artificial-intelligence/etoro-launches-new-app-ai-first-smart-and-social
 2026-07-09 | PORTAL | ⚠️ | RECENT | ED's 3,500-page charge sheet maps Bengaluru hacker Sriki's darknet and crypto laundering n | https://timesofindia.indiatimes.com/city/bengaluru/eds-3500-page-charge-sheet-maps-bengaluru-hacker-srikis-darknet-and-crypto-laundering-network-behind-govt-portal-breach/articleshow/132241064.cms
 2026-07-09 | SCRT | ⚠️ | RECENT | Secret Network Warns Of AI Exploit Risks In Proposed Arbitrum Plan | https://menafn.com/1111367209/Secret-Network-Warns-Of-AI-Exploit-Risks-In-Proposed-Arbitrum-Plan
+2026-07-09 | BONK | ⚠️ | RECENT | Bitcoin ETFs Record $266 Million in Net Inflows Despite Bonk Treasury Exploit | https://www.tekedia.com/bitcoin-etfs-record-266-million-in-net-inflows-despite-bonk-treasury-exploit/
+2026-07-09 | FORM | 🔥 | RECENT | UISEE and Xunce Technology Form Strategic Partnership | https://autonews.gasgoo.com/articles/news/uisee-and-xunce-technology-form-strategic-partnership-2074844155887792128
