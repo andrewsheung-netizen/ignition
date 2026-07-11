@@ -352,3 +352,12 @@
 2026-07-10 | WLD | ⚠️ | UPCOMING | Sam Altman's Worldcoin cuts WLD unlocks by 43% but 4.9B tokens still need to prove demand | https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/
 2026-07-10 | XAI | 🔥 | RECENT | SpaceXAI launched a new AI coding model that's cheaper than its rivals | https://qz.com/spacexai-grok-45-coding-model-launch-070926
 2026-07-10 | STX | 🔥 | UPCOMING | Mar 4, 2026; Philadelphia, Pennsylvania, USA; Utah Jazz head coach Will Hardy reacts with  | https://www.si.com/nba/jazz/onsi/utah-jazz-s-updated-depth-chart-after-hayes-okogie-bamba-signings
+2026-07-11 | ZEC | 🔥 | RECENT | Zcash price jumps 7%: can the Ironwood upgrade send ZEC above $520? | https://invezz.com/news/2026/07/10/zcash-price-jumps-7-can-the-ironwood-upgrade-send-zec-above-520/
+2026-07-11 | AAVE | 🔥 | RECENT | Chainlink price tests $8 as ETF inflows spark a new LINK rally | https://invezz.com/news/2026/07/10/chainlink-price-tests-8-as-etf-inflows-spark-a-new-link-rally/
+2026-07-11 | AAVE | 🔥 | UPCOMING | Aave Labs Unveils Stable Vaults To Simplify Enterprise Integration Of Fixed-Rate Stablecoi | https://mpost.io/aave-labs-unveils-stable-vaults-to-simplify-enterprise-integration-of-fixed-rate-stablecoin-yield/
+2026-07-11 | INJ | ⚠️ | UPCOMING | Injective NPM Package Hacked to Steal Crypto Wallet Keys | https://us.headtopics.com/news/injective-npm-package-hacked-to-steal-crypto-wallet-keys-85430134
+2026-07-11 | AVAX | 🔥 | RECENT | Bitwise Updates Top 10 Crypto ETF: HYPE Joins While DOT and AVAX Exit | https://coinpedia.org/news/bitwise-updates-top-10-crypto-etf-hype-joins-while-dot-and-avax-exit/
+2026-07-11 | AVAX | 🔥 | UPCOMING | Bitwise Drops 2 Altcoins From Flagship Crypto ETF: Will Hyperliquid Keep Its Seat? | https://finance.yahoo.com/markets/crypto/articles/bitwise-drops-2-altcoins-flagship-163923929.html
+2026-07-11 | FORM | 🔥 | RECENT | Can Leveraged ETFs Turn Safe Havens Into Risk Assets? | https://www.securities.io/leveraged-money-etfs-systemic-risk-gold-crypto/
+2026-07-11 | FORM | 🔥 | RECENT | BTQ Technologies and ICTK Complete Design of Next-Generation QCIM Security Chip Integratin | https://nynewsly.com/btq-technologies-and-ictk-complete-design-of-next-generation-qcim-security-chip-integrating-puf-technology/38420/
+2026-07-11 | FORM | 🔥 | RECENT | Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin fir | https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/
