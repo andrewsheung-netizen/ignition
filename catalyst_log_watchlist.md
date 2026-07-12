@@ -361,3 +361,10 @@
 2026-07-11 | FORM | 🔥 | RECENT | Can Leveraged ETFs Turn Safe Havens Into Risk Assets? | https://www.securities.io/leveraged-money-etfs-systemic-risk-gold-crypto/
 2026-07-11 | FORM | 🔥 | RECENT | BTQ Technologies and ICTK Complete Design of Next-Generation QCIM Security Chip Integratin | https://nynewsly.com/btq-technologies-and-ictk-complete-design-of-next-generation-qcim-security-chip-integrating-puf-technology/38420/
 2026-07-11 | FORM | 🔥 | RECENT | Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin fir | https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/
+2026-07-12 | ZEC | 🔥 | UPCOMING | Zcash Locks July 28 Ironwood Launch as Formal Counterfeiting Proof Nears | https://www.techtimes.com/articles/320116/20260710/zcash-locks-july-28-ironwood-launch-formal-counterfeiting-proof-nears.htm
+2026-07-12 | BONK | ⚠️ | RECENT | Bonk Price Drops After $20M DAO Exploit While Pepeto Presale Secures $9.5M With Working To | https://www.openpr.com/news/4574532/bonk-price-drops-after-20m-dao-exploit-while-pepeto-presale
+2026-07-12 | AAVE | 🔥 | UPCOMING | BNB Price Prediction: Pepeto Exchange Tools Challenge BNB Before Binance Listing | https://www.openpr.com/news/4574509/bnb-price-prediction-pepeto-exchange-tools-challenge-bnb
+2026-07-12 | INJ | ⚠️ | RECENT | Injective Says It Blocked npm Package Hack Attempt, Confirms No Funds Lost | https://bitcoinworld.co.in/injective-npm-package-hack-blocked/
+2026-07-12 | PYTH | 🔥 | RECENT | Pyth Network (PYTH) Price Eyes a 30% Rally as Core Upgrade Boosts Long-Term Fundamentals | https://coinpedia.org/price-analysis/pyth-network-pyth-price-eyes-a-30-rally-as-core-upgrade-boosts-long-term-fundamentals/
+2026-07-12 | AVAX | 🔥 | RECENT | NEC Partners with Avalanche (AVAX) for Biometric Stablecoin Payments | https://blockchain.news/news/nec-avalanche-biometric-payments
+2026-07-12 | STX | 🔥 | UPCOMING | Crypto News Today Shows Interpol Busting a $122M Scheme While Pepeto Presale Stacks $10.4  | https://www.openpr.com/news/4574552/crypto-news-today-shows-interpol-busting-a-122m-scheme-while
