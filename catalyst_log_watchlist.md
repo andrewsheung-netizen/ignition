@@ -368,3 +368,4 @@
 2026-07-12 | PYTH | 🔥 | RECENT | Pyth Network (PYTH) Price Eyes a 30% Rally as Core Upgrade Boosts Long-Term Fundamentals | https://coinpedia.org/price-analysis/pyth-network-pyth-price-eyes-a-30-rally-as-core-upgrade-boosts-long-term-fundamentals/
 2026-07-12 | AVAX | 🔥 | RECENT | NEC Partners with Avalanche (AVAX) for Biometric Stablecoin Payments | https://blockchain.news/news/nec-avalanche-biometric-payments
 2026-07-12 | STX | 🔥 | UPCOMING | Crypto News Today Shows Interpol Busting a $122M Scheme While Pepeto Presale Stacks $10.4  | https://www.openpr.com/news/4574552/crypto-news-today-shows-interpol-busting-a-122m-scheme-while
+2026-07-12 | AVAX | 🔥 | RECENT | Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split | https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance
