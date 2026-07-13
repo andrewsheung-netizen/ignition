@@ -1,19 +1,18 @@
-📅 DUSK watchlist — catalyst brief 2026-07-12
+📅 DUSK watchlist — catalyst brief 2026-07-13
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 AAVE [CORE] — BNB Price Prediction: Pepeto Exchange Tools Challenge BNB Before Binance Listing https://www.openpr.com/news/4574509/bnb-price-prediction-pepeto-exchange-tools-challenge-bnb
-   ⚠️ INJ [CORE] — Injective NPM Package Hacked to Steal Crypto Wallet Keys https://us.headtopics.com/news/injective-npm-package-hacked-to-steal-crypto-wallet-keys-85430134
+   ⚠️ WLD [CORE] — Sam Altman's Worldcoin cuts WLD unlocks by 43% but 4.9B tokens still need to pro https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/
+   🔥 AVAX [CORE] — Grayscale Identifies 5 Crypto Networks Positioned to Benefit From Tokenized Equi https://news.bitcoin.com/grayscale-identifies-5-crypto-networks-positioned-to-benefit-from-tokenized-equities/
    🔥 AVAX [CORE] — Securitize (SECZ) takes $295M of its own tokenized stock to Solana, Avalanche am https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut
-   🔥 STX [WATCH] — Crypto News Today Shows Interpol Busting a $122M Scheme While Pepeto Presale Sta https://www.openpr.com/news/4574552/crypto-news-today-shows-interpol-busting-a-122m-scheme-while
 
 📰 recent catalysts:
-   🔥 ZEC [CORE] — Zcash Founder Rails Against Coinbase
-   ⚠️ BONK [CORE] — Bonk Price Drops After $20M DAO Exploit While Pepeto Presale Secures $9.5M With 
-   ⚠️ INJ [CORE] — Injective Says It Blocked npm Package Hack Attempt, Confirms No Funds Lost
    🔥 PYTH [VERIFY] — Pyth Network (PYTH) Price Eyes a 30% Rally as Core Upgrade Boosts Long-Term Fund
+   🔥 AVAX [CORE] — AVAX One's $700M Treasury Push Puts Avalanche Back in Play as Blue-Chip Profits 
    🔥 AVAX [CORE] — Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock 
+   🔥 PORTAL [VERIFY] — Gwalior's Senior CA Duped Of ₹21.06 Crore In One Of MP’s Biggest Crypto Investme
+   ⚠️ PORTAL [VERIFY] — ED's 3,500-page charge sheet maps Bengaluru hacker Sriki's darknet and crypto la
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.

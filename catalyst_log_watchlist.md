@@ -369,3 +369,6 @@
 2026-07-12 | AVAX | 🔥 | RECENT | NEC Partners with Avalanche (AVAX) for Biometric Stablecoin Payments | https://blockchain.news/news/nec-avalanche-biometric-payments
 2026-07-12 | STX | 🔥 | UPCOMING | Crypto News Today Shows Interpol Busting a $122M Scheme While Pepeto Presale Stacks $10.4  | https://www.openpr.com/news/4574552/crypto-news-today-shows-interpol-busting-a-122m-scheme-while
 2026-07-12 | AVAX | 🔥 | RECENT | Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split | https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance
+2026-07-13 | AVAX | 🔥 | UPCOMING | Grayscale Identifies 5 Crypto Networks Positioned to Benefit From Tokenized Equities | https://news.bitcoin.com/grayscale-identifies-5-crypto-networks-positioned-to-benefit-from-tokenized-equities/
+2026-07-13 | AVAX | 🔥 | RECENT | AVAX One's $700M Treasury Push Puts Avalanche Back in Play as Blue-Chip Profits Rotate Int | https://www.openpr.com/news/4574696/avax-one-s-700m-treasury-push-puts-avalanche-back-in-play-as
+2026-07-13 | PORTAL | 🔥 | RECENT | Gwalior's Senior CA Duped Of ₹21.06 Crore In One Of MP’s Biggest Crypto Investment Frauds | https://www.freepressjournal.in/bhopal/gwaliors-senior-ca-duped-of-2106-crore-in-one-of-mps-biggest-crypto-investment-frauds
