@@ -10,7 +10,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    },
    "STX": {
     "entry": 0.1694,
@@ -20,7 +20,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -30,7 +30,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    }
   },
   "closed": [
@@ -70,7 +70,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    },
    "STX": {
     "entry": 0.1694,
@@ -80,7 +80,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -90,7 +90,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784032200000
+    "last_check": 1784039400000
    }
   },
   "closed": [
