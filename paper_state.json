@@ -1,17 +1,7 @@
 {
  "A": {
-  "bal": 25330.13333333333,
+  "bal": 25167.880459770113,
   "pos": {
-   "ALGO": {
-    "entry": 0.0928,
-    "notional": 1666.6666666666667,
-    "ts": 1782216000000,
-    "age": 4,
-    "peak": 0.0942,
-    "half": false,
-    "tier": "CORE",
-    "last_check": 1784025900000
-   },
    "POLYX": {
     "entry": 0.0374,
     "notional": 1666.6666666666667,
@@ -20,7 +10,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    },
    "STX": {
     "entry": 0.1694,
@@ -30,7 +20,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    },
    "SEI": {
     "entry": 0.05343,
@@ -40,7 +30,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    }
   },
   "closed": [
@@ -51,6 +41,14 @@
     "why": "TP +20%",
     "xts": 1782955800000,
     "entry_ts": 1782316800000
+   },
+   {
+    "sym": "ALGO",
+    "ret": -9.74,
+    "pnl": -162.25,
+    "why": "21d time-exit",
+    "xts": 1784030400000,
+    "entry_ts": 1782216000000
    }
   ],
   "last_entry": {
@@ -62,18 +60,8 @@
   }
  },
  "B": {
-  "bal": 25371.733333333334,
+  "bal": 25209.480459770115,
   "pos": {
-   "ALGO": {
-    "entry": 0.0928,
-    "notional": 1666.6666666666667,
-    "ts": 1782216000000,
-    "age": 4,
-    "peak": 0.0942,
-    "half": false,
-    "tier": "CORE",
-    "last_check": 1784025900000
-   },
    "POLYX": {
     "entry": 0.0374,
     "notional": 1666.6666666666667,
@@ -82,7 +70,7 @@
     "peak": 0.0391,
     "half": false,
     "tier": "VERIFY",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    },
    "STX": {
     "entry": 0.1694,
@@ -92,7 +80,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    },
    "SEI": {
     "entry": 0.05343,
@@ -102,7 +90,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784025900000
+    "last_check": 1784032200000
    }
   },
   "closed": [
@@ -121,6 +109,14 @@
     "why": "runner +27%",
     "xts": 1783579500000,
     "entry_ts": 1782316800000
+   },
+   {
+    "sym": "ALGO",
+    "ret": -9.74,
+    "pnl": -162.25,
+    "why": "21d time-exit",
+    "xts": 1784030400000,
+    "entry_ts": 1782216000000
    }
   ],
   "last_entry": {
@@ -132,6 +128,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1784016000,
+ "last_4h": 1784030400,
  "hb_date": "2026-07-14"
 }
