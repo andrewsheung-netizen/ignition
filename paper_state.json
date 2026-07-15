@@ -1,28 +1,7 @@
 {
  "A": {
-  "bal": 25107.374220910933,
-  "pos": {
-   "STX": {
-    "entry": 0.1694,
-    "notional": 1666.6666666666667,
-    "ts": 1782316800000,
-    "age": 0,
-    "peak": 0.1786,
-    "half": false,
-    "tier": "WATCH",
-    "last_check": 1784130300000
-   },
-   "SEI": {
-    "entry": 0.05343,
-    "notional": 1666.6666666666667,
-    "ts": 1782316800000,
-    "age": 0,
-    "peak": 0.05977,
-    "half": false,
-    "tier": "WATCH",
-    "last_check": 1784130300000
-   }
-  },
+  "bal": 24927.420607614255,
+  "pos": {},
   "closed": [
    {
     "sym": "PENDLE",
@@ -47,6 +26,22 @@
     "why": "21d time-exit",
     "xts": 1784088000000,
     "entry_ts": 1782273600000
+   },
+   {
+    "sym": "STX",
+    "ret": -0.81,
+    "pnl": -13.47,
+    "why": "21d time-exit",
+    "xts": 1784131200000,
+    "entry_ts": 1782316800000
+   },
+   {
+    "sym": "SEI",
+    "ret": -9.99,
+    "pnl": -166.48,
+    "why": "21d time-exit",
+    "xts": 1784131200000,
+    "entry_ts": 1782316800000
    }
   ],
   "last_entry": {
@@ -58,29 +53,8 @@
   }
  },
  "B": {
-  "bal": 25148.974220910935,
-  "pos": {
-   "STX": {
-    "entry": 0.1694,
-    "notional": 1666.6666666666667,
-    "ts": 1782316800000,
-    "age": 0,
-    "peak": 0.1786,
-    "half": false,
-    "tier": "WATCH",
-    "last_check": 1784130300000
-   },
-   "SEI": {
-    "entry": 0.05343,
-    "notional": 1666.6666666666667,
-    "ts": 1782316800000,
-    "age": 0,
-    "peak": 0.05977,
-    "half": false,
-    "tier": "WATCH",
-    "last_check": 1784130300000
-   }
-  },
+  "bal": 24969.020607614257,
+  "pos": {},
   "closed": [
    {
     "sym": "PENDLE",
@@ -113,6 +87,22 @@
     "why": "21d time-exit",
     "xts": 1784088000000,
     "entry_ts": 1782273600000
+   },
+   {
+    "sym": "STX",
+    "ret": -0.81,
+    "pnl": -13.47,
+    "why": "21d time-exit",
+    "xts": 1784131200000,
+    "entry_ts": 1782316800000
+   },
+   {
+    "sym": "SEI",
+    "ret": -9.99,
+    "pnl": -166.48,
+    "why": "21d time-exit",
+    "xts": 1784131200000,
+    "entry_ts": 1782316800000
    }
   ],
   "last_entry": {
