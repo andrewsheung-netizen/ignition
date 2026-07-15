@@ -383,3 +383,4 @@
 2026-07-15 | RAY | 🔥 | RECENT | MattleFun kicks off Phase 4, staking a 5 million MATTLE pool for its player base | https://egamers.io/mattlefun-kicks-off-phase-4-staking-a-5-million-mattle-pool-for-its-player-base/
 2026-07-15 | FORM | 🔥 | RECENT | YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs | https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs/2383976
 2026-07-15 | XAI | ⚠️ | UPCOMING | Binance to Delist Four Spot Trading Pairs on July 17: What Traders Need to Know | https://bitcoinworld.co.in/binance-delist-spot-trading-pairs-july-17/
+2026-07-15 | XVG | 🔥 | UPCOMING | Canva launches Code 2.0, offering AI website building to every user — including free accou | https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts
