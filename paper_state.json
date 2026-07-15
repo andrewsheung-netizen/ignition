@@ -1,17 +1,7 @@
 {
  "A": {
-  "bal": 25167.880459770113,
+  "bal": 25107.374220910933,
   "pos": {
-   "POLYX": {
-    "entry": 0.0374,
-    "notional": 1666.6666666666667,
-    "ts": 1782273600000,
-    "age": 2,
-    "peak": 0.0391,
-    "half": false,
-    "tier": "VERIFY",
-    "last_check": 1784084400000
-   },
    "STX": {
     "entry": 0.1694,
     "notional": 1666.6666666666667,
@@ -20,7 +10,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784084400000
+    "last_check": 1784093400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -30,7 +20,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784084400000
+    "last_check": 1784093400000
    }
   },
   "closed": [
@@ -49,6 +39,14 @@
     "why": "21d time-exit",
     "xts": 1784030400000,
     "entry_ts": 1782216000000
+   },
+   {
+    "sym": "POLYX",
+    "ret": -3.63,
+    "pnl": -60.51,
+    "why": "21d time-exit",
+    "xts": 1784088000000,
+    "entry_ts": 1782273600000
    }
   ],
   "last_entry": {
@@ -60,18 +58,8 @@
   }
  },
  "B": {
-  "bal": 25209.480459770115,
+  "bal": 25148.974220910935,
   "pos": {
-   "POLYX": {
-    "entry": 0.0374,
-    "notional": 1666.6666666666667,
-    "ts": 1782273600000,
-    "age": 2,
-    "peak": 0.0391,
-    "half": false,
-    "tier": "VERIFY",
-    "last_check": 1784084400000
-   },
    "STX": {
     "entry": 0.1694,
     "notional": 1666.6666666666667,
@@ -80,7 +68,7 @@
     "peak": 0.1786,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784084400000
+    "last_check": 1784093400000
    },
    "SEI": {
     "entry": 0.05343,
@@ -90,7 +78,7 @@
     "peak": 0.05977,
     "half": false,
     "tier": "WATCH",
-    "last_check": 1784084400000
+    "last_check": 1784093400000
    }
   },
   "closed": [
@@ -117,6 +105,14 @@
     "why": "21d time-exit",
     "xts": 1784030400000,
     "entry_ts": 1782216000000
+   },
+   {
+    "sym": "POLYX",
+    "ret": -3.63,
+    "pnl": -60.51,
+    "why": "21d time-exit",
+    "xts": 1784088000000,
+    "entry_ts": 1782273600000
    }
   ],
   "last_entry": {
@@ -128,6 +124,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1784073600,
+ "last_4h": 1784088000,
  "hb_date": "2026-07-15"
 }
