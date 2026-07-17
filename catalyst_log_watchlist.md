@@ -398,3 +398,4 @@
 2026-07-17 | PORTAL | 🔥 | UPCOMING | Global Value Emission New Era Driven by Full-Spectrum Traffic! OmOm Launch Goes Live Globa | https://www.openpr.com/news/4578435/global-value-emission-new-era-driven-by-full-spectrum-traffic
 2026-07-17 | STX | 🔥 | UPCOMING | Hedera Coin Price Drops 88% from ATH While Pepeto Presale Stacks $10.4M Before Listing | https://www.openpr.com/news/4578432/hedera-coin-price-drops-88-from-ath-while-pepeto-presale-stacks
 2026-07-17 | PROS | 🔥 | RECENT | Awareness Group Q3 Net Income $569K; Conditional Acquisition, Control Issues | https://www.stockwatch.live/us/news/awareness-group-q3-net-income-569k-conditional-acquisition-control-issues-1387e182-54c3-4eae-ba61-75f77b8f20d2
+2026-07-17 | USUAL | ⚠️ | RECENT | Hackers Don’t Crack Telegram 2FA—They Copy Your Already Logged-In Session | https://cybersecuritynews.com/hackers-crack-telegram-2fa/
