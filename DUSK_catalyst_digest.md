@@ -1,19 +1,26 @@
-📅 DUSK watchlist — catalyst brief 2026-07-16
+📅 DUSK watchlist — catalyst brief 2026-07-17
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
    🔥 BONK [CORE] — Bonk Price Prediction: Pepeto Presale Builds Momentum Ahead of Listing https://techbullion.com/bonk-price-prediction-pepeto-presale-builds-momentum-ahead-of-listing/
-   🔥 INJ [CORE] — Injective (INJ) Launches AI Agent SDK for On-Chain Finance https://blockchain.news/news/injective-ai-agent-sdk-launch
+   🔥 AAVE [CORE] — Aave V4 Goes Live On Avalanche, Targeting Tokenized Credit Markets https://menafn.com/1111403533/Aave-V4-Goes-Live-On-Avalanche-Targeting-Tokenized-Credit-Markets
+   🔥 JTO [VERIFY] — Best Crypto Presale 2026: Jito Burns Millions as Pepeto Nears Binance Listing https://techbullion.com/best-crypto-presale-2026-jito-burns-millions-as-pepeto-nears-binance-listing/
+   🔥 AVAX [CORE] — Aave V4 Goes Live On Avalanche, Targeting Tokenized Credit Markets https://menafn.com/1111403533/Aave-V4-Goes-Live-On-Avalanche-Targeting-Tokenized-Credit-Markets
    🔥 HUMA [CORE] — SBI Global Asset Management and DigiFT Launch JX, Bringing a Japanese Asset Mana https://www.manilatimes.net/2026/07/15/tmt-newswire/media-outreach-newswire/sbi-global-asset-management-and-digift-launch-jx-bringing-a-japanese-asset-managers-equity-strategy-on-chain-for-the-first-time/2384665
    🔥 TURBO [VERIFY] — 2026 Maruti Brezza Turbo Petrol – Prices, Booking, Launch Date & Top Updates https://www.indiacarnews.com/news/2026-maruti-brezza-turbo-petrol-prices-booking-launch-date-top-updates-68351/
-   🔥 GALA [VERIFY] — Gala Games launches invite-only alpha for Mirandus: Eternal Night, a hex-grid su https://egamers.io/gala-games-launches-invite-only-alpha-for-mirandus-eternal-night-a-hex-grid-survival-rpg/
-   ⚠️ XAI [VERIFY] — Binance to Delist Four Spot Trading Pairs on July 17: What Traders Need to Know https://bitcoinworld.co.in/binance-delist-spot-trading-pairs-july-17/
+   🔥 PORTAL [VERIFY] — Global Value Emission New Era Driven by Full-Spectrum Traffic! OmOm Launch Goes  https://www.openpr.com/news/4578435/global-value-emission-new-era-driven-by-full-spectrum-traffic
+   🔥 STX [WATCH] — Hedera Coin Price Drops 88% from ATH While Pepeto Presale Stacks $10.4M Before L https://www.openpr.com/news/4578432/hedera-coin-price-drops-88-from-ath-while-pepeto-presale-stacks
 
 📰 recent catalysts:
+   ⚠️ BONK [CORE] — Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance 
+   🔥 AAVE [CORE] — Aave DAO Envisions a Crypto App that Combines Lending, Self-Custody, and Fiat
+   🔥 JTO [VERIFY] — Jito proposes permanent JTO burns through sweeping revenue overhaul
+   ⚠️ FORM [CORE] — Prof. Lingyun Xiang Appointed as Honorary Advisor (Asesor Honorario) of Uruguay
    🔥 FORM [CORE] — Filing ITR with crypto investments: Common reporting mistakes that could trigger
    🔥 FORM [CORE] — Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M ca
    ⚠️ PORTAL [VERIFY] — ED's 3,500-page charge sheet maps Bengaluru hacker Sriki's darknet and crypto la
+   🔥 PROS [WATCH] — Awareness Group Q3 Net Income $569K; Conditional Acquisition, Control Issues
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
