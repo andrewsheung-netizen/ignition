@@ -403,3 +403,4 @@
 2026-07-18 | INJ | 🔥 | UPCOMING | Injective (INJ)Files SEC Registration to Bring RWAs Onchain | https://blockchain.news/news/injective-sec-transfer-agent-rwa
 2026-07-18 | TURBO | 🔥 | UPCOMING | Maruti Suzuki Brezza facelift 2026 launching on July 23: New design, turbo-petrol engine,  | https://news24online.com/auto/maruti-suzuki-brezza-facelift-2026-launching-on-july-23-new-design-turbo-petrol-engine-bigger-touchscreen-and-more-expected/887169/
 2026-07-18 | API3 | 🔥 | UPCOMING | Goodfirms Launches Prediction Marketplace Vendor Recipe Covering 100+ Providers, 20 Catego | https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/goodfirms-launches-prediction-marketplace-vendor-recipe-covering-100-providers-20-categories/2386512
+2026-07-18 | AVAX | 🔥 | RECENT | AVAX Tokenomics: Supply Cap, Staking Rewards, and Role in Avalanche | https://blockchain.news/news/avax-tokenomics-supply-staking-rewards
