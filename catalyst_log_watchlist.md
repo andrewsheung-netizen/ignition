@@ -408,3 +408,5 @@
 2026-07-19 | INJ | 🔥 | UPCOMING | Injective (INJ)Launches Mint Platform for Compliance-Ready RWA Tokenization | https://blockchain.news/news/injective-mint-rwa-tokenization
 2026-07-19 | TURBO | 🔥 | UPCOMING | 2026 Maruti Brezza Facelift Bookings Open at Rs 11,000; Launch on July 23 | https://www.timesnownews.com/auto/car-news/2026-maruti-brezza-facelift-bookings-open-at-11000-launch-on-july-23-article-155098543
 2026-07-19 | STX | 🔥 | RECENT | In-House LLM Serving at Netflix | https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c
+2026-07-19 | BONK | 🔥 | UPCOMING | BONK DAO Attacker Moves Another $1.19M to Coinbase as Price Slides 7% | https://bitcoinworld.co.in/bonk-dao-attacker-coinbase-deposit-price-drop/
+2026-07-19 | PORTAL | ⚠️ | RECENT | Hackers breach Kenyan president's official website, demand Bitcoin ransom | https://www.aa.com.tr/en/africa/hackers-breach-kenyan-presidents-official-website-demand-bitcoin-ransom/4002285
