@@ -404,3 +404,7 @@
 2026-07-18 | TURBO | 🔥 | UPCOMING | Maruti Suzuki Brezza facelift 2026 launching on July 23: New design, turbo-petrol engine,  | https://news24online.com/auto/maruti-suzuki-brezza-facelift-2026-launching-on-july-23-new-design-turbo-petrol-engine-bigger-touchscreen-and-more-expected/887169/
 2026-07-18 | API3 | 🔥 | UPCOMING | Goodfirms Launches Prediction Marketplace Vendor Recipe Covering 100+ Providers, 20 Catego | https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/goodfirms-launches-prediction-marketplace-vendor-recipe-covering-100-providers-20-categories/2386512
 2026-07-18 | AVAX | 🔥 | RECENT | AVAX Tokenomics: Supply Cap, Staking Rewards, and Role in Avalanche | https://blockchain.news/news/avax-tokenomics-supply-staking-rewards
+2026-07-19 | INJ | 🔥 | UPCOMING | INJ Price Stalls Despite Robinhood Listing as Traders Watch $5 Breakout | https://coinpedia.org/price-analysis/inj-price-stalls-despite-robinhood-listing-as-traders-watch-5-breakout/
+2026-07-19 | INJ | 🔥 | UPCOMING | Injective (INJ)Launches Mint Platform for Compliance-Ready RWA Tokenization | https://blockchain.news/news/injective-mint-rwa-tokenization
+2026-07-19 | TURBO | 🔥 | UPCOMING | 2026 Maruti Brezza Facelift Bookings Open at Rs 11,000; Launch on July 23 | https://www.timesnownews.com/auto/car-news/2026-maruti-brezza-facelift-bookings-open-at-11000-launch-on-july-23-article-155098543
+2026-07-19 | STX | 🔥 | RECENT | In-House LLM Serving at Netflix | https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c
