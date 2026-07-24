@@ -447,3 +447,7 @@
 2026-07-23 | AVAX | 🔥 | RECENT | OCEAN RWA FINANCE, SYMPHONY DIGITAL ASSETS AND ALPHA JAGUAR CAPITAL ESTABLISH EARLY BLUEPR | https://www.manilatimes.net/2026/07/21/tmt-newswire/pr-newswire/ocean-rwa-finance-symphony-digital-assets-and-alpha-jaguar-capital-establish-early-blueprint-for-tokenised-private-credit-secondary-markets-on-avalanche/2388636
 2026-07-23 | POLYX | ⚠️ | UPCOMING | Upbit to Halt POLYX Deposits and Withdrawals for Polymesh Network Upgrade | https://bitcoinworld.co.in/upbit-suspends-polyx-deposits-withdrawals-polymesh-upgrade/
 2026-07-23 | PORTAL | 🔥 | UPCOMING | Lithosphere Opens Institutional Access Ahead of LITHO Pre-TGE | https://techbullion.com/lithosphere-opens-institutional-access-ahead-of-litho-pre-tge/
+2026-07-24 | AAVE | 🔥 | UPCOMING | Treeverse Launches In-Game Shop, Offering $END-Priced Cosmetics at 25% Off | https://egamers.io/treeverse-launches-in-game-shop-offering-end-priced-cosmetics-at-25-off/
+2026-07-24 | WLD | 🔥 | RECENT | Grayscale Files S-1 for First US Worldcoin ETF | https://us.headtopics.com/news/grayscale-files-s-1-for-first-us-worldcoin-etf-85851696
+2026-07-24 | XAI | ⚠️ | RECENT | Google's Flagship Still Can't Ship - So It Launched Token Austerity And A Hacking Model On | https://www.zerohedge.com/ai/googles-flagship-still-cant-ship-so-it-launched-token-austerity-and-hacking-model-only
+2026-07-24 | XVG | 🔥 | RECENT | Bitcoin ETFs near $1 billion as seven-session inflow streak signals institutional return | https://bitcoinworld.co.in/bitcoin-etfs-1-billion-inflow-streak/
