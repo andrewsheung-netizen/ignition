@@ -479,3 +479,9 @@
 2026-07-28 | JASMY | 🔥 | RECENT | JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investment? | https://coinpedia.org/price-prediction/jasmycoin-jasmy-price-prediction/
 2026-07-28 | PORTAL | 🔥 | UPCOMING | HashKey Exchange Launches New Flagship Crypto Trading App | https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/hashkey-exchange-launches-new-flagship-crypto-trading-app/2392006
 2026-07-28 | STX | 🔥 | UPCOMING | Claude Opus 5 Launches: A Smarter, Cheaper Workhorse for Everyday AI Tasks | https://www.sourcetrail.com/software/claude-opus-5-launches-a-smarter-cheaper-workhorse-for-everyday-ai-tasks/
+2026-07-28 | PENDLE | 🔥 | RECENT | HTX Research Examines RWA and DeFi: Two Separate Tracks Converging into One Financial Loop | https://en.prnasia.com/story/542025-0.shtml
+2026-07-28 | AAVE | 🔥 | RECENT | HTX Research Examines RWA and DeFi: Two Separate Tracks Converging into One Financial Loop | https://en.prnasia.com/story/542025-0.shtml
+2026-07-28 | WLD | 🔥 | UPCOMING | Eightco Holdings (NASDAQ: ORBS) Announces its Participation in World Foundation's $52.5M f | https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190
+2026-07-28 | FORM | ⚠️ | UPCOMING | Apple Responds to Lawsuit Over Fake Bitcoin Wallet Scam in App Store | https://www.macrumors.com/2026/07/27/apple-app-store-fake-bitcoin-wallet-lawsuit/
+2026-07-28 | SNT | 🔥 | UPCOMING | HiDream.ai Raises RMB 1.5 Billion Series C to Advance Native Omni-modal World Models | https://sloveniatimes.com/48434/hidream-ai-raises-rmb-1-5-billion-series-c-to-advance-native-omni-modal-world-models
+2026-07-28 | STX | 🔥 | RECENT | HTX Research Examines RWA and DeFi: Two Separate Tracks Converging into One Financial Loop | https://en.prnasia.com/story/542025-0.shtml
