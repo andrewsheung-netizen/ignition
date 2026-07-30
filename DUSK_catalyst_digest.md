@@ -1,28 +1,27 @@
-📅 DUSK watchlist — catalyst brief 2026-07-29
+📅 DUSK watchlist — catalyst brief 2026-07-30
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 ZEC [CORE] — Zcash Set to Activate Ironwood Upgrade, Marking a New Milestone for Privacy Bloc https://www.tekedia.com/zcash-set-to-activate-ironwood-upgrade-marking-a-new-milestone-for-privacy-blockchain/
-   🔥 ZEC [CORE] — Zcash Ironwood Launches Tuesday: Supply-Verification Checkpoint Closes Four-Year https://www.techtimes.com/articles/321738/20260727/zcash-ironwood-launches-tuesday-supply-verification-checkpoint-closes-four-year-flaw.htm
-   🔥 JTO [VERIFY] — $10.5 Million Raised Shows Why This Could Be the Best Crypto Presale to Buy Befo https://www.openpr.com/news/4588157/10-5-million-raised-shows-why-this-could-be-the-best-crypto
+   🔥 JUP [CORE] — Jupiter man says investment scam stole his life savings, forcing him to start ov https://www.wpbf.com/article/jupiter-man-says-investment-scam-stole-his-life-savings-forcing-him-to-start-over-at-67/73288253
    ⚠️ INJ [CORE] — Bithumb to Temporarily Halt INJ Deposits and Withdrawals for Wallet Upgrade https://bitcoinworld.co.in/bithumb-temporarily-suspend-inj-deposits-withdrawals/
-   🔥 WLD [CORE] — Eightco Holdings Announces its Participation in World Foundation's $52.5M fundin https://investingnews.com/eightco-holdings-announces-its-participation-in-world-foundation-s-52-5m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/
-   🔥 WLD [CORE] — Eightco Holdings (NASDAQ: ORBS) Announces its Participation in World Foundation' https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190
-   🔥 PORTAL [VERIFY] — MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals  https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/mindwave-innovations-inc-a-wholly-owned-subsidiary-of-apimeds-pharmaceuticals-us-inc-announces-mindchain-worlds-first-fully-insured-blockchain-launching-in-october/2393088
-   🔥 PORTAL [VERIFY] — 1inch launches Aqua to the public, introducing the first shared liquidity layer  https://www.manilatimes.net/2026/07/28/tmt-newswire/pr-newswire/1inch-launches-aqua-to-the-public-introducing-the-first-shared-liquidity-layer-for-defi/2392922
-   🔥 STX [WATCH] — Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway en https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs
-   🔥 STX [WATCH] — Cryptocurrency News Today Brings Visa Into Stablecoins While Pepeto Presale Stac https://www.openpr.com/news/4588209/cryptocurrency-news-today-brings-visa-into-stablecoins-while
+   🔥 AVAX [CORE] — Pepeto's Binance New Listing Could Outperform Where Cardano and Avalanche Stalle https://www.openpr.com/news/4589608/pepeto-s-binance-new-listing-could-outperform-where-cardano
+   🔥 SEI [WATCH] — Sei (SEI) Price Prediction 2026, 2027-2030: Will the Sei Giga Upgrade Trigger a  https://coinpedia.org/price-prediction/sei-price-prediction/
+   🔥 ZRO [WATCH] — LayerZero and Keeta Network Bring Tokenized Bank Deposits to Solana https://www.tekedia.com/layerzero-and-keeta-network-bring-tokenized-bank-deposits-to-solana/
    🔥 ZRO [WATCH] — MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals  https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/mindwave-innovations-inc-a-wholly-owned-subsidiary-of-apimeds-pharmaceuticals-us-inc-announces-mindchain-worlds-first-fully-insured-blockchain-launching-in-october/2393088
    🔥 AXL [WATCH] — MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals  https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/mindwave-innovations-inc-a-wholly-owned-subsidiary-of-apimeds-pharmaceuticals-us-inc-announces-mindchain-worlds-first-fully-insured-blockchain-launching-in-october/2393088
 
 📰 recent catalysts:
-   🔥 PENDLE [VERIFY] — HTX Research Examines RWA and DeFi: Two Separate Tracks Converging into One Fina
+   🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
+   🔥 BONK [CORE] — BONK Unveils Circus, a New Launchpad on Robinhood
+   🔥 PENDLE [VERIFY] — Pendle surpasses $3 million in cumulative PENDLE buybacks as staking hits 36% of
+   🔥 JTO [VERIFY] — Solana Mobile: Over Half of Seeker Summer Round 1 SKR Went Straight Into Staking
+   🔥 INJ [CORE] — Kraken Enables Native USDC Transfers on Injective (INJ)
    🔥 WLD [CORE] — Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
    🔥 WLD [CORE] — Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs
-   🔥 JASMY [VERIFY] — JasmyCoin Price Prediction 2026, 2027 – 2030: Is JASMY a Good Long-Term Investme
+   🔥 PYTH [VERIFY] — IOTA Integrates Pyth Pro for Institutional-Grade Price Feeds
+   🔥 AVAX [CORE] — OCEAN RWA FINANCE, SYMPHONY DIGITAL ASSETS AND ALPHA JAGUAR CAPITAL ESTABLISH EA
    🔥 SEI [WATCH] — Sei Investments Co. Sells 136,111 Shares of Robinhood Markets, Inc. $HOOD
-   🔥 ZRO [WATCH] — ZRO Price Breaks Over 10% Despite $1.13M Binance Deposit From LayerZero-Linked W
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
