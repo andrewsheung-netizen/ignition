@@ -506,3 +506,4 @@
 2026-07-30 | PYTH | 🔥 | RECENT | IOTA Integrates Pyth Pro for Institutional-Grade Price Feeds | https://blockchain.news/news/iota-connects-pyth-pro
 2026-07-30 | AVAX | 🔥 | UPCOMING | Pepeto's Binance New Listing Could Outperform Where Cardano and Avalanche Stalled | https://www.openpr.com/news/4589608/pepeto-s-binance-new-listing-could-outperform-where-cardano
 2026-07-30 | ZRO | 🔥 | UPCOMING | LayerZero and Keeta Network Bring Tokenized Bank Deposits to Solana | https://www.tekedia.com/layerzero-and-keeta-network-bring-tokenized-bank-deposits-to-solana/
+2026-07-30 | SNT | 🔥 | UPCOMING | Enlivex Management to Host Webinar to Discuss Capital Strategy, Rain Protocol Treasury Str | https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/enlivex-management-to-host-webinar-to-discuss-capital-strategy-rain-protocol-treasury-strategy-and-recent-clinical-milestones/2394001
