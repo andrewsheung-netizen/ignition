@@ -8,10 +8,9 @@
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
-   🔥 BONK [CORE] — BONK Unveils Circus, a New Launchpad on Robinhood
+   🔥 INJ [CORE] — South Korea trade giant POSCO puts receivables onchain in tokenization test with
    🔥 WLD [CORE] — Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
    🔥 WLD [CORE] — Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs
-   🔥 AVAX [CORE] — OCEAN RWA FINANCE, SYMPHONY DIGITAL ASSETS AND ALPHA JAGUAR CAPITAL ESTABLISH EA
    🔥 RED [VERIFY] — Tokenized Gold Survives DeFi Test as Lending Adoption Lags
    🔥 STX [WATCH] — GenRec: Towards LLM-Native Recommendation at Netflix
 
