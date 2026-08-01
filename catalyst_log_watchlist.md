@@ -516,3 +516,5 @@
 2026-07-31 | PORTAL | 🔥 | UPCOMING | Measures to cool leveraged ETF market to come 'as early as possible': Financial regulator | https://www.thehawk.in/news/science/measures-to-cool-leveraged-etf-market-to-come-as-early-as-possible-financial-regulator
 2026-07-31 | KAITO | 🔥 | RECENT | Six Anonymous Wallets Withdraw $5.6M in KAITO From Binance as Token Surges 35% | https://bitcoinworld.co.in/anonymous-wallets-withdraw-kaito-binance/
 2026-07-31 | KAITO | 🔥 | UPCOMING | Kaito AI Launches Katalyst, Shifting Creator Marketing From Flat Fees To Verified Conversi | https://mpost.io/kaito-ai-launches-katalyst-shifting-creator-marketing-from-flat-fees-to-verified-conversion-based-rewards/
+2026-08-01 | RED | 🔥 | RECENT | Tokenized Gold Survives DeFi Test as Lending Adoption Lags | https://us.headtopics.com/news/tokenized-gold-survives-defi-test-as-lending-adoption-lags-86115618
+2026-08-01 | STX | 🔥 | RECENT | GenRec: Towards LLM-Native Recommendation at Netflix | https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3
