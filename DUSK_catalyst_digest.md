@@ -11,12 +11,10 @@
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Price Prediction: Ironwood Upgrade Fuels a $750 Breakout Debate as AlphaPe
    🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
-   🔥 BONK [CORE] — BONK Unveils Circus, a New Launchpad on Robinhood
    🔥 INJ [CORE] — South Korea trade giant POSCO puts receivables onchain in tokenization test with
    🔥 WLD [CORE] — Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
    🔥 WLD [CORE] — Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs
    🔥 AVAX [CORE] — OCEAN RWA FINANCE, SYMPHONY DIGITAL ASSETS AND ALPHA JAGUAR CAPITAL ESTABLISH EA
-   🔥 FORM [CORE] — Core Scientific, Inc. $CORZ Shares Acquired by Segall Bryant & Hamill LLC
    ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
