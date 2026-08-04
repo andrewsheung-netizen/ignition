@@ -13,13 +13,8 @@
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
-   🔥 BONK [CORE] — BONK Unveils Circus, a New Launchpad on Robinhood
-   🔥 INJ [CORE] — South Korea trade giant POSCO puts receivables onchain in tokenization test with
-   🔥 WLD [CORE] — Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing
-   🔥 AVAX [CORE] — OCEAN RWA FINANCE, SYMPHONY DIGITAL ASSETS AND ALPHA JAGUAR CAPITAL ESTABLISH EA
    ⚠️ ALGO [CORE] — Bitcoin Dips as Coldcard Wallet Hack Raises Security Alerts; ALGO and ENA Show R
    ⚠️ ALGO [CORE] — Crypto Overview: Bitcoin weakens amid Coldcard hack – ALGO, ENA sustain gains
-   ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
    🔥 SEI [WATCH] — Sei Investments Co. Grows Stock Holdings in Coinbase Global, Inc. $COIN
    🔥 SEI [WATCH] — Sei Investments Co. Has $8.73 Million Holdings in Figure Technology Solutions, I
 
