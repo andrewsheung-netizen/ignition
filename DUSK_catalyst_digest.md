@@ -1,21 +1,18 @@
-📅 DUSK watchlist — catalyst brief 2026-08-04
+📅 DUSK watchlist — catalyst brief 2026-08-05
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 BONK [CORE] — Next Pepe Coin: Pepeto Leads the Race as Wallets Buy Before Listing https://techbullion.com/next-pepe-coin-pepeto-leads-the-race-as-wallets-buy-before-listing/
-   🔥 AVAX [CORE] — Next Crypto to Explode: AVAX Bleeds Near Its Lows While Pepeto Charges Into Its  https://www.openpr.com/news/4593345/next-crypto-to-explode-avax-bleeds-near-its-lows-while-pepeto
-   🔥 STX [WATCH] — ZILOTM Launches Fully Integrated Digital Assets and Transfer Agency Platform; An https://financialit.net/news/blockchain/zilotm-launches-fully-integrated-digital-assets-and-transfer-agency-platform
    ⚠️ KAITO [WATCH] — Crypto Token Unlocks Worth $1.28 Billion Set to Hit Market in August https://coinpedia.org/crypto-live-news/crypto-token-unlocks-worth-1-28-billion-set-to-hit-market-in-august/
+   🔥 SEI [WATCH] — Upbit to Temporarily Suspend SEI Deposits and Withdrawals Today https://bitcoinworld.co.in/upbit-temporarily-suspend-sei-deposits-withdrawals/
    🔥 SEI [WATCH] — Bithumb to Suspend SEI Deposits and Withdrawals for Network Upgrade on Aug. 4 https://bitcoinworld.co.in/bithumb-suspends-sei-deposits-withdrawals-network-upgrade/
    🔥 SEI [WATCH] — Binance to Temporarily Suspend USDC Withdrawals on SEIEVM Network for Maintenanc https://bitcoinworld.co.in/binance-suspend-usdc-withdrawals-seievm/
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
-   ⚠️ ALGO [CORE] — Bitcoin Dips as Coldcard Wallet Hack Raises Security Alerts; ALGO and ENA Show R
-   ⚠️ ALGO [CORE] — Crypto Overview: Bitcoin weakens amid Coldcard hack – ALGO, ENA sustain gains
-   🔥 SEI [WATCH] — Sei Investments Co. Grows Stock Holdings in Coinbase Global, Inc. $COIN
-   🔥 SEI [WATCH] — Sei Investments Co. Has $8.73 Million Holdings in Figure Technology Solutions, I
+   ⚠️ BONK [CORE] — Bonk Price Bleeds After Shock Treasury Hack While Smart Money Quietly Floods Int
+   🔥 JUP [CORE] — Tokenized Stock Holders Near 1 Million After 92% Growth in 30 Days
+   ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.

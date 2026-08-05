@@ -536,3 +536,6 @@
 2026-08-04 | KAITO | ⚠️ | UPCOMING | Crypto Token Unlocks Worth $1.28 Billion Set to Hit Market in August | https://coinpedia.org/crypto-live-news/crypto-token-unlocks-worth-1-28-billion-set-to-hit-market-in-august/
 2026-08-04 | SEI | 🔥 | UPCOMING | Bithumb to Suspend SEI Deposits and Withdrawals for Network Upgrade on Aug. 4 | https://bitcoinworld.co.in/bithumb-suspends-sei-deposits-withdrawals-network-upgrade/
 2026-08-04 | SEI | 🔥 | UPCOMING | Binance to Temporarily Suspend USDC Withdrawals on SEIEVM Network for Maintenance | https://bitcoinworld.co.in/binance-suspend-usdc-withdrawals-seievm/
+2026-08-05 | BONK | ⚠️ | RECENT | Bonk Price Bleeds After Shock Treasury Hack While Smart Money Quietly Floods Into PEPETO | https://www.openpr.com/news/4594340/bonk-price-bleeds-after-shock-treasury-hack-while-smart-money
+2026-08-05 | JUP | 🔥 | RECENT | Tokenized Stock Holders Near 1 Million After 92% Growth in 30 Days | https://news.bitcoin.com/crypto-news/tokenized-stock-holders-near-1-million-after-92-growth-in-30-days/
+2026-08-05 | SEI | 🔥 | UPCOMING | Upbit to Temporarily Suspend SEI Deposits and Withdrawals Today | https://bitcoinworld.co.in/upbit-temporarily-suspend-sei-deposits-withdrawals/
