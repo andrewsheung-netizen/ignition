@@ -4,7 +4,6 @@
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 AAVE [CORE] — Aave Founder Rejects Proposal to Cap Ethereum Staking Incentives at 50% of Suppl https://bitcoinworld.co.in/aave-founder-rejects-ethereum-staking-cap-proposal/
    🔥 SEI [WATCH] — Upbit to Temporarily Suspend SEI Deposits and Withdrawals Today https://bitcoinworld.co.in/upbit-temporarily-suspend-sei-deposits-withdrawals/
 
 📰 recent catalysts:
@@ -15,7 +14,7 @@
    🔥 INJ [CORE] — South Korea trade giant POSCO puts receivables onchain in tokenization test with
    🔥 AVAX [CORE] — VanEck Staking Payouts Revive Avalanche Price Prediction as Coinsult-Audited Alp
    🔥 AVAX [CORE] — AVAX Price Stalls Despite Avalanche Landing Government, RWA Milestones
-   🔥 FORM [CORE] — SHR Miner has launched a free cloud mining service for holders of BTC, XRP, and 
+   ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
    🔥 SEI [WATCH] — Sei Investments Co. Has $5.70 Million Stake in Strategy Inc $MSTR
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
