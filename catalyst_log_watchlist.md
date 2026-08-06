@@ -544,3 +544,10 @@
 2026-08-05 | PORTAL | 🔥 | UPCOMING | The Hashgraph Group Launches Hashgraph Partner Alliance for Enterprise Web3 and AI Deploym | https://en.prnasia.com/story/542899-0.shtml
 2026-08-05 | SNT | 🔥 | UPCOMING | MoneySimpler Launches AI Automated Cryptocurrency Trading, Supporting BTC, ETH, and XRP Qu | https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/moneysimpler-launches-ai-automated-cryptocurrency-trading-supporting-btc-eth-and-xrp-quantitative-trading/2398010
 2026-08-05 | STX | 🔥 | RECENT | Why Stacks’ Bitcoin staking plan could reshape STX demand | https://crypto.news/why-stacks-bitcoin-staking-plan-could-reshape-stx-demand/
+2026-08-06 | ZEC | 🔥 | RECENT | Zcash jumps 11% as Ironwood upgrade sparks powerful bullish wave | https://invezz.com/news/2026/08/05/zcash-jumps-11-as-ironwood-upgrade-sparks-powerful-bullish-wave/
+2026-08-06 | AAVE | 🔥 | RECENT | Aave Founder Warns EIP-8361 Would Undermine ETH’s Institutional Appeal By Rendering Stakin | https://mpost.io/aave-founder-warns-eip-8361-would-undermine-eths-institutional-appeal-by-rendering-staking-yields-unpredictable/
+2026-08-06 | AAVE | 🔥 | UPCOMING | Aave Founder Rejects Proposal to Cap Ethereum Staking Incentives at 50% of Supply | https://bitcoinworld.co.in/aave-founder-rejects-ethereum-staking-cap-proposal/
+2026-08-06 | AVAX | 🔥 | RECENT | VanEck Staking Payouts Revive Avalanche Price Prediction as Coinsult-Audited AlphaPepe Bui | https://www.openpr.com/news/4595767/vaneck-staking-payouts-revive-avalanche-price-prediction-as
+2026-08-06 | AVAX | 🔥 | RECENT | AVAX Price Stalls Despite Avalanche Landing Government, RWA Milestones | https://coinpedia.org/price-analysis/avax-price-stalls-despite-avalanche-landing-government-rwa-milestones/
+2026-08-06 | FORM | 🔥 | RECENT | SHR Miner has launched a free cloud mining service for holders of BTC, XRP, and ETH, offer | https://www.kenyan-post.com/2026/08/shr-miner-has-launched-free-cloud.html
+2026-08-06 | SEI | 🔥 | RECENT | Sei Investments Co. Has $5.70 Million Stake in Strategy Inc $MSTR | https://baseballnewssource.com/2026/08/05/sei-investments-co-has-5-70-million-stake-in-strategy-inc-mstr/11211322.html
