@@ -551,3 +551,6 @@
 2026-08-06 | AVAX | 🔥 | RECENT | AVAX Price Stalls Despite Avalanche Landing Government, RWA Milestones | https://coinpedia.org/price-analysis/avax-price-stalls-despite-avalanche-landing-government-rwa-milestones/
 2026-08-06 | FORM | 🔥 | RECENT | SHR Miner has launched a free cloud mining service for holders of BTC, XRP, and ETH, offer | https://www.kenyan-post.com/2026/08/shr-miner-has-launched-free-cloud.html
 2026-08-06 | SEI | 🔥 | RECENT | Sei Investments Co. Has $5.70 Million Stake in Strategy Inc $MSTR | https://baseballnewssource.com/2026/08/05/sei-investments-co-has-5-70-million-stake-in-strategy-inc-mstr/11211322.html
+2026-08-07 | ZEC | 🔥 | UPCOMING | Zcash Holders to Vote on NU7 Upgrade: Key Decisions Ahead | https://us.headtopics.com/news/zcash-holders-to-vote-on-nu7-upgrade-key-decisions-ahead-86332738
+2026-08-07 | AAVE | 🔥 | RECENT | Aave founder challenges Ethereum staking reward overhaul | https://thearabianpost.com/aave-founder-challenges-ethereum-staking-reward-overhaul/
+2026-08-07 | AAVE | 🔥 | UPCOMING | Aave Founder Warns Ethereum Issuance Cut Linked to Staking Ratio Could Deepen Centralizati | https://bitcoinworld.co.in/aave-founder-ethereum-issuance-cut-staking-ratio-centralization/
