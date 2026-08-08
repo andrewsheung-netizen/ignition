@@ -564,3 +564,4 @@
 2026-08-08 | AAVE | 🔥 | RECENT | Amber Group-Linked Wallet Moves $10M in ENA, AAVE, ETH, BNB, and LINK Out of Binance | https://bitcoinworld.co.in/amber-group-wallet-withdraws-10m-binance/
 2026-08-08 | INJ | 🔥 | UPCOMING | Cardano News: IBC Connection to Injective Opens Cross-Chain Route as AlphaPepe Teases Four | https://www.openpr.com/news/4597433/cardano-news-ibc-connection-to-injective-opens-cross-chain
 2026-08-08 | AVAX | 🔥 | UPCOMING | Crypto Bull Run Ignites as AVAX Bleeds 95% and Pepeto Storms Toward Binance Listing | https://www.openpr.com/news/4597676/crypto-bull-run-ignites-as-avax-bleeds-95-and-pepeto-storms
+2026-08-08 | FORM | 🔥 | RECENT | Sarasin & Partners LLP Reduces Stake in Mastercard Incorporated $MA | https://www.dailypolitical.com/2026/08/07/sarasin-partners-llp-reduces-stake-in-mastercard-incorporated-ma.html

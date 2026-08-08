@@ -16,6 +16,8 @@
    🔥 AAVE [CORE] — Amber Group-Linked Wallet Moves $10M in ENA, AAVE, ETH, BNB, and LINK Out of Bin
    🔥 AAVE [CORE] — Aave founder challenges Ethereum staking reward overhaul
    🔥 INJ [CORE] — South Korea trade giant POSCO puts receivables onchain in tokenization test with
+   🔥 FORM [CORE] — Sarasin & Partners LLP Reduces Stake in Mastercard Incorporated $MA
    ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
+   🔥 STX [WATCH] — Why Stacks’ Bitcoin staking plan could reshape STX demand
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
