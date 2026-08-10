@@ -571,3 +571,5 @@
 2026-08-09 | SNT | 🔥 | RECENT | Wintermute takes aim at Wall Street’s crypto ETF gatekeepers | https://cryptoslate.com/wintermute-takes-aim-at-wall-streets-crypto-etf-gatekeepers/
 2026-08-09 | SCRT | ⚠️ | RECENT | Stop Letting Rogue Server Hosts Steal Your Client Data: Morpheus and Secret Network Unveil | https://www.prnewswire.com/news-releases/stop-letting-rogue-server-hosts-steal-your-client-data-morpheus-and-secret-network-unveil-unhackable-zero-snoop-ai-infrastructure-302846226.html
 2026-08-09 | STX | 🔥 | UPCOMING | Binance New Listing Buzz Grows as Cardano Hits ETF Window and Pepeto Presale Stacks Millio | https://www.openpr.com/news/4598867/binance-new-listing-buzz-grows-as-cardano-hits-etf-window
+2026-08-10 | AVAX | 🔥 | UPCOMING | Best Crypto to Buy Now Before Listing Day: Pepeto Wallets Multiply While SOL and AVAX Grin | https://www.openpr.com/news/4599061/best-crypto-to-buy-now-before-listing-day-pepeto-wallets
+2026-08-10 | FORM | 🔥 | RECENT | Solana ETF $SOLZ Shares Acquired by Tactive Advisors LLC | https://www.watchlistnews.com/solana-etf-solz-shares-acquired-by-tactive-advisors-llc/11177539.html
