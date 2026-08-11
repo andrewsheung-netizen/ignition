@@ -6,7 +6,7 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 1.34,
     "half": false,
     "tier": "WATCH"
@@ -15,7 +15,7 @@
     "entry": 0.1404,
     "notional": 1661.828040507617,
     "ts": 1785772800000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.1476,
     "half": false,
     "tier": "CORE"
@@ -24,7 +24,7 @@
     "entry": 0.000805,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.000907,
     "half": false,
     "tier": "VERIFY"
@@ -33,7 +33,7 @@
     "entry": 0.766,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.888,
     "half": false,
     "tier": "WATCH"
@@ -112,13 +112,13 @@
   }
  },
  "B": {
-  "bal": 25490.740308699063,
+  "bal": 25717.086565848665,
   "pos": {
    "LPT": {
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 1.34,
     "half": false,
     "tier": "WATCH"
@@ -127,7 +127,7 @@
     "entry": 0.1404,
     "notional": 1664.6013738409506,
     "ts": 1785772800000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.1476,
     "half": false,
     "tier": "CORE"
@@ -136,7 +136,7 @@
     "entry": 0.000805,
     "notional": 1664.6013738409506,
     "ts": 1785830400000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.000907,
     "half": false,
     "tier": "VERIFY"
@@ -145,19 +145,10 @@
     "entry": 0.766,
     "notional": 1664.6013738409506,
     "ts": 1785830400000,
-    "last_check": 1786487400000,
+    "last_check": 1786491000000,
     "peak": 0.888,
     "half": false,
     "tier": "WATCH"
-   },
-   "HOLO": {
-    "entry": 0.0707,
-    "notional": 844.6764432678581,
-    "ts": 1786377600000,
-    "last_check": 1786487400000,
-    "peak": 0.0888,
-    "half": true,
-    "tier": "VERIFY"
    }
   },
   "closed": [
@@ -231,6 +222,14 @@
     "pnl": 150.45,
     "why": "booked \u00bd @ +18%",
     "xts": 1786473900000,
+    "entry_ts": 1786377600000
+   },
+   {
+    "sym": "HOLO",
+    "ret": 26.8,
+    "pnl": 226.35,
+    "why": "runner +27%",
+    "xts": 1786488300000,
     "entry_ts": 1786377600000
    }
   ],
