@@ -573,3 +573,10 @@
 2026-08-09 | STX | 🔥 | UPCOMING | Binance New Listing Buzz Grows as Cardano Hits ETF Window and Pepeto Presale Stacks Millio | https://www.openpr.com/news/4598867/binance-new-listing-buzz-grows-as-cardano-hits-etf-window
 2026-08-10 | AVAX | 🔥 | UPCOMING | Best Crypto to Buy Now Before Listing Day: Pepeto Wallets Multiply While SOL and AVAX Grin | https://www.openpr.com/news/4599061/best-crypto-to-buy-now-before-listing-day-pepeto-wallets
 2026-08-10 | FORM | 🔥 | RECENT | Solana ETF $SOLZ Shares Acquired by Tactive Advisors LLC | https://www.watchlistnews.com/solana-etf-solz-shares-acquired-by-tactive-advisors-llc/11177539.html
+2026-08-11 | ZEC | ⚠️ | RECENT | Bitcoin 'Red Team' Says AI Is Finding 100s Of Critical Exploits Across Core Projects | https://www.zerohedge.com/crypto/bitcoin-red-team-says-ai-finding-100s-critical-exploits-across-core-projects
+2026-08-11 | AAVE | 🔥 | UPCOMING | Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030 | https://finance.yahoo.com/markets/crypto/articles/standard-chartered-sees-4t-tokenization-101906337.html
+2026-08-11 | AAVE | 🔥 | UPCOMING | Ethereum Devs Want ETH Staking Rewards to Hit 0% at 50% Staked | https://news.bitcoin.com/crypto-news/ethereum-devs-want-eth-staking-rewards-to-hit-0-at-50-staked/
+2026-08-11 | JUP | 🔥 | UPCOMING | Critters Quest goes live on Solana mainnet with Masters in first, Clones a day later | https://egamers.io/critters-quest-goes-live-on-solana-mainnet-with-masters-in-first-clones-a-day-later/
+2026-08-11 | WLD | 🔥 | RECENT | Worldcoin (WLD) Price Gains Momentum on Eightco Acquisition and Steady Retail Demand | https://bitcoinworld.co.in/worldcoin-price-forecast-eightco-buying-retail-demand/
+2026-08-11 | SNT | 🔥 | UPCOMING | Crypto Overview: ETH and AVAX Stall as Pepeto Nears Listing | https://techbullion.com/crypto-overview-eth-and-avax-stall-as-pepeto-nears-listing/
+2026-08-11 | STX | 🔥 | UPCOMING | EIP-8363 puts Ethereum’s native yield on a path to zero — and SharpLink’s $125M treasury t | https://egamers.io/eip-8363-puts-ethereums-native-yield-on-a-path-to-zero-and-sharplinks-125m-treasury-toward-defi/
