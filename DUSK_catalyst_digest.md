@@ -1,22 +1,21 @@
-📅 DUSK watchlist — catalyst brief 2026-08-11
+📅 DUSK watchlist — catalyst brief 2026-08-12
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 AAVE [CORE] — Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030 https://finance.yahoo.com/markets/crypto/articles/standard-chartered-sees-4t-tokenization-101906337.html
-   🔥 AAVE [CORE] — Ethereum Devs Want ETH Staking Rewards to Hit 0% at 50% Staked https://news.bitcoin.com/crypto-news/ethereum-devs-want-eth-staking-rewards-to-hit-0-at-50-staked/
-   🔥 JUP [CORE] — Critters Quest goes live on Solana mainnet with Masters in first, Clones a day l https://egamers.io/critters-quest-goes-live-on-solana-mainnet-with-masters-in-first-clones-a-day-later/
-   🔥 SNT [VERIFY] — ValueChain Launches Unitree Vault in Partnership with SafePal, Bringing the Worl https://www.manilatimes.net/2026/08/10/tmt-newswire/globenewswire/valuechain-launches-unitree-vault-in-partnership-with-safepal-bringing-the-worlds-first-publicly-listed-embodied-ai-company-on-chain/2401997
-   🔥 SNT [VERIFY] — Renaiss Reports More Than $25M in Platform Revenue Since Beta Launch Eight Month https://egamers.io/renaiss-reports-more-than-25m-in-platform-revenue-since-beta-launch-eight-months-ago/
-   🔥 SNT [VERIFY] — Crypto Overview: ETH and AVAX Stall as Pepeto Nears Listing https://techbullion.com/crypto-overview-eth-and-avax-stall-as-pepeto-nears-listing/
-   🔥 STX [WATCH] — EIP-8363 puts Ethereum’s native yield on a path to zero — and SharpLink’s $125M  https://egamers.io/eip-8363-puts-ethereums-native-yield-on-a-path-to-zero-and-sharplinks-125m-treasury-toward-defi/
+   🔥 JUP [CORE] — Jupiter Lend V2 Launches on Solana, Introducing Dual-Use Liquidity for Lenders a https://bitcoinworld.co.in/jupiter-lend-v2-solana-dual-use-liquidity/
+   🔥 FORM [CORE] — Nocera and INERGX Form 50/50 Joint Venture to Acquire and Consolidate the Missio https://www.globenewswire.com/fr/news-release/2026/08/11/3342629/0/en/nocera-and-inergx-form-50-50-joint-venture-to-acquire-and-consolidate-the-mission-critical-energy-supply-chain-serving-ai-data-centers-defense-heavy-industry-targeting-a-250-millio.html
+   🔥 PORTAL [VERIFY] — XDC Tech integrates Bridge’s stablecoin platform to bring on-chain stablecoin se https://www.manilatimes.net/2026/08/11/tmt-newswire/globenewswire/xdc-tech-integrates-bridges-stablecoin-platform-to-bring-on-chain-stablecoin-settlement-to-agentic-ai-commerce/2402741
 
 📰 recent catalysts:
-   ⚠️ ZEC [CORE] — Bitcoin 'Red Team' Says AI Is Finding 100s Of Critical Exploits Across Core Proj
-   🔥 ZEC [CORE] — Zcash Activates Ironwood Upgrade After Counterfeiting Scare
+   🔥 BONK [CORE] — Crypto News Today: Pepeto Staking Pays 169% APY And Solana Price Prediction Eyes
+   🔥 AAVE [CORE] — SeerDEX: Best Crypto Presale of 2026? $225K Raised, Framework Ventures in Talks
    🔥 WLD [CORE] — Worldcoin (WLD) Price Gains Momentum on Eightco Acquisition and Steady Retail De
+   🔥 FORM [CORE] — Scissero + Mayer Brown Form Partnership – CEO Interview
    ⚠️ FORM [CORE] — Trump 'Exploiting' Crypto's Legal Loopholes and Enforcement Weakness, Says Richa
-   🔥 SNT [VERIFY] — Wintermute takes aim at Wall Street’s crypto ETF gatekeepers
+   🔥 PORTAL [VERIFY] — CISA and partners publish advisory on double-extortion ransomware threat
+   🔥 STX [WATCH] — Why Stacks’ Bitcoin staking plan could reshape STX demand
+   🔥 SEI [WATCH] — Sei Investments Co. Has $1.41 Million Stock Position in Galaxy Digital Inc. $GLX
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
