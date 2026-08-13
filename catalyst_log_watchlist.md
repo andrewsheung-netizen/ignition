@@ -597,3 +597,4 @@
 2026-08-13 | GALA | 🔥 | RECENT | MEXC's July Highlights: Stock Futures Volume Up 111%, Tokenized Equities Take 62% of TradF | https://www.manilatimes.net/2026/08/12/tmt-newswire/globenewswire/mexcs-july-highlights-stock-futures-volume-up-111-tokenized-equities-take-62-of-tradfi-spot/2403736
 2026-08-13 | XAI | 🔥 | UPCOMING | xAI co-founder raises $1.1B for River AI to build an open AI stack | https://techfundingnews.com/xai-co-founder-raises-1-1b-for-river-ai-to-build-an-open-ai-stack/
 2026-08-13 | XAI | 🔥 | UPCOMING | xAI Launches Grok Bot, Always-On AI Teammates | https://blockchain.news/news/xai-launches-grok-bot
+2026-08-13 | FORM | 🔥 | UPCOMING | Nasdaq Confirmed AGM Group Holdings Inc. Complies with The Nasdaq Listing Rules | https://www.globenewswire.com/news-release/2026/08/12/3343665/0/en/nasdaq-confirmed-agm-group-holdings-inc-complies-with-the-nasdaq-listing-rules.html
