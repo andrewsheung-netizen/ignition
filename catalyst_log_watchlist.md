@@ -598,3 +598,8 @@
 2026-08-13 | XAI | 🔥 | UPCOMING | xAI co-founder raises $1.1B for River AI to build an open AI stack | https://techfundingnews.com/xai-co-founder-raises-1-1b-for-river-ai-to-build-an-open-ai-stack/
 2026-08-13 | XAI | 🔥 | UPCOMING | xAI Launches Grok Bot, Always-On AI Teammates | https://blockchain.news/news/xai-launches-grok-bot
 2026-08-13 | FORM | 🔥 | UPCOMING | Nasdaq Confirmed AGM Group Holdings Inc. Complies with The Nasdaq Listing Rules | https://www.globenewswire.com/news-release/2026/08/12/3343665/0/en/nasdaq-confirmed-agm-group-holdings-inc-complies-with-the-nasdaq-listing-rules.html
+2026-08-14 | AVAX | 🔥 | UPCOMING | Crypto Overview: ETH and AVAX Grind Sideways While Pepeto Presale Keeps Filling Before Lis | https://techbullion.com/crypto-overview-eth-and-avax-grind-sideways-while-pepeto-presale-keeps-filling-before-listing/
+2026-08-14 | ALGO | 🔥 | RECENT | Algorand (ALGO) Introduces Post-Quantum Resilience in Major Upgrade | https://blockchain.news/news/algorand-post-quantum-upgrade
+2026-08-14 | FORM | 🔥 | UPCOMING | Caliber Goes Live with PURE Pickleball & Padel Tokenized Real Estate Investment Offering | https://www.manilatimes.net/2026/08/13/tmt-newswire/globenewswire/caliber-goes-live-with-pure-pickleball-padel-tokenized-real-estate-investment-offering/2404772
+2026-08-14 | FORM | 🔥 | RECENT | Coinbase establishes international tokenisation hub in Abu Dhabi | https://www.emirates247.com/business/coinbase-establishes-international-tokenisation-hub-in-abu-dhabi/4517
+2026-08-14 | SNT | 🔥 | UPCOMING | CZR Exchange Launches VIP Match Program for Professional Cryptocurrency Traders | https://www.financialcontent.com/article/globeprwire-2026-8-13-czr-exchange-launches-vip-match-program-for-professional-cryptocurrency-traders
