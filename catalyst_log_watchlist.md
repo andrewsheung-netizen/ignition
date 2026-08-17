@@ -618,3 +618,10 @@
 2026-08-16 | XAI | 🔥 | UPCOMING | Elon Musk’s SpaceXAI Launches Grok Bot to Turn AI Agents Into Always-On Workers | https://www.techopedia.com/elon-musks-spacexai-launches-grok-bot-to-turn-ai-agents-into-always-on-workers
 2026-08-16 | PORTAL | 🔥 | RECENT | Cardano Advances Toward Dijkstra Upgrade, Emphasises Governance and Node Diversity | https://us.headtopics.com/news/cardano-advances-toward-dijkstra-upgrade-emphasises-86653819
 2026-08-16 | FORM | 🔥 | RECENT | JPMorgan Q2 Filing Highlights Higher Bitcoin and Ether ETF Exposure | https://www.cryptobreaking.com/jpmorgan-q2-filing-highlights-higher/
+2026-08-17 | ZEC | 🔥 | UPCOMING | From $490 to $700? Zcash Price Prediction Bull Case Returns as AlphaPepe Buyers Position A | https://www.openpr.com/news/4604787/from-490-to-700-zcash-price-prediction-bull-case-returns-as
+2026-08-17 | ALGO | 🔥 | UPCOMING | Algorand (ALGO) v5.0.0 Launches with Quantum-Resilient Accounts | https://blockchain.news/news/algorand-v5-quantum-resilient-upgrade
+2026-08-17 | FORM | 🔥 | RECENT | Sandro Wealth Management LLC Acquires New Shares in Core Scientific, Inc. $CORZ | https://zolmax.com/investing/sandro-wealth-management-llc-acquires-new-shares-in-core-scientific-inc-corz/11955387.html
+2026-08-17 | GALA | 🔥 | RECENT | Oborevwori Hosts UBEC-SUBEB Key Players At Gala Night, Pledges More Investment In Basic Ed | https://independent.ng/oborevwori-hosts-ubec-subeb-key-players-at-gala-night-pledges-more-investment-in-basic-education/
+2026-08-17 | PORTAL | ⚠️ | RECENT | Hackers Hijack Nigerian Military’s X Account, Push Crypto Scam | https://converseer.com/hackers-hijack-nigerian-militarys-x-account-push-crypto-scam/
+2026-08-17 | SNT | 🔥 | RECENT | Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move  | https://abc7.com/story/trump-linked-crypto-venture-world-liberty-trust-granted-bank-status-unprecedented-move-president/19684787/
+2026-08-17 | SNT | 🔥 | RECENT | linked crypto venture World Liberty Trust granted bank status | https://www.newsbreak.com/abc-news-510079/4831304322449-trump-linked-crypto-venture-world-liberty-trust-granted-bank-status
