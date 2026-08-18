@@ -15,7 +15,6 @@
    🔥 AAVE [CORE] — Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio
    🔥 AVAX [CORE] — Crypto Update Exposes SOL and AVAX Bleeding 95% From Peaks While Pepeto Rockets 
    🔥 ALGO [CORE] — ALGO Price Prediction: Dead Cat or Launchpad? The $0.08 Line That Decides Everyt
-   🔥 FORM [CORE] — JPMorgan Q2 Filing Highlights Higher Bitcoin and Ether ETF Exposure
-   🔥 PORTAL [VERIFY] — Auddia Announces Exclusive Label Partnership with AMG Corp, Making Discovr Radio
+   🔥 SNT [VERIFY] — Trump family's World Liberty Financial granted bank status
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.

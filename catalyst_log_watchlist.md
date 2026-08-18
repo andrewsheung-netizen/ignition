@@ -633,3 +633,4 @@
 2026-08-18 | USUAL | 🔥 | UPCOMING | Kraken Partners With Mesh to Simplify Crypto Deposits | https://financialit.net/news/cryptocurrencies/kraken-partners-mesh-simplify-crypto-deposits
 2026-08-18 | PORTAL | 🔥 | RECENT | Auddia Announces Exclusive Label Partnership with AMG Corp, Making Discovr Radio Its Exclu | https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/auddia-announces-exclusive-label-partnership-with-amg-corp-making-discovr-radio-its-exclusive-digital-radio-release-channel/2406689
 2026-08-18 | KAITO | ⚠️ | UPCOMING | Key Token Unlocks This Week: KAITO Leads with $11.48M Release | https://bitcoinworld.co.in/key-token-unlocks-this-week-kaito-leads/
+2026-08-18 | SNT | 🔥 | RECENT | Trump family's World Liberty Financial granted bank status | https://www.cbsnews.com/video/trump-familys-world-liberty-financial-granted-bank-status/
