@@ -6,7 +6,7 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787211000000,
+    "last_check": 1787214600000,
     "peak": 1.34,
     "half": false,
     "tier": "WATCH"
@@ -15,8 +15,8 @@
     "entry": 0.1404,
     "notional": 1661.828040507617,
     "ts": 1785772800000,
-    "last_check": 1787211000000,
-    "peak": 0.15,
+    "last_check": 1787214600000,
+    "peak": 0.1542,
     "half": false,
     "tier": "CORE"
    },
@@ -24,7 +24,7 @@
     "entry": 0.000805,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1787211000000,
+    "last_check": 1787214600000,
     "peak": 0.000907,
     "half": false,
     "tier": "VERIFY"
@@ -33,8 +33,8 @@
     "entry": 0.766,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1787211000000,
-    "peak": 0.899,
+    "last_check": 1787214600000,
+    "peak": 0.909,
     "half": false,
     "tier": "WATCH"
    },
@@ -42,8 +42,8 @@
     "entry": 0.1943,
     "notional": 1706.0078178932192,
     "ts": 1787025600000,
-    "last_check": 1787211000000,
-    "peak": 0.2063,
+    "last_check": 1787214600000,
+    "peak": 0.2067,
     "half": false,
     "tier": "VERIFY"
    }
@@ -122,13 +122,13 @@
   }
  },
  "B": {
-  "bal": 25717.086565848665,
+  "bal": 25865.329305797444,
   "pos": {
    "LPT": {
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1787211000000,
+    "last_check": 1787214600000,
     "peak": 1.34,
     "half": false,
     "tier": "WATCH"
@@ -137,8 +137,8 @@
     "entry": 0.1404,
     "notional": 1664.6013738409506,
     "ts": 1785772800000,
-    "last_check": 1787211000000,
-    "peak": 0.15,
+    "last_check": 1787214600000,
+    "peak": 0.1542,
     "half": false,
     "tier": "CORE"
    },
@@ -146,26 +146,26 @@
     "entry": 0.000805,
     "notional": 1664.6013738409506,
     "ts": 1785830400000,
-    "last_check": 1787211000000,
+    "last_check": 1787214600000,
     "peak": 0.000907,
     "half": false,
     "tier": "VERIFY"
    },
    "ZRO": {
     "entry": 0.766,
-    "notional": 1664.6013738409506,
+    "notional": 832.3006869204753,
     "ts": 1785830400000,
-    "last_check": 1787211000000,
-    "peak": 0.899,
-    "half": false,
+    "last_check": 1787214600000,
+    "peak": 0.909,
+    "half": true,
     "tier": "WATCH"
    },
    "API3": {
     "entry": 0.1943,
     "notional": 1714.4724377232444,
     "ts": 1787025600000,
-    "last_check": 1787211000000,
-    "peak": 0.2063,
+    "last_check": 1787214600000,
+    "peak": 0.2067,
     "half": false,
     "tier": "VERIFY"
    }
@@ -250,6 +250,14 @@
     "why": "runner +27%",
     "xts": 1786488300000,
     "entry_ts": 1786377600000
+   },
+   {
+    "sym": "ZRO",
+    "ret": 17.81,
+    "pnl": 148.24,
+    "why": "booked \u00bd @ +18%",
+    "xts": 1787213700000,
+    "entry_ts": 1785830400000
    }
   ],
   "last_entry": {
@@ -268,6 +276,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1787198400,
+ "last_4h": 1787212800,
  "hb_date": "2026-08-20"
 }
