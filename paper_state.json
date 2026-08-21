@@ -6,8 +6,8 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787319000000,
-    "peak": 1.402,
+    "last_check": 1787321700000,
+    "peak": 1.406,
     "half": false,
     "tier": "WATCH"
    },
@@ -15,8 +15,8 @@
     "entry": 0.1943,
     "notional": 1706.0078178932192,
     "ts": 1787025600000,
-    "last_check": 1787319000000,
-    "peak": 0.2266,
+    "last_check": 1787321700000,
+    "peak": 0.2293,
     "half": false,
     "tier": "VERIFY"
    }
@@ -119,24 +119,24 @@
   }
  },
  "B": {
-  "bal": 26830.904637113115,
+  "bal": 26983.588694526996,
   "pos": {
    "LPT": {
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1787319000000,
-    "peak": 1.402,
+    "last_check": 1787321700000,
+    "peak": 1.406,
     "half": false,
     "tier": "WATCH"
    },
    "API3": {
     "entry": 0.1943,
-    "notional": 1714.4724377232444,
+    "notional": 857.2362188616222,
     "ts": 1787025600000,
-    "last_check": 1787319000000,
-    "peak": 0.2266,
-    "half": false,
+    "last_check": 1787321700000,
+    "peak": 0.2293,
+    "half": true,
     "tier": "VERIFY"
    }
   },
@@ -268,6 +268,14 @@
     "why": "runner +27%",
     "xts": 1787309100000,
     "entry_ts": 1785830400000
+   },
+   {
+    "sym": "API3",
+    "ret": 17.81,
+    "pnl": 152.68,
+    "why": "booked \u00bd @ +18%",
+    "xts": 1787319900000,
+    "entry_ts": 1787025600000
    }
   ],
   "last_entry": {
