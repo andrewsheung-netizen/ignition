@@ -6,8 +6,8 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787298300000,
-    "peak": 1.357,
+    "last_check": 1787301900000,
+    "peak": 1.383,
     "half": false,
     "tier": "WATCH"
    },
@@ -15,7 +15,7 @@
     "entry": 0.766,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1787298300000,
+    "last_check": 1787301900000,
     "peak": 0.918,
     "half": false,
     "tier": "WATCH"
@@ -24,8 +24,8 @@
     "entry": 0.1943,
     "notional": 1706.0078178932192,
     "ts": 1787025600000,
-    "last_check": 1787298300000,
-    "peak": 0.2213,
+    "last_check": 1787301900000,
+    "peak": 0.2237,
     "half": false,
     "tier": "VERIFY"
    }
@@ -120,40 +120,22 @@
   }
  },
  "B": {
-  "bal": 26161.814785695,
+  "bal": 26607.87468664041,
   "pos": {
    "LPT": {
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1787298300000,
-    "peak": 1.357,
+    "last_check": 1787301900000,
+    "peak": 1.383,
     "half": false,
     "tier": "WATCH"
-   },
-   "WIF": {
-    "entry": 0.1404,
-    "notional": 832.3006869204753,
-    "ts": 1785772800000,
-    "last_check": 1787298300000,
-    "peak": 0.1756,
-    "half": true,
-    "tier": "CORE"
-   },
-   "TURBO": {
-    "entry": 0.000805,
-    "notional": 832.3006869204753,
-    "ts": 1785830400000,
-    "last_check": 1787298300000,
-    "peak": 0.00101,
-    "half": true,
-    "tier": "VERIFY"
    },
    "ZRO": {
     "entry": 0.766,
     "notional": 832.3006869204753,
     "ts": 1785830400000,
-    "last_check": 1787298300000,
+    "last_check": 1787301900000,
     "peak": 0.918,
     "half": true,
     "tier": "WATCH"
@@ -162,8 +144,8 @@
     "entry": 0.1943,
     "notional": 1714.4724377232444,
     "ts": 1787025600000,
-    "last_check": 1787298300000,
-    "peak": 0.2213,
+    "last_check": 1787301900000,
+    "peak": 0.2237,
     "half": false,
     "tier": "VERIFY"
    }
@@ -271,6 +253,22 @@
     "pnl": 148.24,
     "why": "booked \u00bd @ +18%",
     "xts": 1787254200000,
+    "entry_ts": 1785830400000
+   },
+   {
+    "sym": "WIF",
+    "ret": 26.8,
+    "pnl": 223.03,
+    "why": "runner +27%",
+    "xts": 1787301900000,
+    "entry_ts": 1785772800000
+   },
+   {
+    "sym": "TURBO",
+    "ret": 26.8,
+    "pnl": 223.03,
+    "why": "runner +27%",
+    "xts": 1787300100000,
     "entry_ts": 1785830400000
    }
   ],
