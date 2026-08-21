@@ -6,8 +6,8 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787294700000,
-    "peak": 1.346,
+    "last_check": 1787298300000,
+    "peak": 1.357,
     "half": false,
     "tier": "WATCH"
    },
@@ -15,7 +15,7 @@
     "entry": 0.766,
     "notional": 1661.828040507617,
     "ts": 1785830400000,
-    "last_check": 1787294700000,
+    "last_check": 1787298300000,
     "peak": 0.918,
     "half": false,
     "tier": "WATCH"
@@ -24,8 +24,8 @@
     "entry": 0.1943,
     "notional": 1706.0078178932192,
     "ts": 1787025600000,
-    "last_check": 1787294700000,
-    "peak": 0.2168,
+    "last_check": 1787298300000,
+    "peak": 0.2213,
     "half": false,
     "tier": "VERIFY"
    }
@@ -126,8 +126,8 @@
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1787294700000,
-    "peak": 1.346,
+    "last_check": 1787298300000,
+    "peak": 1.357,
     "half": false,
     "tier": "WATCH"
    },
@@ -135,8 +135,8 @@
     "entry": 0.1404,
     "notional": 832.3006869204753,
     "ts": 1785772800000,
-    "last_check": 1787294700000,
-    "peak": 0.1709,
+    "last_check": 1787298300000,
+    "peak": 0.1756,
     "half": true,
     "tier": "CORE"
    },
@@ -144,8 +144,8 @@
     "entry": 0.000805,
     "notional": 832.3006869204753,
     "ts": 1785830400000,
-    "last_check": 1787294700000,
-    "peak": 0.000984,
+    "last_check": 1787298300000,
+    "peak": 0.00101,
     "half": true,
     "tier": "VERIFY"
    },
@@ -153,7 +153,7 @@
     "entry": 0.766,
     "notional": 832.3006869204753,
     "ts": 1785830400000,
-    "last_check": 1787294700000,
+    "last_check": 1787298300000,
     "peak": 0.918,
     "half": true,
     "tier": "WATCH"
@@ -162,8 +162,8 @@
     "entry": 0.1943,
     "notional": 1714.4724377232444,
     "ts": 1787025600000,
-    "last_check": 1787294700000,
-    "peak": 0.2168,
+    "last_check": 1787298300000,
+    "peak": 0.2213,
     "half": false,
     "tier": "VERIFY"
    }
@@ -290,6 +290,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1787284800,
+ "last_4h": 1787299200,
  "hb_date": "2026-08-21"
 }
