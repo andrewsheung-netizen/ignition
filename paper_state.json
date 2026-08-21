@@ -6,7 +6,7 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787315400000,
+    "last_check": 1787319000000,
     "peak": 1.402,
     "half": false,
     "tier": "WATCH"
@@ -15,8 +15,8 @@
     "entry": 0.1943,
     "notional": 1706.0078178932192,
     "ts": 1787025600000,
-    "last_check": 1787315400000,
-    "peak": 0.226,
+    "last_check": 1787319000000,
+    "peak": 0.2266,
     "half": false,
     "tier": "VERIFY"
    }
@@ -125,7 +125,7 @@
     "entry": 1.301,
     "notional": 1664.6013738409506,
     "ts": 1785744000000,
-    "last_check": 1787315400000,
+    "last_check": 1787319000000,
     "peak": 1.402,
     "half": false,
     "tier": "WATCH"
@@ -134,8 +134,8 @@
     "entry": 0.1943,
     "notional": 1714.4724377232444,
     "ts": 1787025600000,
-    "last_check": 1787315400000,
-    "peak": 0.226,
+    "last_check": 1787319000000,
+    "peak": 0.2266,
     "half": false,
     "tier": "VERIFY"
    }
