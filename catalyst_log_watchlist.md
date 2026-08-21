@@ -654,3 +654,4 @@
 2026-08-21 | INJ | 🔥 | RECENT | Injective Adds Regulated Securities Recordkeeping for Tokenized Assets | https://us.headtopics.com/news/injective-adds-regulated-securities-recordkeeping-for-86797241
 2026-08-21 | AVAX | 🔥 | RECENT | Solana’s 2026 Upgrades Could Give SOL an Edge Over Ethereum, Avalanche and Sui | https://coinpedia.org/news/solanas-2026-upgrades-could-give-sol-an-edge-over-ethereum-avalanche-and-sui/
 2026-08-21 | RED | ⚠️ | UPCOMING | Coinbase to Delist 9 Perpetual Futures Contracts, Including Kaspa and POPCAT, on Sept. 3 | https://bitcoinworld.co.in/coinbase-delists-9-perpetual-futures-contracts/
+2026-08-21 | PORTAL | 🔥 | UPCOMING | Best Crypto To Buy Now: Portal’s 53% Surge Proves Small Caps Still Explode, AlphaPepe Give | https://techbullion.com/best-crypto-to-buy-now-portals-53-surge-proves-small-caps-still-explode-alphapepe-gives-retail-the-ai-play-before-listing/
