@@ -6,8 +6,8 @@
     "entry": 1.301,
     "notional": 1661.828040507617,
     "ts": 1785744000000,
-    "last_check": 1787365800000,
-    "peak": 1.505,
+    "last_check": 1787369400000,
+    "peak": 1.555,
     "half": false,
     "tier": "WATCH"
    }
@@ -118,23 +118,23 @@
   }
  },
  "B": {
-  "bal": 26983.588694526996,
+  "bal": 27131.831434475775,
   "pos": {
    "LPT": {
     "entry": 1.301,
-    "notional": 1664.6013738409506,
+    "notional": 832.3006869204753,
     "ts": 1785744000000,
-    "last_check": 1787365800000,
-    "peak": 1.505,
-    "half": false,
+    "last_check": 1787369400000,
+    "peak": 1.555,
+    "half": true,
     "tier": "WATCH"
    },
    "API3": {
     "entry": 0.1943,
     "notional": 857.2362188616222,
     "ts": 1787025600000,
-    "last_check": 1787365800000,
-    "peak": 0.2373,
+    "last_check": 1787369400000,
+    "peak": 0.2392,
     "half": true,
     "tier": "VERIFY"
    }
@@ -275,6 +275,14 @@
     "why": "booked \u00bd @ +18%",
     "xts": 1787319900000,
     "entry_ts": 1787025600000
+   },
+   {
+    "sym": "LPT",
+    "ret": 17.81,
+    "pnl": 148.24,
+    "why": "booked \u00bd @ +18%",
+    "xts": 1787367600000,
+    "entry_ts": 1785744000000
    }
   ],
   "last_entry": {
