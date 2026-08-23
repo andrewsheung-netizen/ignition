@@ -122,7 +122,7 @@
     "entry": 1.301,
     "notional": 832.3006869204753,
     "ts": 1785744000000,
-    "last_check": 1787508900000,
+    "last_check": 1787511600000,
     "peak": 1.585,
     "half": true,
     "tier": "WATCH"
@@ -131,7 +131,7 @@
     "entry": 0.1943,
     "notional": 857.2362188616222,
     "ts": 1787025600000,
-    "last_check": 1787508900000,
+    "last_check": 1787511600000,
     "peak": 0.2446,
     "half": true,
     "tier": "VERIFY"
