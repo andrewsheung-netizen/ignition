@@ -661,3 +661,18 @@
 2026-08-22 | NIL | 🔥 | RECENT | Upbit Lists Four New Altcoins, Sparking Market Gains | https://econotimes.com/Upbit-Lists-Four-New-Altcoins-Sparking-Market-Gains-1750072
 2026-08-22 | NIL | 🔥 | RECENT | Upbit Expands Altcoin Offerings: BICO, BMT, NIL, and GWEI Now Tradable Against BTC and USD | https://bitcoinworld.co.in/upbit-lists-bico-bmt-nil-gwei/
 2026-08-22 | KAITO | 🔥 | RECENT | MEXC Partners with Kaito on $200K Stock Education Campaign During MEXC 0808 Stock Season | https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/mexc-partners-with-kaito-on-200k-stock-education-campaign-during-mexc-0808-stock-season/2409467
+2026-08-23 | ZEC | 🔥 | UPCOMING | Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz | https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016
+2026-08-23 | ZEC | 🔥 | RECENT | Zcash (ZEC) Surges 20% as Grayscale Files for Spot ZEC ETF | https://bitcoinworld.co.in/zcash-zec-surges-grayscale-spot-etf/
+2026-08-23 | ZEC | 🔥 | UPCOMING | Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing | https://us.headtopics.com/news/grayscale-moves-closer-to-launching-first-zcash-etf-in-us-86887292
+2026-08-23 | ZEC | 🔥 | UPCOMING | Best Crypto Presales for the Next Rotation: 6 Picks as Grayscale Moves Closer to a Zcash E | https://www.openpr.com/news/4610032/best-crypto-presales-for-the-next-rotation-6-picks-as-grayscale
+2026-08-23 | ZEC | 🔥 | RECENT | Crypto Biz: Treasury ‘Not-QE’ Fuels Bitcoin Rally | https://us.headtopics.com/news/crypto-biz-treasury-not-qe-fuels-bitcoin-rally-86874771
+2026-08-23 | ZEC | 🔥 | RECENT | Crypto Biz: Treasury ‘Not | https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher
+2026-08-23 | INJ | 🔥 | RECENT | Injective Price Tests $5 as RWA Infrastructure Expands | https://coinpedia.org/price-analysis/injective-price-tests-5-as-rwa-infrastructure-expands/
+2026-08-23 | FORM | 🔥 | RECENT | 1,003,135 Shares in Gilead Sciences, Inc. $GILD Bought by Korea Investment CORP | https://baseballnewssource.com/2026/08/22/1003135-shares-in-gilead-sciences-inc-gild-bought-by-korea-investment-corp/11235470.html
+2026-08-23 | FORM | 🔥 | RECENT | OneAscent Wealth Management LLC Makes New Investment in Chubb Limited $CB | https://www.themarketsdaily.com/2026/08/22/oneascent-wealth-management-llc-makes-new-investment-in-chubb-limited-cb.html
+2026-08-23 | FORM | 🔥 | RECENT | Ieq Capital LLC Acquires New Stake in Fortinet, Inc. $FTNT | https://www.dailypolitical.com/2026/08/22/ieq-capital-llc-acquires-new-stake-in-fortinet-inc-ftnt.html
+2026-08-23 | FORM | 🔥 | RECENT | Ieq Capital LLC Makes New $44.39 Million Investment in Phillips 66 $PSX | https://www.watchlistnews.com/ieq-capital-llc-makes-new-44-39-million-investment-in-phillips-66-psx/11195312.html
+2026-08-23 | FORM | 🔥 | RECENT | ASO Group Builds Integrated Digital Ecosystem Across Education, Global Markets and Web3 Ut | https://www.tribuneindia.com/news/business/aso-group-builds-integrated-digital-ecosystem-across-education-global-markets-and-web3-utility/
+2026-08-23 | BOME | 🔥 | UPCOMING | BOOK OF MEME Explodes 49% on Airdrop News as AlphaPepe Buyers Hunt the Move Before the Pum | https://www.openpr.com/news/4609899/book-of-meme-explodes-49-on-airdrop-news-as-alphapepe-buyers-hunt
+2026-08-23 | GALA | ⚠️ | RECENT | Bithumb Flags BB, GALA, and SUNDOG for Possible Delisting | https://bitcoinworld.co.in/bithumb-delisting-watchlist-bb-gala-sundog/
+2026-08-23 | XVG | 🔥 | RECENT | XLM Eyes Breakout as Stellar Leads RWA Adoption and Network Upgrade | https://us.headtopics.com/news/xlm-eyes-breakout-as-stellar-leads-rwa-adoption-and-network-86890377
