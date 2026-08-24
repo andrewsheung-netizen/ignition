@@ -686,3 +686,4 @@
 2026-08-24 | BONK | 🔥 | UPCOMING | Cardano (ADA): $2.5M Catalyst Fund Opens as AlphaPepe Pulls SHIB and BONK Whales Into the  | https://www.openpr.com/news/4610592/cardano-ada-2-5m-catalyst-fund-opens-as-alphapepe-pulls-shib
 2026-08-24 | PORTAL | 🔥 | UPCOMING | Mattle Run Launches Season 17 With 500,000 MATTLE and 100,000 SKR Up for Grabs | https://egamers.io/mattle-run-launches-season-17-with-500000-mattle-and-100000-skr-up-for-grabs/
 2026-08-24 | SNT | 🔥 | UPCOMING | Crypto Casino No Deposit Bonus 2026: Bitstarz Casino Launch $200 No Deposit Bonus 200 Free | https://www.manilatimes.net/2026/08/23/tmt-newswire/globenewswire/crypto-casino-no-deposit-bonus-2026-bitstarz-casino-launch-200-no-deposit-bonus-200-free-spins-real-money-for-online-player-in-usa/2410458
+2026-08-24 | ZEC | 🔥 | UPCOMING | Can Zcash Flip XRP? NYSE ETF Launch Boosts Privacy Coin to 8 | https://u.today/can-zcash-flip-xrp-nyse-etf-launch-boosts-privacy-coin-to-8-year-price-record
