@@ -726,3 +726,7 @@
 2026-08-27 | ZRO | 🔥 | UPCOMING | Can ZRO hit $1.46 after LayerZero launches ATLAS? | https://invezz.com/news/2026/08/26/can-zro-hit-1-46-after-layerzero-launches-atlas/
 2026-08-27 | ZRO | ⚠️ | RECENT | The Sandbox Confirms 14.7 Million SAND Drained From Ethereum Vault in Bridge Exploit | https://egamers.io/the-sandbox-confirms-14-7-million-sand-drained-from-ethereum-vault-in-bridge-exploit/
 2026-08-27 | ZRO | 🔥 | RECENT | LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges | https://biztoc.com/x/ffc2a90d943e1323
+2026-08-27 | ZEC | 🔥 | RECENT | Zcash News: 5 Picks for New Crypto With 100x Potential as ETF Buzz Lifts ZEC and ChainSpin | https://www.openpr.com/news/4614213/zcash-news-5-picks-for-new-crypto-with-100x-potential-as-etf-buzz
+2026-08-27 | INJ | 🔥 | RECENT | Injective Expands US Tokenization With SEC Transfer Agent Status | https://www.analyticsinsight.net/news/injective-expands-us-tokenization-with-sec-transfer-agent-status
+2026-08-27 | HUMA | 🔥 | UPCOMING | Sentora Launches PYUSD-Backed Vault on Morpho Using Huma Finance’s PST Token | https://bitcoinworld.co.in/sentora-launches-pyusd-backed-vault-on-morpho/
+2026-08-27 | STX | 🔥 | UPCOMING | Stacks to Name Second Institutional Bitcoin Staking Participant This Week | https://bitcoinworld.co.in/stacks-second-institutional-bitcoin-staking-participant/
