@@ -730,3 +730,8 @@
 2026-08-27 | INJ | 🔥 | RECENT | Injective Expands US Tokenization With SEC Transfer Agent Status | https://www.analyticsinsight.net/news/injective-expands-us-tokenization-with-sec-transfer-agent-status
 2026-08-27 | HUMA | 🔥 | UPCOMING | Sentora Launches PYUSD-Backed Vault on Morpho Using Huma Finance’s PST Token | https://bitcoinworld.co.in/sentora-launches-pyusd-backed-vault-on-morpho/
 2026-08-27 | STX | 🔥 | UPCOMING | Stacks to Name Second Institutional Bitcoin Staking Participant This Week | https://bitcoinworld.co.in/stacks-second-institutional-bitcoin-staking-participant/
+2026-08-28 | ZEC | 🔥 | UPCOMING | ZEC Social Mentions Spike 6-Fold Before Grayscale ETF Launch, Then Normalize | https://bitcoinworld.co.in/zec-social-mentions-spike-before-grayscale-etf-launch/
+2026-08-28 | ZEC | 🔥 | RECENT | ZMINER: Your Zcash Mining Partner for a Smarter Digital Future | https://www.openpr.com/news/4614956/zminer-your-zcash-mining-partner-for-a-smarter-digital-future
+2026-08-28 | AVAX | 🔥 | UPCOMING | Avalanche Treasury doubles down on its strategy to build shareholder value after a $44 mil | https://cryptoslate.com/avalanche-treasury-doubles-down-on-its-strategy-to-build-shareholder-value-after-a-44-million-hit/
+2026-08-28 | STX | 🔥 | RECENT | Asia's No. 1 Staking Provider HashKey Joins Bitcoin Staking on Stacks | https://www.stacks.co/blog/asias-no-1-staking-provider-hashkey-joins-bitcoin-staking-on-stacks
+2026-08-28 | STX | 🔥 | UPCOMING | Operant AI Launches Semantic Firewall to Enforce AI Agent Intent in Real-Time | https://www.manilatimes.net/2026/08/27/tmt-newswire/globenewswire/operant-ai-launches-semantic-firewall-to-enforce-ai-agent-intent-in-real-time/2413231
