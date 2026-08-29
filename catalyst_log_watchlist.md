@@ -741,3 +741,5 @@
 2026-08-28 | FORM | 🔥 | UPCOMING | 39 US state banking groups form BankChain Alliance for 2027 blockchain launch | https://crypto.news/39-us-state-banking-groups-form-bankchain-alliance-for-2027-blockchain-launch/
 2026-08-29 | AVAX | 🔥 | UPCOMING | Best Altcoin To Buy Now: AVAX Targets $25 While AlphaPepe Offers a 184% Climb to Its Plann | https://www.openpr.com/news/4615862/best-altcoin-to-buy-now-avax-targets-25-while-alphapepe-offers
 2026-08-29 | SNT | 🔥 | UPCOMING | Business : AIREI Launches Its Second AI-Based Smart Palm Oil Mill | http://www.bernama.com/en/news.php?id=2600224
+2026-08-29 | PORTAL | 🔥 | UPCOMING | Ather Konarc Early Access Bookings Open Ahead of 29 August 2026 Launch | https://evindia.online/news/ather-konarc-pre-booking-early-access-open
+2026-08-29 | SNT | 🔥 | UPCOMING | Cambria Retires Founder, Core and Companion NFTs as $RSGP Token Launch Nears | https://egamers.io/cambria-retires-founder-core-and-companion-nfts-as-rsgp-token-launch-nears/
