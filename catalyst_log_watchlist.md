@@ -743,3 +743,4 @@
 2026-08-29 | SNT | 🔥 | UPCOMING | Business : AIREI Launches Its Second AI-Based Smart Palm Oil Mill | http://www.bernama.com/en/news.php?id=2600224
 2026-08-29 | PORTAL | 🔥 | UPCOMING | Ather Konarc Early Access Bookings Open Ahead of 29 August 2026 Launch | https://evindia.online/news/ather-konarc-pre-booking-early-access-open
 2026-08-29 | SNT | 🔥 | UPCOMING | Cambria Retires Founder, Core and Companion NFTs as $RSGP Token Launch Nears | https://egamers.io/cambria-retires-founder-core-and-companion-nfts-as-rsgp-token-launch-nears/
+2026-08-30 | AAVE | 🔥 | RECENT | Tokenized gold is becoming productive collateral in crypto lending, Arch says | https://crypto.news/tokenized-gold-productive-collateral-in-crypto-lending/
