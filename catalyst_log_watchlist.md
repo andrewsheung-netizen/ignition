@@ -744,3 +744,9 @@
 2026-08-29 | PORTAL | 🔥 | UPCOMING | Ather Konarc Early Access Bookings Open Ahead of 29 August 2026 Launch | https://evindia.online/news/ather-konarc-pre-booking-early-access-open
 2026-08-29 | SNT | 🔥 | UPCOMING | Cambria Retires Founder, Core and Companion NFTs as $RSGP Token Launch Nears | https://egamers.io/cambria-retires-founder-core-and-companion-nfts-as-rsgp-token-launch-nears/
 2026-08-30 | AAVE | 🔥 | RECENT | Tokenized gold is becoming productive collateral in crypto lending, Arch says | https://crypto.news/tokenized-gold-productive-collateral-in-crypto-lending/
+2026-08-30 | AVAX | 🔥 | UPCOMING | Avalanche Price Prediction: AVAX Tests $7.40 as ChainSpin Launches $SPIN Behind a Fully Li | https://www.openpr.com/news/4616433/avalanche-price-prediction-avax-tests-7-40-as-chainspin
+2026-08-30 | FORM | 🔥 | RECENT | Kingsview Wealth Management LLC Acquires Shares of 9,112 BlackRock $BLK | https://www.watchlistnews.com/kingsview-wealth-management-llc-acquires-shares-of-9112-blackrock-blk/11206059.html
+2026-08-30 | FORM | 🔥 | RECENT | Mastercard Incorporated $MA Shares Acquired by New Mexico Educational Retirement Board | https://www.themarketsdaily.com/2026/08/29/mastercard-incorporated-ma-shares-acquired-by-new-mexico-educational-retirement-board.html
+2026-08-30 | FORM | 🔥 | UPCOMING | UNIC OTT Announces Global Web3-Powered Short-Drama Platform for January 2027 Launch | https://www.aninews.in/news/business/unic-ott-announces-global-web3-powered-short-drama-platform-for-january-2027-launch20260829145120/
+2026-08-30 | STX | 🔥 | UPCOMING | Crypto News Today BITCOIN Breaks $80K and Pepeto Presale Stacks $10.7 Million Before Listi | https://techbullion.com/crypto-news-today-bitcoin-breaks-80k-and-pepeto-presale-stacks-10-7-million-before-listing/
+2026-08-30 | STX | 🔥 | RECENT | STX crypto review 2026: Tokenomics, BTC yield and staking demand | https://crypto.news/stx-crypto-review-2026-tokenomics-btc-yield-and-staking-demand/
