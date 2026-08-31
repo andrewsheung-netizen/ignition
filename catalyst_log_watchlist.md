@@ -755,3 +755,5 @@
 2026-08-31 | AVAX | 🔥 | UPCOMING | Best Altcoin To Buy Now: AVAX Lands on Schwab While AlphaPepe Offers 184% to Its $0.08 Lis | https://www.openpr.com/news/4616820/best-altcoin-to-buy-now-avax-lands-on-schwab-while-alphapepe
 2026-08-31 | FORM | 🔥 | RECENT | Rakuten Investment Management Inc. Acquires New Stake in Take-Two Interactive Software, In | https://www.themarketsdaily.com/2026/08/30/rakuten-investment-management-inc-acquires-new-stake-in-take-two-interactive-software-inc-ttwo.html
 2026-08-31 | FORM | 🔥 | RECENT | Glenview Trust Co Makes New Investment in Bank of America Corporation $BAC | https://baseballnewssource.com/2026/08/30/glenview-trust-co-makes-new-investment-in-bank-of-america-corporation-bac/11246949.html
+2026-08-31 | ZEC | 🔥 | UPCOMING | Zcash News Today: ZEC Nears $800 on ETF Demand While AlphaPepe Targets a Listing Price Fro | https://www.openpr.com/news/4616864/zcash-news-today-zec-nears-800-on-etf-demand-while-alphapepe
+2026-08-31 | AVAX | 🔥 | UPCOMING | 5 Upcoming Crypto Listings To Watch as Solana and Avalanche Land on Schwab | https://www.openpr.com/news/4616878/5-upcoming-crypto-listings-to-watch-as-solana-and-avalanche-land
