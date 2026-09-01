@@ -757,3 +757,4 @@
 2026-08-31 | FORM | 🔥 | RECENT | Glenview Trust Co Makes New Investment in Bank of America Corporation $BAC | https://baseballnewssource.com/2026/08/30/glenview-trust-co-makes-new-investment-in-bank-of-america-corporation-bac/11246949.html
 2026-08-31 | ZEC | 🔥 | UPCOMING | Zcash News Today: ZEC Nears $800 on ETF Demand While AlphaPepe Targets a Listing Price Fro | https://www.openpr.com/news/4616864/zcash-news-today-zec-nears-800-on-etf-demand-while-alphapepe
 2026-08-31 | AVAX | 🔥 | UPCOMING | 5 Upcoming Crypto Listings To Watch as Solana and Avalanche Land on Schwab | https://www.openpr.com/news/4616878/5-upcoming-crypto-listings-to-watch-as-solana-and-avalanche-land
+2026-09-01 | JUP | 🔥 | RECENT | Jupiter Topco LLC Makes New $8.52 Million Investment in Hut 8 Corp. $HUT | https://www.tickerreport.com/banking-finance/13567011/jupiter-topco-llc-makes-new-8-52-million-investment-in-hut-8-corp-hut.html
