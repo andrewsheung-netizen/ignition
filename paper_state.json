@@ -6,7 +6,7 @@
     "entry": 0.000622,
     "notional": 1816.3161926681043,
     "ts": 1788321600000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.000647,
     "half": false,
     "tier": "WATCH"
@@ -15,8 +15,8 @@
     "entry": 0.0361,
     "notional": 1845.4744224261713,
     "ts": 1788609600000,
-    "last_check": 1788609600000,
-    "peak": 0.0361,
+    "last_check": 1788634800000,
+    "peak": 0.0373,
     "half": false,
     "tier": "VERIFY"
    },
@@ -24,7 +24,7 @@
     "entry": 0.0009057,
     "notional": 1797.9883514066214,
     "ts": 1788350400000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.0009445,
     "half": false,
     "tier": "VERIFY"
@@ -179,7 +179,7 @@
     "entry": 0.1943,
     "notional": 857.2362188616222,
     "ts": 1787025600000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.245,
     "half": true,
     "tier": "VERIFY"
@@ -188,7 +188,7 @@
     "entry": 0.000622,
     "notional": 1812.4045340840153,
     "ts": 1788321600000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.000647,
     "half": false,
     "tier": "WATCH"
@@ -197,7 +197,7 @@
     "entry": 0.0348,
     "notional": 1812.4045340840153,
     "ts": 1788336000000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.0373,
     "half": false,
     "tier": "VERIFY"
@@ -206,7 +206,7 @@
     "entry": 0.01703,
     "notional": 897.0580820327089,
     "ts": 1788350400000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.02106,
     "half": true,
     "tier": "CORE"
@@ -215,7 +215,7 @@
     "entry": 0.0009057,
     "notional": 1794.1161640654177,
     "ts": 1788350400000,
-    "last_check": 1788628500000,
+    "last_check": 1788634800000,
     "peak": 0.0009445,
     "half": false,
     "tier": "VERIFY"
