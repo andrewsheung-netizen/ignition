@@ -13,15 +13,15 @@
    🔥 AVAX [CORE] — Ethena Pay Beta Launches On Avalanche With Tiered USDe Yield Rewards https://www.bundle.app/en/finance/ethena-pay-beta-launches-on-avalanche-with-tiered-usde-yield-rewards-7D371EB9-854F-4402-BC06-95FC21C5F047
    ⚠️ AVAX [CORE] — Binance to Delist 12 Margin Pairs at Start of September: SUI, AVAX, LINK Affecte https://u.today/binance-to-delist-12-margin-pairs-at-start-of-september-sui-avax-link-affected
    🔥 AVAX [CORE] — Avalanche Treasury doubles down on its strategy to build shareholder value after https://cryptoslate.com/avalanche-treasury-doubles-down-on-its-strategy-to-build-shareholder-value-after-a-44-million-hit/
-   🔥 ALGO [CORE] — Algorand Foundation Launches AC2: An Open Protocol for Secure, User-Controlled C https://www.prnewswire.co.uk/news-releases/algorand-foundation-launches-ac2-an-open-protocol-for-secure-user-controlled-communication-with-ai-agents-302859285.html
    🔥 XAI [VERIFY] — 'Welcome to the AGI era': OpenAI launches GPT-6 Astra https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra
+   🔥 PORTAL [VERIFY] — Pakistan Launches Crypto Licensing Portal, Sets Sept. 5 Deadline https://www.cryptobreaking.com/pakistan-launches-crypto-licensing-portal-2/
    🔥 PROS [WATCH] — Prosper Introduces MemeRWA, a Framework for Bringing Verifiable Performance Data https://www.manilatimes.net/2026/09/03/tmt-newswire/plentisoft/prosper-introduces-memerwa-a-framework-for-bringing-verifiable-performance-data-to-crypto-native-markets/2418128
 
 📰 recent catalysts:
    🔥 BONK [CORE] — 12 Best Meme Coins Before the Next Breakout: Apeing’s Whitelist Is Filling Up Fa
    🔥 WIF [CORE] — 12 Best Meme Coins Before the Next Breakout: Apeing’s Whitelist Is Filling Up Fa
-   🔥 AAVE [CORE] — Tokenized gold is becoming productive collateral in crypto lending, Arch says
    🔥 JTO [VERIFY] — Kraken's new margin screen points one way: WLFI is shortable at 3x, JTO and GRAS
    🔥 INJ [CORE] — Pineapple Financial PAPL Tokenizes $1B Mortgages on Injective
+   ⚠️ XAI [VERIFY] — SpaceXAI Outage Exposes AI Compute Dependencies as Grok, Claude and Others Go Da
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
