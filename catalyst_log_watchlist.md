@@ -828,3 +828,5 @@
 2026-09-10 | ZEC | 🔥 | UPCOMING | Bitcoin rebounds to $79.5k on Zcash ETF inflows; Fed, oil pressures limit rise | https://uk.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-79k-on-zcash-etf-inflows-fed-oil-pressures-limit-rise-4861598
 2026-09-10 | USUAL | ⚠️ | RECENT | Hackers deploy Linux rootkit on F5 BIG-IP APM devices, hiding web shell in memory | https://www.helpnetsecurity.com/2026/09/09/f5-big-ip-apm-rootkit-hides-web-shell-in-memory/
 2026-09-10 | ZRO | ⚠️ | RECENT | South Korea’s KRW1 Goes Omnichain as LayerZero Unlocks Cross-Chain Expansion | https://newsdio.com/south-koreas-krw1-goes-omnichain-as-layerzero-unlocks-cross-chain-expansion/
+2026-09-10 | ZEC | 🔥 | RECENT | Zcash: A Privacy Coin ETF Is Holding Up Crypto While Bitcoin Fights for $79K | https://www.ibtimes.com/zcash-privacy-coin-etf-holding-crypto-while-bitcoin-fights-79k-3807265
+2026-09-10 | ZEC | 🔥 | RECENT | Zcash Price Explodes as ETF Demand Rises—Can ZEC Reach $1500? | https://coinpedia.org/price-analysis/zcash-price-explodes-as-etf-demand-rises-can-zec-reach-1500/
