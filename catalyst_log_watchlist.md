@@ -825,3 +825,6 @@
 2026-09-09 | INJ | 🔥 | UPCOMING | Can Rising Injective Staking Supply Support Further INJ Price Gains to $10? | https://coinpedia.org/price-analysis/can-rising-injective-staking-supply-support-further-inj-price-gains-to-10/
 2026-09-09 | AVAX | 🔥 | UPCOMING | Hanwha Bets on Three Blockchain Rails to Own Korea Tokenized Securities | https://www.techtimes.com/articles/326919/20260907/hanwha-bets-three-blockchain-rails-own-korea-tokenized-securities.htm
 2026-09-09 | AVAX | 🔥 | UPCOMING | 18K+ Whitelisted. 24 Hrs Left: Next Big Crypto Launches as BNB & AVAX Surge | https://techbullion.com/18k-whitelisted-24-hrs-left-next-big-crypto-launches-as-bnb-avax-surge/
+2026-09-10 | ZEC | 🔥 | UPCOMING | Bitcoin rebounds to $79.5k on Zcash ETF inflows; Fed, oil pressures limit rise | https://uk.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-79k-on-zcash-etf-inflows-fed-oil-pressures-limit-rise-4861598
+2026-09-10 | USUAL | ⚠️ | RECENT | Hackers deploy Linux rootkit on F5 BIG-IP APM devices, hiding web shell in memory | https://www.helpnetsecurity.com/2026/09/09/f5-big-ip-apm-rootkit-hides-web-shell-in-memory/
+2026-09-10 | ZRO | ⚠️ | RECENT | South Korea’s KRW1 Goes Omnichain as LayerZero Unlocks Cross-Chain Expansion | https://newsdio.com/south-koreas-krw1-goes-omnichain-as-layerzero-unlocks-cross-chain-expansion/
