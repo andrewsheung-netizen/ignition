@@ -837,3 +837,7 @@
 2026-09-11 | REZ | 🔥 | RECENT | Renzo expands beyond restaking with basis trade product on Hyperliquid | https://us.headtopics.com/news/renzo-expands-beyond-restaking-with-basis-trade-product-on-87569472
 2026-09-11 | AAVE | ⚠️ | RECENT | Năm tháng sau vụ hack Kelp, Aave vẫn giảm 8 tỷ USD | https://stockbiz.vn/tin-tuc/nam-thang-sau-vu-hack-kelp-aave-van-giam-8-ty-usd/41741238
 2026-09-11 | AVAX | 🔥 | UPCOMING | Avalanche Treasury Co. Appoints Virginia Gambale to Board of Directors | https://www.cadillacnews.com/ap/business/avalanche-treasury-co-appoints-virginia-gambale-to-board-of-directors/article_24327540-bd7f-59f5-8ed9-6208b874e152.html
+2026-09-12 | BONK | 🔥 | RECENT | $70K Raised in a Day: Apeing Stage 3 Filling Fast - Top Meme Coin Entry? | https://techbullion.com/70k-raised-in-a-day-apeing-stage-3-filling-fast-top-meme-coin-entry/
+2026-09-12 | AVAX | 🔥 | UPCOMING | Avalanche Price Prediction: Ethena Pay Launch Puts $10 in Reach as AlphaPepe Becomes the P | https://www.openpr.com/news/4627949/avalanche-price-prediction-ethena-pay-launch-puts-10-in-reach
+2026-09-12 | FORM | 🔥 | RECENT | Household savings rate rises largely driven by investment in homes | https://www.irishexaminer.com/business/economy/arid-41909665.html
+2026-09-12 | STX | 🔥 | UPCOMING | Stacks (STX) Launches Bitcoin Staking with 21shares, HashKey Cloud, UTXO Management, and O | https://www.manilatimes.net/2026/09/11/tmt-newswire/plentisoft/stacks-stx-launches-bitcoin-staking-with-21shares-hashkey-cloud-utxo-management-and-others/2423131
