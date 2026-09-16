@@ -7,6 +7,9 @@
    🔥 ZEC [CORE] — Zcash outperformed most cryptocurrencies following ETF launch, now focus shifts  https://investinglive.com/cryptocurrency/zcash-outperformed-most-cryptocurrencies-following-etf-launch-now-focus-shifts-to-clarity-act-and-fomc/
    🔥 RAY [VERIFY] — Latest Crypto News: Bittensor (TAO) Eyes $300 After Raydium Launch as AlphaPepe  https://techbullion.com/latest-crypto-news-bittensor-tao-eyes-300-after-raydium-launch-as-alphapepe-nears-stage-20-sellout/
    🔥 JASMY [VERIFY] — Coinbase Drops 8 More Non-USD Pairs to Boost Liquidity on Sept. 15 https://us.headtopics.com/news/coinbase-drops-8-more-non-usd-pairs-to-boost-liquidity-on-87749194
+   🔥 FORM [CORE] — MemeToro AI Agent Development Adds Fair-Launch Escrow and 1,373 Lines for Memeco https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/memetoro-ai-agent-development-adds-fair-launch-escrow-and-1373-lines-for-memecoin-investing/2425676
+   🔥 USUAL [VERIFY] — Coinbase: XRP Traders Brace for Big Move This Week https://u.today/coinbase-xrp-traders-brace-for-big-move-this-week
+   🔥 PORTAL [VERIFY] — MemeToro AI Agent Development Adds Fair-Launch Escrow and 1,373 Lines for Memeco https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/memetoro-ai-agent-development-adds-fair-launch-escrow-and-1373-lines-for-memecoin-investing/2425676
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Shiba Inu (SHIB), Hyperliquid (HYPE), Binance Coin (BNB) and Zcash (ZEC) Price A
@@ -15,10 +18,6 @@
    🔥 AAVE [CORE] — Kraken’s Ink rollup finally gets a front door on Uniswap
    🔥 RAY [VERIFY] — Raydium LaunchLab adds support for any token pair on Solana
    ⚠️ JASMY [VERIFY] — JasmyCoin Price Forecast: Upbit delisting raises risk of further losses
-   🔥 FORM [CORE] — Crypto Market News: Apeing’s Stage 3 Crypto Presale Surpasses $88k Raised, 433M+
-   🔥 GALA [VERIFY] — MEXC Reports 21% MoM Growth in New-Token Traders and 31% Increase in Tokenized S
-   🔥 STX [WATCH] — Crypto Price Prediction September 2026: Binance Stacks 693K BTC as Pepeto Fills 
-   🔥 STX [WATCH] — Crypto institutions are chasing a 3% return on Bitcoin, but the entire payout ma
    ⚠️ ZRO [WATCH] — FxWirePro- Top 7 Token Unlocks of the Week
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
