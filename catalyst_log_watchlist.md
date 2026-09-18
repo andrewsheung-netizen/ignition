@@ -871,3 +871,6 @@
 2026-09-17 | AVAX | 🔥 | RECENT | UAE Pass digital vault gets blockchain infrastructure upgrade | https://www.biometricupdate.com/202609/uae-pass-digital-vault-gets-blockchain-infrastructure-upgrade
 2026-09-18 | AAVE | 🔥 | UPCOMING | Bitget Wallet Integrates Aave to Expand Onchain Stablecoin Staking | https://ng.shotoe.com/bitget-st_534633/news/bitget-wallet-integrates-aave-to-expand-onchain-stablecoin-staking-sn_5108301/
 2026-09-18 | PROS | 🔥 | UPCOMING | PROSPER launches new structure for verifiable onchain performance data | https://thenextweb.com/news/prosper-performance-markets-pharos-network-memerwa
+2026-09-18 | ZEC | 🔥 | RECENT | Crypto Market Update: $1.11B Institutional Exit, SEC Delays XRP Short ETF, Zcash Surges | https://us.headtopics.com/news/crypto-market-update-1-11b-institutional-exit-sec-delays-87845527
+2026-09-18 | ZEC | 🔥 | RECENT | SEC Rejects 19th XRP Short ETF While Bitcoin and Ethereum Drop $1.11 Billion: Main Crypto  | https://u.today/sec-rejects-19th-xrp-short-etf-while-bitcoin-and-ethereum-drop-111-billion-main-crypto-news-this
+2026-09-18 | PROS | 🔥 | UPCOMING | PROSPER Goes Live With MemeRWA Framework Linking Onchain Performance to Crypto Assets | https://techbullion.com/prosper-goes-live-with-memerwa-framework-linking-onchain-performance-to-crypto-assets/
