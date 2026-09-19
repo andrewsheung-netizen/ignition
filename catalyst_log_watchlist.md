@@ -886,3 +886,4 @@
 2026-09-19 | FORM | 🔥 | RECENT | Heartland Advisors Inc. Acquires New Stake in Amazon.com, Inc. $AMZN | https://www.defenseworld.net/2026/09/18/heartland-advisors-inc-acquires-new-stake-in-amazon-com-inc-amzn.html
 2026-09-19 | FORM | 🔥 | RECENT | LaSalle St. Investment Advisors LLC Buys Shares of 37,385 Amazon.com, Inc. $AMZN | https://www.americanbankingnews.com/2026/09/18/lasalle-st-investment-advisors-llc-buys-shares-of-37385-amazon-com-inc-amzn.html
 2026-09-19 | PROS | 🔥 | UPCOMING | PROSPER Launches Performance Markets on Pharos With Fee-Funded Buybacks for Vault Tokens | https://www.bundle.app/en/technology/prosper-launches-performance-markets-on-pharos-with-fee-funded-buybacks-for-vault-tokens-5FB19524-C9E8-4B9F-A0E2-0AD7EC30F1FF
+2026-09-19 | ZEC | 🔥 | UPCOMING | Zcash targets November upgrade to make private payments up to three times faster | https://us.headtopics.com/news/zcash-targets-november-upgrade-to-make-private-payments-up-87885093
