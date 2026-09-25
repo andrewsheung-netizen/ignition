@@ -932,3 +932,6 @@
 2026-09-25 | AAVE | 🔥 | UPCOMING | Hamco to Launch Pan-Asia Private Equity Fund Natively On-Chain powered by Chainlink and Sy | https://en.prnasia.com/story/549494-0.shtml
 2026-09-25 | STX | 🔥 | RECENT | OKX Tightens European Institutional Trading Guidance Under MiCA | https://www.newsbtc.com/technology/okx-tightens-european-institutional-trading-guidance-under-mica/
 2026-09-25 | STX | 🔥 | UPCOMING | Claude Opus 5.5 Launches: Cheaper, Faster, and Safer Than Ever | https://www.sourcetrail.com/software/claude-opus-5-5-launches-cheaper-faster-and-safer-than-ever/
+2026-09-25 | FORM | 🔥 | UPCOMING | Oro Ecológico, EcoGuard Global, and Envex Technologies Form Strategic Alliance to Build In | https://www.itbiznews.com/news/articleView.html?idxno=226185
+2026-09-25 | PORTAL | 🔥 | UPCOMING | Govt to launch online portal for petrol subsidy scheme | https://arynews.tv/govt-to-launch-online-portal-for-petrol-subsidy-scheme
+2026-09-25 | STX | 🔥 | UPCOMING | Anchorage Digital Brings Institutional Custody to Bitcoin Staking on Stacks | https://www.stacks.co/blog/anchorage-digital-brings-institutional-custody-to-bitcoin-staking-on-stacks
