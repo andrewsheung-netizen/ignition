@@ -1,19 +1,21 @@
-📅 DUSK watchlist — catalyst brief 2026-09-25
+📅 DUSK watchlist — catalyst brief 2026-09-26
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
+   🔥 ZEC [CORE] — What Crypto to Buy Now? BlockDAG’s USDT Buybacks Go Live for New & Legacy BDAG a https://techbullion.com/what-crypto-to-buy-now-blockdags-usdt-buybacks-go-live-for-new-legacy-bdag-as-ada-rises/
    🔥 ZEC [CORE] — Zcash Launches First European ETP After US ETF Approval https://www.cryptobreaking.com/zcash-launches-first-european-etp-2/
-   🔥 ZEC [CORE] — Best Altcoin to Buy in September 2026: Pepeto, Cardano, and Zcash After Record $ https://techbullion.com/best-altcoin-to-buy-in-september-2026-pepeto-cardano-and-zcash-after-record-159-million-etf-day/
-   🔥 BONK [CORE] — Best Meme Coins to Buy: Apeing's Best Meme Coin Presale Raises Over $100K https://www.openpr.com/news/4641850/best-meme-coins-to-buy-apeing-s-best-meme-coin-presale-raises
-   🔥 AAVE [CORE] — Hamco to Launch Pan-Asia Private Equity Fund Natively On-Chain powered by Chainl https://www.manilatimes.net/2026/09/24/tmt-newswire/pr-newswire/hamco-to-launch-pan-asia-private-equity-fund-natively-on-chain-powered-by-chainlink-and-synthesys/2432385
-   🔥 FORM [CORE] — Oro Ecológico, EcoGuard Global, and Envex Technologies Form Strategic Alliance t https://www.itbiznews.com/news/articleView.html?idxno=226185
-   🔥 PORTAL [VERIFY] — Govt to launch online portal for petrol subsidy scheme https://arynews.tv/govt-to-launch-online-portal-for-petrol-subsidy-scheme
-   🔥 STX [WATCH] — Anchorage Digital Brings Institutional Custody to Bitcoin Staking on Stacks https://www.stacks.co/blog/anchorage-digital-brings-institutional-custody-to-bitcoin-staking-on-stacks
+   🔥 WLD [CORE] — BlockDAG Boosts USDT Buyback to $0.05 - The Best Crypto Bet Over Avalanche & Wor https://www.analyticsinsight.net/cryptocurrency-analytics-insight/blockdag-boosts-usdt-buyback-to-005-the-best-crypto-bet-over-avalanche-worldcoin
+   🔥 AVAX [CORE] — BlockDAG Boosts USDT Buyback to $0.05 - The Best Crypto Bet Over Avalanche & Wor https://www.analyticsinsight.net/cryptocurrency-analytics-insight/blockdag-boosts-usdt-buyback-to-005-the-best-crypto-bet-over-avalanche-worldcoin
+   🔥 FORM [CORE] — ICODA Marketing Agency Launches Creator Program for Crypto and Web3 Projects https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/icoda-marketing-agency-launches-creator-program-for-crypto-and-web3-projects/2432995
+   🔥 USUAL [VERIFY] — Coinbase: XRP Traders Brace for Big Move This Week https://u.today/coinbase-xrp-traders-brace-for-big-move-this-week
 
 📰 recent catalysts:
-   🔥 JUP [CORE] — SB Energy Delays IPO Funding World's Largest Data Center Amid Investor Revolt, P
-   🔥 STX [WATCH] — OKX Tightens European Institutional Trading Guidance Under MiCA
+   ⚠️ FET [CORE] — Hackers drain $351.6 million from Bitget in possibly 2026's biggest crypto heist
+   🔥 AAVE [CORE] — $7.13M Raised: Why INVEST Network Is the 3000x Pick While Avalanche Price and Ch
+   🔥 AVAX [CORE] — $7.13M Raised: Why INVEST Network Is the 3000x Pick While Avalanche Price and Ch
+   ⚠️ ZRO [WATCH] — KelpDAO sues LayerZero and CEO over $292M rsETH bridge exploit
+   ⚠️ ZRO [WATCH] — KelpDAO sues LayerZero for the largest exploit 2026 has seen so far
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
