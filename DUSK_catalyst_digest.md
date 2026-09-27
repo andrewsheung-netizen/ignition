@@ -1,19 +1,28 @@
-📅 DUSK watchlist — catalyst brief 2026-09-26
+📅 DUSK watchlist — catalyst brief 2026-09-27
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
+   🔥 ZEC [CORE] — Bitcoin Is Not the Only Cryptocurrency With a Halving. Here's Why It's Time to P https://www.fool.com/investing/2026/09/26/bitcoin-is-not-the-only-cryptocurrency-with-a-halv/
    🔥 ZEC [CORE] — What Crypto to Buy Now? BlockDAG’s USDT Buybacks Go Live for New & Legacy BDAG a https://techbullion.com/what-crypto-to-buy-now-blockdags-usdt-buybacks-go-live-for-new-legacy-bdag-as-ada-rises/
-   🔥 ZEC [CORE] — Zcash Launches First European ETP After US ETF Approval https://www.cryptobreaking.com/zcash-launches-first-european-etp-2/
+   🔥 BONK [CORE] — BONK Price Prediction After a Volatile Week: Solana Meme-Coin Traders Turn to Re https://techbullion.com/bonk-price-prediction-after-a-volatile-week-solana-meme-coin-traders-turn-to-remittix-following-its-confirmed-launch-date-reveal/
+   🔥 JUP [CORE] — Josh Bersin launches Jupiter for Galileo HR assistant https://itbrief.co.nz/story/josh-bersin-launches-jupiter-for-galileo-hr-assistant
    🔥 WLD [CORE] — BlockDAG Boosts USDT Buyback to $0.05 - The Best Crypto Bet Over Avalanche & Wor https://www.analyticsinsight.net/cryptocurrency-analytics-insight/blockdag-boosts-usdt-buyback-to-005-the-best-crypto-bet-over-avalanche-worldcoin
+   🔥 AVAX [CORE] — $7.47 to $11.24 in One Week, Avalanche Price Prediction Shows Why DigiTap Buyers https://www.openpr.com/news/4644292/7-47-to-11-24-in-one-week-avalanche-price-prediction-shows-why
+   🔥 USUAL [VERIFY] — Coinbase: XRP Traders Brace for Big Move This Week https://u.today/coinbase-xrp-traders-brace-for-big-move-this-week
+   🔥 STX [WATCH] — Zest launches native Bitcoin borrowing without wrapping https://finbold.com/zest-launches-native-bitcoin-borrowing-without-wrapping/
    🔥 PROS [WATCH] — PROSPER Goes Live With MemeRWA Framework Linking Onchain Performance to Crypto A https://techbullion.com/prosper-goes-live-with-memerwa-framework-linking-onchain-performance-to-crypto-assets/
    🔥 PROS [WATCH] — PROSPER launches new structure for verifiable onchain performance data https://thenextweb.com/news/prosper-performance-markets-pharos-network-memerwa
 
 📰 recent catalysts:
-   🔥 AAVE [CORE] — $7.13M Raised: Why INVEST Network Is the 3000x Pick While Avalanche Price and Ch
-   🔥 AVAX [CORE] — Bitget Hit by USD 351.6 Million Security Breach, Withdrawals Paused
-   🔥 USUAL [VERIFY] — Bitget Hit by USD 351.6 Million Security Breach, Withdrawals Paused
+   🔥 ZEC [CORE] — ZEC News Today: Privacy Coins Dominate Crypto Searches While Remittix Unveils th
+   🔥 AAVE [CORE] — Coinbase Tokenized Stocks Become Collateral for USDC Loans…
+   🔥 AAVE [CORE] — Aave News Today: AAVE Volume Accelerates While Remittix Releases the BINANCE500 
+   🔥 AAVE [CORE] — While Injective and Aave Climb, BlockDAG’s (BDAG) Buyback Steals the Spotlight W
+   🔥 INJ [CORE] — While Injective and Aave Climb, BlockDAG’s (BDAG) Buyback Steals the Spotlight W
+   🔥 AVAX [CORE] — Wall Street Tests Avalanche for 24/7 Tokenized Trading: AVAX Drops 8% After Majo
+   🔥 STX [WATCH] — Crypto Price Prediction September 2026: Binance Stacks 693K BTC as Pepeto Fills 
    ⚠️ ZRO [WATCH] — Crypto News Today: Bitcoin Inflow, KelpDAO Sues LayerZero, Bitget Gets Hacked
    ⚠️ ZRO [WATCH] — KelpDAO Sues LayerZero Over $292 Million rsETH Exploit, Claims Bridge Risks Were
    ⚠️ ZRO [WATCH] — KelpDAO sues LayerZero and CEO over $292M rsETH bridge exploit
