@@ -1,18 +1,22 @@
-📅 DUSK watchlist — catalyst brief 2026-09-28
+📅 DUSK watchlist — catalyst brief 2026-09-29
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 ZEC [CORE] — Crypto Market News: Bitget Counts $387.5M in Losses as AlphaPepe Passes $2.8M Ra https://www.openpr.com/news/4644981/crypto-market-news-bitget-counts-387-5m-in-losses-as-alphapepe
-   🔥 ZEC [CORE] — What Crypto to Buy Now? BlockDAG’s USDT Buybacks Go Live for New & Legacy BDAG a https://techbullion.com/what-crypto-to-buy-now-blockdags-usdt-buybacks-go-live-for-new-legacy-bdag-as-ada-rises/
+   🔥 BONK [CORE] — BONK Price Prediction After a Volatile Week: Solana Meme-Coin Traders Turn to Re https://techbullion.com/bonk-price-prediction-after-a-volatile-week-solana-meme-coin-traders-turn-to-remittix-following-its-confirmed-launch-date-reveal/
+   🔥 FORM [CORE] — Bybit and Franklin Templeton Form Strategic Collaboration to Expand Access to To https://www.newswire.ca/news-releases/bybit-and-franklin-templeton-form-strategic-collaboration-to-expand-access-to-tokenized-investing-822284887.html
    🔥 STX [WATCH] — Zest launches native Bitcoin borrowing without wrapping https://finbold.com/zest-launches-native-bitcoin-borrowing-without-wrapping/
 
 📰 recent catalysts:
-   🔥 ZEC [CORE] — Grayscale’s Zcash ETF Has Taken In $306 Million Since August, Valued Near $1 Bil
+   🔥 ZEC [CORE] — Crypto Update: $3.2 Billion Floods Into ETFs in One Week as Pepeto Presale Nears
    🔥 ZEC [CORE] — Zcash Price Prediction: ZEC ETF Smashes $1B as Remittix Unleashes Its Seven-Day 
    🔥 ZEC [CORE] — ZEC News Today: Privacy Coins Dominate Crypto Searches While Remittix Unveils th
-   🔥 AAVE [CORE] — Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave
-   ⚠️ ZRO [WATCH] — KelpDAO Sues LayerZero Over $292M Exploit as New York Targets Polymarket and Kal
+   🔥 AAVE [CORE] — Aave Price Prediction Meets the Next DeFi Bet as AlphaPepe Opens Auto-Trade Regi
+   🔥 AAVE [CORE] — Aave Price Prediction: V4 Approaches $1B in Deposits as Remittix Upgrades Its In
+   🔥 PYTH [VERIFY] — Pyth Network Rallies 17% Ahead of Gate’s October Staking Product Exit
+   🔥 AVAX [CORE] — Avalanche Price Prediction: Can AVAX Recover After Helicon as Remittix Upgrades 
+   ⚠️ XAI [VERIFY] — x47.c Windows Botnet Uses xAI Grok for Persistence and AI Credit Draining
+   ⚠️ POLYX [VERIFY] — TruGolf Highlights September Milestones as Polymath Acquisition Advances
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
