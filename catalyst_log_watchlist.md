@@ -1003,3 +1003,4 @@
 2026-10-02 | AAVE | 🔥 | RECENT | AAVE Price Tests 200-Week EMA as Burn Talk Meets Rising Exchange Supply | https://coinpedia.org/price-analysis/aave-price-tests-200-week-ema-as-burn-talk-meets-rising-exchange-supply/
 2026-10-02 | XAI | 🔥 | UPCOMING | Decoding OpenAI’s strategy to counter competitors with Dots launch | https://www.socialsamosa.com/decode/decoding-openai-strategy-counter-competitors-dots-launch-12612007
 2026-10-02 | SNT | 🔥 | UPCOMING | Best Altcoin to Buy as Coinbase Clears CFTC Hurdle: Pepeto, SOL and DOGE | https://techbullion.com/best-altcoin-to-buy-as-coinbase-clears-cftc-hurdle-pepeto-sol-and-doge/
+2026-10-02 | FORM | 🔥 | UPCOMING | Cambria ends RSGP sign-ups while onchain clues hint at a Robinhood Chain launch | https://egamers.io/cambria-ends-rsgp-sign-ups-while-onchain-clues-hint-at-a-robinhood-chain-launch/
