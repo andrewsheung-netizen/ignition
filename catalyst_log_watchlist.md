@@ -997,3 +997,9 @@
 2026-10-01 | PORTAL | 🔥 | UPCOMING | Pharos Unveils Agent Native Upgrade With Testnet Sponsored Transactions And AI Portals For | https://mpost.io/pharos-unveils-agent-native-upgrade-with-testnet-sponsored-transactions-and-ai-portals-for-realfi/
 2026-10-01 | STX | 🔥 | RECENT | Muneeb Ali Becomes CEO of Stacks Labs as Bitcoin Staking Enters Its Growth Phase | https://www.stacks.co/blog/muneeb-ali-becomes-ceo-of-stacks-labs-as-bitcoin-staking-enters-its-growth-phase
 2026-10-01 | STX | 🔥 | UPCOMING | Trading Technologies Acquires TRAFiX, Expanding Multi-Asset OEMS Coverage to Global Equiti | https://globalfintechseries.com/trading/trading-technologies-acquires-trafix-expanding-multi-asset-oems-coverage-to-global-equities-and-equity-options/
+2026-10-02 | ZEC | 🔥 | RECENT | Looking for a Crypto ETF With Upside Potential? These 2 ETFs Are Worth a Closer Look. | https://www.fool.com/investing/2026/10/01/looking-for-a-crypto-etf-with-upside-potential-the/
+2026-10-02 | ZEC | ⚠️ | RECENT | After NEAR, Bitget Hackers Switch Tactics | https://cbnc.com/after-near-bitget-hackers-switch-tactics/
+2026-10-02 | WIF | 🔥 | RECENT | 479M+ Sold, $110K+ Raised: Apeing's Meme Coin Presale Enters Stage 6 With WIF & PEPE in Fo | https://www.openpr.com/news/4649155/479m-sold-110k-raised-apeing-s-meme-coin-presale-enters
+2026-10-02 | AAVE | 🔥 | RECENT | AAVE Price Tests 200-Week EMA as Burn Talk Meets Rising Exchange Supply | https://coinpedia.org/price-analysis/aave-price-tests-200-week-ema-as-burn-talk-meets-rising-exchange-supply/
+2026-10-02 | XAI | 🔥 | UPCOMING | Decoding OpenAI’s strategy to counter competitors with Dots launch | https://www.socialsamosa.com/decode/decoding-openai-strategy-counter-competitors-dots-launch-12612007
+2026-10-02 | SNT | 🔥 | UPCOMING | Best Altcoin to Buy as Coinbase Clears CFTC Hurdle: Pepeto, SOL and DOGE | https://techbullion.com/best-altcoin-to-buy-as-coinbase-clears-cftc-hurdle-pepeto-sol-and-doge/
