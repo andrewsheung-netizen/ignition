@@ -1004,3 +1004,10 @@
 2026-10-02 | XAI | 🔥 | UPCOMING | Decoding OpenAI’s strategy to counter competitors with Dots launch | https://www.socialsamosa.com/decode/decoding-openai-strategy-counter-competitors-dots-launch-12612007
 2026-10-02 | SNT | 🔥 | UPCOMING | Best Altcoin to Buy as Coinbase Clears CFTC Hurdle: Pepeto, SOL and DOGE | https://techbullion.com/best-altcoin-to-buy-as-coinbase-clears-cftc-hurdle-pepeto-sol-and-doge/
 2026-10-02 | FORM | 🔥 | UPCOMING | Cambria ends RSGP sign-ups while onchain clues hint at a Robinhood Chain launch | https://egamers.io/cambria-ends-rsgp-sign-ups-while-onchain-clues-hint-at-a-robinhood-chain-launch/
+2026-10-03 | ZEC | ⚠️ | UPCOMING | Cardanos’s NIGHT Surges 159% to $0.048, Highest in Six Months After Post-Hack Crash | https://coingape.com/cardanoss-night-surges-159-to-0-048-highest-in-six-months-after-post-hack-crash/
+2026-10-03 | AAVE | ⚠️ | RECENT | Aave V3 Unaffected After Third-Party Adapter Exploit Drains $305K | https://us.headtopics.com/news/aave-v3-unaffected-after-third-party-adapter-exploit-drains-88377801
+2026-10-03 | AVAX | 🔥 | RECENT | Next Big Cryptos: 5 Top Tokens Analyzed as Apeing's Live $0.0006 Presale Crosses $110K+ Ra | https://www.openpr.com/news/4650407/next-big-cryptos-5-top-tokens-analyzed-as-apeing-s-live-0-0006
+2026-10-03 | USUAL | ⚠️ | UPCOMING | Crypto investors face a rocky September as Bitcoin struggles to regain its footing | https://investinglive.com/education/crypto-investors-face-a-rocky-september-as-bitcoin-struggles-to-regain-its-footing/
+2026-10-03 | GALA | 🔥 | UPCOMING | TRUMP memecoin launches dinner contest for top 185 holders as token falls 97% | https://crypto.news/trump-memecoin-launches-dinner-contest-for-top-holders/
+2026-10-03 | XVG | ⚠️ | RECENT | Microsoft X Account Hacked in $Clippy Crypto Scam | https://windowsreport.com/microsoft-x-account-hacked-in-clippy-crypto-scam/
+2026-10-03 | STX | 🔥 | RECENT | Upgrading the Broker Stack: Integrating Stablecoins into Existing Financial Infrastructure | https://www.financemagnates.com/thought-leadership/upgrading-the-broker-stack-integrating-stablecoins-into-existing-financial-infrastructure/
