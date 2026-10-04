@@ -1021,3 +1021,5 @@
 2026-10-04 | WLD | 🔥 | RECENT | How this possible collaboration could offer Worldcoin a remarkable advantage in the Web3 | https://techfundingnews.com/how-this-possible-collaboration-could-offer-worldcoin-a-remarkable-advantage-in-the-web3/
 2026-10-04 | AVAX | 🔥 | UPCOMING | Avalanche Staking ETF Draws Attention as Remittix Opens PayFi to 1,000 Holders | https://techbullion.com/avalanche-staking-etf-draws-attention-as-remittix-opens-payfi-to-1000-holders/
 2026-10-04 | AVAX | 🔥 | RECENT | Avalanche's $15 Target Faces a New PayFi Comparison as Remittix Promotes BINANCE500 | https://techbullion.com/avalanches-15-target-faces-a-new-payfi-comparison-as-remittix-promotes-binance500/
+2026-10-04 | ZEC | 🔥 | RECENT | Bitget probes breach with Mandiant and SlowMist | https://thearabianpost.com/bitget-probes-breach-with-mandiant-and-slowmist/
+2026-10-04 | ZEC | 🔥 | RECENT | Zcash Price Crashes Into Bear Market as ZEC ETF Outflows Jump | https://www.benzinga.com/crypto/26/10/62151520/zcash-price-crashes-into-a-bear-market-as-zec-etf-outflows-jump
