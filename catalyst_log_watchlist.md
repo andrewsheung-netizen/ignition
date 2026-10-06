@@ -1024,3 +1024,7 @@
 2026-10-04 | ZEC | 🔥 | RECENT | Bitget probes breach with Mandiant and SlowMist | https://thearabianpost.com/bitget-probes-breach-with-mandiant-and-slowmist/
 2026-10-04 | ZEC | 🔥 | RECENT | Zcash Price Crashes Into Bear Market as ZEC ETF Outflows Jump | https://www.benzinga.com/crypto/26/10/62151520/zcash-price-crashes-into-a-bear-market-as-zec-etf-outflows-jump
 2026-10-05 | XAI | 🔥 | RECENT | Grok Dominates Coinbase’s AI Trading with a 60% Share: Which Coins Are Being Purchased? | https://biztoc.com/x/7e180bab150bef08
+2026-10-06 | ZEC | 🔥 | UPCOMING | Zcash NU7 Upgrade: ZEC Targets 25-Second Blocks In Testnet | https://cryptonews.com/news/zcash-news-nu7-upgrade-250second-blocks-testnet-zec/
+2026-10-06 | ZEC | 🔥 | RECENT | Zcash tumbled by more than 20% from the all-time high amid ETF outflows and geopolitical t | https://investinglive.com/cryptocurrency/zcash-tumbled-by-more-than-20-from-the-all-time-high-amid-etf-outflows-and-geopolitical-tensions-what-s-next/
+2026-10-06 | ZEC | 🔥 | RECENT | Zcash (ZEC), Bitcoin (BTC), Shiba Inu (SHIB) and Binance Coin (BNB) Price Analysis For Oct | https://u.today/price-analysis/zcash-zec-bitcoin-btc-shiba-inu-shib-and-binance-coin-bnb-price-analysis-for-october-5-bears-could
+2026-10-06 | USUAL | 🔥 | UPCOMING | Chennai Duo Launches AI Platform AskSolique.ai for Tax & Regulatory Pros, Targets 40k Mont | https://startuppedia.in/startup-stories/chennai-duo-launches-ai-platform-asksoliqueai-for-tax-regulatory-pros-targets-40k-monthly-users-by-march-27-12559734
