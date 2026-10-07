@@ -1,12 +1,12 @@
 {
  "A": {
-  "bal": 28424.04881461379,
+  "bal": 28799.397853893704,
   "pos": {
    "PORTAL": {
     "entry": 0.01811,
     "notional": 1889.3037870074295,
     "ts": 1790265600000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 0.02169,
     "half": false,
     "tier": "VERIFY"
@@ -15,7 +15,7 @@
     "entry": 0.0894,
     "notional": 1914.2526732827916,
     "ts": 1790524800000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 0.0968,
     "half": false,
     "tier": "WATCH"
@@ -24,25 +24,16 @@
     "entry": 1442.64,
     "notional": 1894.9365876409195,
     "ts": 1790769600000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 1494.52,
     "half": false,
     "tier": "CORE"
-   },
-   "RAY": {
-    "entry": 2.0625,
-    "notional": 1894.9365876409195,
-    "ts": 1790769600000,
-    "last_check": 1791357300000,
-    "peak": 2.3378,
-    "half": false,
-    "tier": "VERIFY"
    },
    "ZEN": {
     "entry": 7.52,
     "notional": 1894.9365876409195,
     "ts": 1790769600000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 7.585,
     "half": false,
     "tier": "VERIFY"
@@ -216,6 +207,14 @@
     "why": "stop \u221215%",
     "xts": 1790623800000,
     "entry_ts": 1790424000000
+   },
+   {
+    "sym": "RAY",
+    "ret": 19.81,
+    "pnl": 375.35,
+    "why": "TP +20%",
+    "xts": 1791375300000,
+    "entry_ts": 1790769600000
    }
   ],
   "last_entry": {
@@ -244,13 +243,13 @@
   }
  },
  "B": {
-  "bal": 28248.058481467375,
+  "bal": 28415.04767720995,
   "pos": {
    "YB": {
     "entry": 0.0894,
     "notional": 1894.2171720564659,
     "ts": 1790524800000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 0.0968,
     "half": false,
     "tier": "WATCH"
@@ -259,25 +258,25 @@
     "entry": 1442.64,
     "notional": 1875.103257978968,
     "ts": 1790769600000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 1494.52,
     "half": false,
     "tier": "CORE"
    },
    "RAY": {
     "entry": 2.0625,
-    "notional": 1875.103257978968,
+    "notional": 937.551628989484,
     "ts": 1790769600000,
-    "last_check": 1791357300000,
-    "peak": 2.3378,
-    "half": false,
+    "last_check": 1791385200000,
+    "peak": 2.5729,
+    "half": true,
     "tier": "VERIFY"
    },
    "ZEN": {
     "entry": 7.52,
     "notional": 1875.103257978968,
     "ts": 1790769600000,
-    "last_check": 1791357300000,
+    "last_check": 1791385200000,
     "peak": 7.585,
     "half": false,
     "tier": "VERIFY"
@@ -547,6 +546,14 @@
     "why": "trail stop",
     "xts": 1791338400000,
     "entry_ts": 1790265600000
+   },
+   {
+    "sym": "RAY",
+    "ret": 17.81,
+    "pnl": 166.99,
+    "why": "booked \u00bd @ +18%",
+    "xts": 1791375300000,
+    "entry_ts": 1790769600000
    }
   ],
   "last_entry": {
@@ -575,6 +582,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1791345600,
+ "last_4h": 1791374400,
  "hb_date": "2026-10-07"
 }
