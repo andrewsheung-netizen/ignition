@@ -1,34 +1,26 @@
-📅 DUSK watchlist — catalyst brief 2026-10-17
+📅 DUSK watchlist — catalyst brief 2026-10-18
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 ZEC [CORE] — Zcash Price Prediction: Fresh ETF Money Fails to Stop the Slide as AlphaPepe Off https://www.openpr.com/news/4664124/zcash-price-prediction-fresh-etf-money-fails-to-stop-the-slide-as
+   🔥 ZEC [CORE] — Top 3 Cryptos to Buy Now: Can Injective and Zcash Keep Climbing While Pepeto Tar https://www.openpr.com/news/4664457/top-3-cryptos-to-buy-now-can-injective-and-zcash-keep-climbing
+   🔥 ZEC [CORE] — Best Crypto Presale to Buy Now: Solana's Upgrade and Zcash's ETF Filing Meet Rem https://techbullion.com/best-crypto-presale-to-buy-now-solanas-upgrade-and-zcashs-etf-filing-meet-remittixs-november-launch/
    🔥 ZEC [CORE] — Best Crypto to Buy Now: Remittix, ETH or ZEC as IBKR Opens Staking and Winklevos https://techbullion.com/best-crypto-to-buy-now-remittix-eth-or-zec-as-ibkr-opens-staking-and-winklevoss-pursues-a-zcash-etf/
    🔥 ZEC [CORE] — Crypto Update: IBKR Opens ETH Staking and Winklevoss Files for a Zcash ETF as Re https://techbullion.com/crypto-update-ibkr-opens-eth-staking-and-winklevoss-files-for-a-zcash-etf-as-remittix-prepares-its-payfi-token-debut/
    🔥 ZEC [CORE] — Best Crypto Presale to Buy Now: Remittix's November Debut Meets Solana's Upgrade https://techbullion.com/best-crypto-presale-to-buy-now-remittixs-november-debut-meets-solanas-upgrade-and-zcashs-etf-filing/
    🔥 ZEC [CORE] — Best Crypto to Buy Now: Pepeto, ETH or ZEC as Kraken's 100+ License Push Reaches https://techbullion.com/best-crypto-to-buy-now-pepeto-eth-or-zec-as-krakens-100-license-push-reaches-dubai/
-   🔥 ZEC [CORE] — Best Crypto Presale to Watch: Remittix Draws XRP and Zcash Holders With PayFi an https://techbullion.com/best-crypto-presale-to-watch-remittix-draws-xrp-and-zcash-holders-with-payfi-and-a-fixed-launch-date/
-   🔥 BONK [CORE] — Bonk Price Prediction: Can BONK Reach $0.0000037 While Pepeto Rips Toward Its Li https://www.openpr.com/news/4663495/bonk-price-prediction-can-bonk-reach-0-0000037-while-pepeto
-   🔥 PENDLE [VERIFY] — Boros Debuts Funding Rate Spread Markets, Enabling Single-Position Arbitrage Acr https://mpost.io/boros-debuts-funding-rate-spread-markets-enabling-single-position-arbitrage-across-eth-and-btc-perp-venues/
-   🔥 AAVE [CORE] — Grayscale Partners With Republic to Offer Crypto Funds From $2,500 https://econotimes.com/Grayscale-Partners-With-Republic-to-Offer-Crypto-Funds-From-2-500-1755202
-   🔥 AAVE [CORE] — Firelight Brings Onchain Protection to Kraken Protected Strategies USDC Vault https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/firelight-brings-onchain-protection-to-kraken-protected-strategies-usdc-vault/2446883
-   🔥 INJ [CORE] — Injective Price Forecast: INJ extends rally as CEO meets US policymakers to push https://www.fxstreet.com/cryptocurrencies/news/injective-price-forecast-inj-extends-rally-as-ceo-meets-us-policymakers-to-push-advanced-tokenization-202610160420
-   🔥 AVAX [CORE] — Schwab Crypto Opens to All Retail Clients: Assets Bypass SIPC via Paxos Sub-Cust https://www.techtimes.com/articles/329120/20261016/schwab-crypto-opens-all-retail-clients-assets-bypass-sipc-via-paxos-sub-custody.htm
-   ⚠️ POLYX [VERIFY] — UPDATED: TruGolf Completes Acquisition of Polymath Research, Bringing a Blockcha https://www.manilatimes.net/2026/10/10/tmt-newswire/globenewswire/updated-trugolf-completes-acquisition-of-polymath-research-bringing-a-blockchain-purpose-built-for-regulated-assets-to-nasdaq/2442892
-   ⚠️ POLYX [VERIFY] — TruGolf Completes Acquisition of Polymath Research, Bringing a Blockchain Purpos https://www.brantfordexpositor.ca/press-releases/globe-newswire/trugolf-completes-acquisition-of-polymath-research-bringing-a-blockchain-purpose-built-for-regulated-assets-to-nasdaq-2/
-   ⚠️ ZRO [WATCH] — LayerZero News: ZRO Doubles Before Major Token Unlock as Remittix’s November Cou https://techbullion.com/layerzero-news-zro-doubles-before-major-token-unlock-as-remittixs-november-countdown-accelerates/
+   🔥 RAY [VERIFY] — Raydium Price Prediction: LaunchLab Opens to Tokenized Stocks, but Can RAY Outru https://techbullion.com/raydium-price-prediction-launchlab-opens-to-tokenized-stocks-but-can-ray-outrun-remittix/
+   🔥 WLD [CORE] — Worldcoin Trades Within $0.4929 to $0.5473 on Binance Oct. 16 https://econotimes.com/Worldcoin-Trades-Within-0-4929-to-0-5473-on-Binance-Oct-16-1755849
+   🔥 AVAX [CORE] — Avax One Technology Ltd. Common Shares (NASDAQ:AVX) Stock Rating Raised to “Sell https://www.americanbankingnews.com/2026/10/17/avax-one-technology-ltd-common-shares-nasdaqavx-stock-rating-raised-to-sell-at-wall-street-zen.html
 
 📰 recent catalysts:
-   🔥 ZEC [CORE] — Zcash Jumped 8% After Its ETFs Took In Money for the First Time Since September.
-   🔥 ZEC [CORE] — Zcash News Today: ZEC Gains Roughly 9% With ETF Interest in Focus as Remittix Ap
    🔥 ZEC [CORE] — Best Crypto Presale 2026 Hunt: Solana's October 21 Upgrade and Zcash's ETF Filin
+   🔥 AAVE [CORE] — Developers Get DeFi Access on 10 EVM Chains Through Binance Wallet API
    🔥 AAVE [CORE] — Aave Price Prediction: $4.9M in Tokenized Stocks Hit Aave V4 While Pepeto Buyers
-   🔥 AVAX [CORE] — New York Life Investment Management’s Tokenized Portfolio Adds Solana and Avalan
+   🔥 WLD [CORE] — Binance Spot Quote Shows Worldcoin (WLD) Up 5.73% in One Hour
    ⚠️ POLYX [VERIFY] — AINewsBreaks – TruGolf Holdings, Inc. (NASDAQ: TRUG) Featured in AINewsWire Edit
    ⚠️ POLYX [VERIFY] — TruGolf Holdings Inc. (NASDAQ: TRUG) Acquisition Positions Company in Market for
-   🔥 POLYX [VERIFY] — Institutional-Grade Compliance Infrastructure Positions Itself at Tokenization's
-   🔥 STX [WATCH] — Stacks Q3 Report: 735 BTC Staked As STX Staking Climbs 25%
+   🔥 ZRO [WATCH] — Crypto News Today: BTC ETFs Record USD 5M Inflows, MSCI Drops Strategy, LayerZer
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
