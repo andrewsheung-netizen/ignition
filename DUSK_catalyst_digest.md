@@ -12,13 +12,15 @@
    🔥 BONK [CORE] — 5 Top 100x Meme Coins: Could Apeing's $0.01 Listing Target Change the Game? https://www.openpr.com/news/4666888/5-top-100x-meme-coins-could-apeing-s-0-01-listing-target-change
    🔥 WIF [CORE] — 5 Top 100x Meme Coins: Could Apeing's $0.01 Listing Target Change the Game? https://www.openpr.com/news/4666888/5-top-100x-meme-coins-could-apeing-s-0-01-listing-target-change
    🔥 WIF [CORE] — Best Crypto to Buy Now? Apeing's $0.01 Listing Target Challenges TRUMP and Dogwi https://www.openpr.com/news/4666555/best-crypto-to-buy-now-apeing-s-0-01-listing-target-challenges
-   🔥 RAY [VERIFY] — Raydium Price Prediction: LaunchLab Opens to Tokenized Stocks, but Can RAY Outru https://techbullion.com/raydium-price-prediction-launchlab-opens-to-tokenized-stocks-but-can-ray-outrun-remittix/
-   ⚠️ ZRO [WATCH] — LayerZero News: ZRO Doubles Before Major Token Unlock as Remittix’s November Cou https://techbullion.com/layerzero-news-zro-doubles-before-major-token-unlock-as-remittixs-november-countdown-accelerates/
+   🔥 AVAX [CORE] — tx Launches USTX, a Native Stablecoin Built to Power Its RWA Ecosystem https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/tx-launches-ustx-a-native-stablecoin-built-to-power-its-rwa-ecosystem/2449905
+   🔥 POLYX [VERIFY] — How Regulated Tokenization Is Moving from Wall Street to Main Street Assets https://www.globenewswire.com/fr/news-release/2026/10/20/3384419/0/en/how-regulated-tokenization-is-moving-from-wall-street-to-main-street-assets.html
 
 📰 recent catalysts:
+   🔥 ZEC [CORE] — Zcash News: NU7 Would Set Aside 60% of Fees. Could the Upgrade Turn ZEC Around?
    🔥 ZEC [CORE] — Best Crypto Presale 2026 Hunt: Solana's October 21 Upgrade and Zcash's ETF Filin
    🔥 BONK [CORE] — Crypto News: Pepeto Announces Its 160% APY Staking Stays Live While the Solana P
    🔥 AAVE [CORE] — Aave Price Prediction: A $650 Forecast Raises the Stakes as AlphaPepe Takes Its 
    ⚠️ WLD [CORE] — Sam Altman’s Worldcoin: How VanEck, MrBeast, and Wall Street Capitalize on Explo
+   ⚠️ POLYX [VERIFY] — AINewsBreaks – TruGolf Holdings, Inc. (NASDAQ: TRUG) Featured in AINewsWire Edit
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
