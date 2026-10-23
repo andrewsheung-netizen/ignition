@@ -1188,3 +1188,5 @@
 2026-10-23 | AAVE | 🔥 | UPCOMING | Aave Price Prediction: Citi Calls Aave Key to Tokenized Loans, as Analysts Eye 300x for Pe | https://www.openpr.com/news/4668477/aave-price-prediction-citi-calls-aave-key-to-tokenized-loans-as
 2026-10-23 | AAVE | 🔥 | RECENT | Aave V4 Holds 53% of Coinbase Stock Token Deposits in Base DeFi | https://econotimes.com/Aave-V4-Holds-53-of-Coinbase-Stock-Token-Deposits-in-Base-DeFi-1759189
 2026-10-23 | INJ | 🔥 | RECENT | Canary outlines how staking would work inside INJC ETF | https://blockchain.news/news/canary-staked-inj-etf-staking-structure-injc
+2026-10-23 | AAVE | 🔥 | UPCOMING | Best Crypto to Buy Under $1? Generali Tokenizes a Fund Share Class as Remittix Earn Readie | https://www.openpr.com/news/4669404/best-crypto-to-buy-under-1-generali-tokenizes-a-fund-share-class
+2026-10-23 | STX | 🔥 | UPCOMING | WISeQey Launches WISMind.AI, a Trusted Platform for Autonomous AI Agents | https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/wiseqey-launches-wismindai-a-trusted-platform-for-autonomous-ai-agents/2451885
