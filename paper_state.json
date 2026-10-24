@@ -6,7 +6,7 @@
     "entry": 0.2086,
     "notional": 1862.4014243636645,
     "ts": 1791475200000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.2267,
     "half": false,
     "tier": "CORE"
@@ -15,7 +15,7 @@
     "entry": 0.00493,
     "notional": 1862.4014243636645,
     "ts": 1791561600000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.00538,
     "half": false,
     "tier": "VERIFY"
@@ -24,7 +24,7 @@
     "entry": 0.2454,
     "notional": 1873.9897245488985,
     "ts": 1792051200000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.2657,
     "half": false,
     "tier": "CORE"
@@ -33,7 +33,7 @@
     "entry": 0.01432,
     "notional": 1873.9897245488985,
     "ts": 1792353600000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.01517,
     "half": false,
     "tier": "VERIFY"
@@ -42,7 +42,7 @@
     "entry": 0.1736,
     "notional": 1898.7363835248082,
     "ts": 1792756800000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.1774,
     "half": false,
     "tier": "CORE"
@@ -327,7 +327,7 @@
     "entry": 0.2086,
     "notional": 1837.3805138528062,
     "ts": 1791475200000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.2267,
     "half": false,
     "tier": "CORE"
@@ -336,7 +336,7 @@
     "entry": 0.00493,
     "notional": 1837.3805138528062,
     "ts": 1791561600000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.00538,
     "half": false,
     "tier": "VERIFY"
@@ -345,7 +345,7 @@
     "entry": 0.2454,
     "notional": 1827.1383123596434,
     "ts": 1792051200000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.2657,
     "half": false,
     "tier": "CORE"
@@ -354,7 +354,7 @@
     "entry": 0.01432,
     "notional": 1827.1383123596434,
     "ts": 1792353600000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.01517,
     "half": false,
     "tier": "VERIFY"
@@ -363,7 +363,7 @@
     "entry": 0.08332,
     "notional": 1854.3066409722228,
     "ts": 1792800000000,
-    "last_check": 1792847700000,
+    "last_check": 1792861200000,
     "peak": 0.08741,
     "half": false,
     "tier": "VERIFY"
@@ -745,6 +745,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1792843200,
+ "last_4h": 1792857600,
  "hb_date": "2026-10-24"
 }
