@@ -1210,3 +1210,5 @@
 2026-10-26 | ZEC | 🔥 | UPCOMING | Zcash and Monero Price Prediction: Privacy Coins Cool as Remittix Earn Prepares Its Up to  | https://techbullion.com/zcash-and-monero-price-prediction-privacy-coins-cool-as-remittix-earn-prepares-its-up-to-22-apy-launch/
 2026-10-26 | ZEC | 🔥 | RECENT | Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why In | https://www.bundle.app/en/finance/grayscales-new-zcash-etf-has-gathered-1-billion-in-assets-in-just-30-days-heres-why-investors-are-so-bullish-on-zcash-5DEF2C00-BAF4-59D4-B8D4-994FCBD5C6B8
 2026-10-26 | ALGO | 🔥 | RECENT | VersaBank Starts Algorand Trial for Tokenized Bank Deposits | https://econotimes.com/VersaBank-Starts-Algorand-Trial-for-Tokenized-Bank-Deposits-1762626
+2026-10-26 | ZEC | 🔥 | UPCOMING | Zcash Founder Axes Staking Upgrade, Vows to Stick with Bitcoin-Style Mining | https://us.headtopics.com/news/zcash-founder-axes-staking-upgrade-vows-to-stick-with-89180260
+2026-10-26 | ZEC | 🔥 | RECENT | Zcash Crosslink Proposal Would Add Staking Finality Alongside Mining | https://econotimes.com/Zcash-Crosslink-Proposal-Would-Add-Staking-Finality-Alongside-Mining-1762988
