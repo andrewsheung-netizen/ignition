@@ -1226,3 +1226,5 @@
 2026-10-28 | INJ | 🔥 | UPCOMING | Injective Launches SICI: Can Onchain AI Compute Become a New Market? | https://coinpedia.org/news/injective-launches-sici-can-onchain-ai-compute-become-a-new-market/
 2026-10-28 | FORM | 🔥 | RECENT | Strategy Inc $MSTR Stock: Nisa Investment Advisors LLC Lowers Holdings | https://www.tickerreport.com/banking-finance/13638211/strategy-inc-mstr-stock-nisa-investment-advisors-llc-lowers-holdings.html
 2026-10-28 | STX | 🔥 | UPCOMING | How to earn yield on Bitcoin in 2026: Staking, lending and DeFi | https://crypto.news/how-to-earn-yield-on-bitcoin-in-2026-staking-lending-and-defi/
+2026-10-28 | BONK | 🔥 | RECENT | Bonk Price Today: BONK Near $0.00000299 as Remittix Pairs Its $33M Raise With a Planned 30 | https://techbullion.com/bonk-price-today-bonk-near-0-00000299-as-remittix-pairs-its-33m-raise-with-a-planned-300m-rtx-burn/
+2026-10-28 | BONK | 🔥 | RECENT | Can SHIB Hold $3B Support and Erase Another Zero? Apeing Raises $123K+ in the Top 1000x Cr | https://www.openpr.com/news/4673797/can-shib-hold-3b-support-and-erase-another-zero-apeing-raises
