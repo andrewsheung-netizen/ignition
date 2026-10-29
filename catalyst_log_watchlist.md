@@ -1228,3 +1228,9 @@
 2026-10-28 | STX | 🔥 | UPCOMING | How to earn yield on Bitcoin in 2026: Staking, lending and DeFi | https://crypto.news/how-to-earn-yield-on-bitcoin-in-2026-staking-lending-and-defi/
 2026-10-28 | BONK | 🔥 | RECENT | Bonk Price Today: BONK Near $0.00000299 as Remittix Pairs Its $33M Raise With a Planned 30 | https://techbullion.com/bonk-price-today-bonk-near-0-00000299-as-remittix-pairs-its-33m-raise-with-a-planned-300m-rtx-burn/
 2026-10-28 | BONK | 🔥 | RECENT | Can SHIB Hold $3B Support and Erase Another Zero? Apeing Raises $123K+ in the Top 1000x Cr | https://www.openpr.com/news/4673797/can-shib-hold-3b-support-and-erase-another-zero-apeing-raises
+2026-10-29 | ZEC | 🔥 | RECENT | Zcash reclaims $1,300 as ETF inflows and rising OI fuel recovery | https://invezz.com/news/2026/10/28/zcash-reclaims-1300-as-etf-inflows-and-rising-oi-fuel-recovery/
+2026-10-29 | ZEC | 🔥 | RECENT | Zcash (ZEC) Launched 10 Years Ago, 2 Things That Made It Stand Out in 2026 | https://u.today/zcash-zec-launched-10-years-ago-2-things-that-made-it-stand-out-in-2026
+2026-10-29 | INJ | 🔥 | UPCOMING | Injective (INJ)launches onchain options for indices and commodities | https://blockchain.news/news/injective-launches-onchain-options-for-indices-and-commodities
+2026-10-29 | USUAL | 🔥 | RECENT | Why Aston Martin and Red Bull were asked about an unlikely F1 engine partnership | https://au.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869015/
+2026-10-29 | PORTAL | 🔥 | RECENT | SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Acceler | https://www.newsbtc.com/news/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/
+2026-10-29 | STX | 🔥 | RECENT | Reranking Models: The Cheapest RAG Quality Upgrade | https://dev.to/veduis/reranking-models-the-cheapest-rag-quality-upgrade-heo
