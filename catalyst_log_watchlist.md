@@ -1244,3 +1244,10 @@
 2026-10-30 | RAY | 🔥 | UPCOMING | How Bonding Curve Token Launches Work on Solana — Building JetForge | https://dev.to/jetforgedev/how-bonding-curve-token-launches-work-on-solana-building-jetforge-hg0
 2026-10-30 | SNT | 🔥 | RECENT | Receiving Webhooks in Laravel Without Getting Burned: Signatures, Replay Protection and Id | https://dev.to/developertugrul/receiving-webhooks-in-laravel-without-getting-burned-signatures-replay-protection-and-idempotency-2c1k
 2026-10-30 | SNT | 🔥 | RECENT | Beatrix Potter 50p coin listed on eBay for more than £8,000 | https://www.herefordtimes.com/news/26674602.beatrix-potter-50p-coin-listed-ebay-8-000/
+2026-10-30 | ZEC | 🔥 | UPCOMING | XRP, Zcash or Pepeto: Best Crypto to Buy in 2026? Early Buyers Eye 100x Gains Before the L | https://www.openpr.com/news/4676425/xrp-zcash-or-pepeto-best-crypto-to-buy-in-2026-early-buyers-eye
+2026-10-30 | BONK | 🔥 | UPCOMING | Bonk Price Prediction: Will BONK Break $0.0000035 This Week as Pepeto Buyers Eye a 100x Li | https://www.openpr.com/news/4676519/bonk-price-prediction-will-bonk-break-0-0000035-this-week-as
+2026-10-30 | AAVE | 🔥 | RECENT | Aave (AAVE) Surges 3.25% on RWA, Whale Activity Boost | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae361ac1d1ef400a3265a42/
+2026-10-30 | AAVE | 🔥 | UPCOMING | Chainlink 24/7 Launch Targets Tokenized RWA Markets as Aave Adopts Always-On Pricing | https://coinpedia.org/news/chainlink-24-7-launch-targets-tokenized-rwa-markets-as-aave-adopts-always-on-pricing/
+2026-10-30 | AAVE | 🔥 | UPCOMING | Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner | https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner
+2026-10-30 | AAVE | 🔥 | UPCOMING | Can Tokenized Stocks Push AAVE to $300? Aave Price Prediction Buyers Weigh a 200x AlphaPep | https://www.openpr.com/news/4676480/can-tokenized-stocks-push-aave-to-300-aave-price-prediction
+2026-10-30 | INJ | 🔥 | UPCOMING | Injective Surges 3.58% on Stockdrop, Options Testnet Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae2554e1d1ef400a3252fed/
