@@ -1239,3 +1239,8 @@
 2026-10-29 | JUP | 🔥 | UPCOMING | Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Crypto Wall | https://cybersecuritynews.com/malicious-firefox-extensions-3/
 2026-10-29 | AVAX | 🔥 | UPCOMING | Avalanche Allows Tokenised Treasury Holdings to Secure Loans and Trades | https://www.gadgets360.com/cryptocurrency/news/avalanche-allows-tokenised-treasury-holdings-secure-loans-trades-crypto-adoption-tokenisation-crypto-assets-12248842
 2026-10-29 | PORTAL | 🔥 | RECENT | Handelsbanken Norway taps Tieto Banktech for asset management portal | https://www.finextra.com/pressarticle/111483/handelsbanken-norway-taps-tieto-banktech-for-asset-management-portal
+2026-10-30 | INJ | ⚠️ | RECENT | Injective (INJ)plans 10-day Hacker House in Bangkok with AWS, Animoca Brands | https://blockchain.news/news/injective-plans-first-hacker-house-bangkok-aws-animoca-brands
+2026-10-30 | INJ | 🔥 | UPCOMING | Injective Surges 3.58% on Stockdrop, Options Testnet Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae2554e1d1ef400a3252fed/
+2026-10-30 | RAY | 🔥 | UPCOMING | How Bonding Curve Token Launches Work on Solana — Building JetForge | https://dev.to/jetforgedev/how-bonding-curve-token-launches-work-on-solana-building-jetforge-hg0
+2026-10-30 | SNT | 🔥 | RECENT | Receiving Webhooks in Laravel Without Getting Burned: Signatures, Replay Protection and Id | https://dev.to/developertugrul/receiving-webhooks-in-laravel-without-getting-burned-signatures-replay-protection-and-idempotency-2c1k
+2026-10-30 | SNT | 🔥 | RECENT | Beatrix Potter 50p coin listed on eBay for more than £8,000 | https://www.herefordtimes.com/news/26674602.beatrix-potter-50p-coin-listed-ebay-8-000/
