@@ -6,7 +6,7 @@
     "entry": 0.01432,
     "notional": 1873.9897245488985,
     "ts": 1792353600000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.01517,
     "half": false,
     "tier": "VERIFY"
@@ -15,7 +15,7 @@
     "entry": 0.1736,
     "notional": 1898.7363835248082,
     "ts": 1792756800000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.1866,
     "half": false,
     "tier": "CORE"
@@ -24,7 +24,7 @@
     "entry": 0.059,
     "notional": 1879.9435115520291,
     "ts": 1792929600000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.0618,
     "half": false,
     "tier": "VERIFY"
@@ -33,7 +33,7 @@
     "entry": 0.1798,
     "notional": 1861.15063957925,
     "ts": 1793102400000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.189,
     "half": false,
     "tier": "CORE"
@@ -342,7 +342,7 @@
     "entry": 0.01432,
     "notional": 1827.1383123596434,
     "ts": 1792353600000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.01517,
     "half": false,
     "tier": "VERIFY"
@@ -351,7 +351,7 @@
     "entry": 0.059,
     "notional": 1835.7662466671056,
     "ts": 1792929600000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.0618,
     "half": false,
     "tier": "VERIFY"
@@ -360,7 +360,7 @@
     "entry": 0.1798,
     "notional": 1844.7981559088178,
     "ts": 1793102400000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.189,
     "half": false,
     "tier": "CORE"
@@ -369,7 +369,7 @@
     "entry": 0.2571,
     "notional": 1844.7981559088178,
     "ts": 1793102400000,
-    "last_check": 1793308500000,
+    "last_check": 1793323800000,
     "peak": 0.2696,
     "half": false,
     "tier": "VERIFY"
@@ -791,6 +791,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1793304000,
- "hb_date": "2026-10-29"
+ "last_4h": 1793318400,
+ "hb_date": "2026-10-30"
 }
