@@ -1251,3 +1251,11 @@
 2026-10-30 | AAVE | 🔥 | UPCOMING | Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner | https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner
 2026-10-30 | AAVE | 🔥 | UPCOMING | Can Tokenized Stocks Push AAVE to $300? Aave Price Prediction Buyers Weigh a 200x AlphaPep | https://www.openpr.com/news/4676480/can-tokenized-stocks-push-aave-to-300-aave-price-prediction
 2026-10-30 | INJ | 🔥 | UPCOMING | Injective Surges 3.58% on Stockdrop, Options Testnet Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae2554e1d1ef400a3252fed/
+2026-10-31 | ZEC | 🔥 | RECENT | Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments | https://www.cryptobreaking.com/winklevoss-zcash-etf-filing-among/
+2026-10-31 | AAVE | ⚠️ | RECENT | Binance Hack Fallout: Aave Freezes Lending Across 16 Networks | https://news.bitcoin.com/defi/binance-hack-fallout-aave-freezes-lending-across-16-networks/
+2026-10-31 | JUP | 🔥 | RECENT | Jupiter (JUP) Gains 3.02% Amid BitGo Partnership News | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae36ff61d1ef400a32666fa/
+2026-10-31 | INJ | 🔥 | RECENT | Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments | https://www.cryptobreaking.com/winklevoss-zcash-etf-filing-among/
+2026-10-31 | RAY | 🔥 | RECENT | Raydium Drops 3.2% Amid Binance Shock and Solana Selloff | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae3fb6c1d1ef400a326fde7/
+2026-10-31 | WLD | ⚠️ | UPCOMING | The Data Nerd Ties Wallets to Binance Hack, Tracks 70,480 Ether (ETH) Swap | https://econotimes.com/The-Data-Nerd-Ties-Wallets-to-Binance-Hack-Tracks-70-480-Ether-ETH-Swap-1766441
+2026-10-31 | RED | 🔥 | RECENT | JPMorgan, Citi and Barclays Are Now on DTCC’s Tokenization Rails. Why Is Canton (CC) Still | https://247wallst.com/investing/cryptocurrency/2026/10/29/jpmorgan-citi-and-barclays-are-now-on-dtccs-tokenization-rails-why-is-canton-cc-still-down-21-this-month/
+2026-10-31 | ZRO | ⚠️ | UPCOMING | LayerZero (ZRO) Drops 9.93% Amid Unlock and Technical Factors | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6ae3b5771d1ef400a326ab6d/
