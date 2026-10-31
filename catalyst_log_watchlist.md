@@ -1259,3 +1259,7 @@
 2026-10-31 | WLD | ⚠️ | UPCOMING | The Data Nerd Ties Wallets to Binance Hack, Tracks 70,480 Ether (ETH) Swap | https://econotimes.com/The-Data-Nerd-Ties-Wallets-to-Binance-Hack-Tracks-70-480-Ether-ETH-Swap-1766441
 2026-10-31 | RED | 🔥 | RECENT | JPMorgan, Citi and Barclays Are Now on DTCC’s Tokenization Rails. Why Is Canton (CC) Still | https://247wallst.com/investing/cryptocurrency/2026/10/29/jpmorgan-citi-and-barclays-are-now-on-dtccs-tokenization-rails-why-is-canton-cc-still-down-21-this-month/
 2026-10-31 | ZRO | ⚠️ | UPCOMING | LayerZero (ZRO) Drops 9.93% Amid Unlock and Technical Factors | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6ae3b5771d1ef400a326ab6d/
+2026-10-31 | JUP | ⚠️ | RECENT | Jupiter Lend suspends withdrawals after Binance hack and market volatility | https://www.thenews.com.pk/latest/1421884-jupiter-lend-suspends-withdrawals-after-binance-hack-and-market-volatility
+2026-10-31 | RAY | 🔥 | RECENT | Raydium Drops 3.2% Amid Binance Shock and Solana Selloff | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae3fb6c1d1ef400a326fde7/
+2026-10-31 | FORM | 🔥 | RECENT | Form 8K Hashdex Nasdaq CME Crypto Index ETF For: 30 October | https://ng.investing.com/news/stock-market-news/form-8k-hashdex-nasdaq-cme-crypto-index-etf-for-30-october-93CH-2771858
+2026-10-31 | ZRO | ⚠️ | UPCOMING | LayerZero (ZRO) Drops 9.93% Amid Unlock and Technical Factors | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6ae3b5771d1ef400a326ab6d/
