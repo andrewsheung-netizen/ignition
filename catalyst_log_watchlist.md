@@ -1269,3 +1269,5 @@
 2026-11-01 | AVAX | ⚠️ | RECENT | Binance Hack: How EIP-7702 Delegation Emptied a Hot Wallet | https://dev.to/pandasecurity/binance-hack-how-eip-7702-delegation-emptied-a-hot-wallet-6g5
 2026-11-01 | SEI | 🔥 | UPCOMING | Sei Gains +3% on Autobahn Proposal and Perpetual Futures Launch | Top Stories | CoinMarket | https://coinmarketcap.com/top-stories/6ae5308f51401e768dc64660/
 2026-11-01 | SCRT | 🔥 | UPCOMING | DEPH Labs Partners with GB Top Team to Bring AI-Powered Precision Health to Elite MMA Athl | https://www.manilatimes.net/2026/10/31/tmt-newswire/globenewswire/deph-labs-partners-with-gb-top-team-to-bring-ai-powered-precision-health-to-elite-mma-athletes/2458568
+2026-11-01 | ZEC | 🔥 | UPCOMING | Zcash Price Prediction: NU7 Countdown Puts $1,500 in Focus While AlphaPepe Binance Listing | https://www.openpr.com/news/4678162/zcash-price-prediction-nu7-countdown-puts-1-500-in-focus-while
+2026-11-01 | STX | 🔥 | RECENT | Stacks Price Rallies as Bitcoin Staking Gains Traction: What Comes Next? | https://coinpedia.org/price-analysis/stacks-price-rallies-as-bitcoin-staking-gains-traction-what-comes-next/
