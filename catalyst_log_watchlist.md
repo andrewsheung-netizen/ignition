@@ -1263,3 +1263,9 @@
 2026-10-31 | RAY | 🔥 | RECENT | Raydium Drops 3.2% Amid Binance Shock and Solana Selloff | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae3fb6c1d1ef400a326fde7/
 2026-10-31 | FORM | 🔥 | RECENT | Form 8K Hashdex Nasdaq CME Crypto Index ETF For: 30 October | https://ng.investing.com/news/stock-market-news/form-8k-hashdex-nasdaq-cme-crypto-index-etf-for-30-october-93CH-2771858
 2026-10-31 | ZRO | ⚠️ | UPCOMING | LayerZero (ZRO) Drops 9.93% Amid Unlock and Technical Factors | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6ae3b5771d1ef400a326ab6d/
+2026-11-01 | ZEC | 🔥 | UPCOMING | Zcash (ZEC) Just Lost Its Top-10 Spot to Hyperliquid. Can the NU7 Upgrade Win It Back? | https://247wallst.com/investing/cryptocurrency/2026/10/30/zcash-zec-just-lost-its-top-10-spot-to-hyperliquid-can-the-nu7-upgrade-win-it-back/
+2026-11-01 | RAY | 🔥 | RECENT | Raydium Drops 3.2% Amid Binance Shock and Solana Selloff | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae3fb6c1d1ef400a326fde7/
+2026-11-01 | AVAX | 🔥 | RECENT | $6.3B in 20 Minutes, $3B Frozen in an Hour: What the Binance Breach Reveals About Stableco | https://dev.to/qanzhi111/63b-in-20-minutes-3b-frozen-in-an-hour-what-the-binance-breach-reveals-about-stablecoin-kill-16ek
+2026-11-01 | AVAX | ⚠️ | RECENT | Binance Hack: How EIP-7702 Delegation Emptied a Hot Wallet | https://dev.to/pandasecurity/binance-hack-how-eip-7702-delegation-emptied-a-hot-wallet-6g5
+2026-11-01 | SEI | 🔥 | UPCOMING | Sei Gains +3% on Autobahn Proposal and Perpetual Futures Launch | Top Stories | CoinMarket | https://coinmarketcap.com/top-stories/6ae5308f51401e768dc64660/
+2026-11-01 | SCRT | 🔥 | UPCOMING | DEPH Labs Partners with GB Top Team to Bring AI-Powered Precision Health to Elite MMA Athl | https://www.manilatimes.net/2026/10/31/tmt-newswire/globenewswire/deph-labs-partners-with-gb-top-team-to-bring-ai-powered-precision-health-to-elite-mma-athletes/2458568
