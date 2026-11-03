@@ -1288,3 +1288,7 @@
 2026-11-03 | WLD | ⚠️ | RECENT | WLD Price Falls 13.26% Amid Binance Hack and Short Selling | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae7e1a09b5a9a598fa8d0f9/
 2026-11-03 | GALA | 🔥 | RECENT | OneRoyal Celebrates 20 Years of Success in Istanbul with a Luxurious Gala Honouring Partne | https://www.financemagnates.com/thought-leadership/oneroyal-celebrates-20-years-of-success-in-istanbul-with-a-luxurious-gala-honouring-partners-and-clients/
 2026-11-03 | XAI | 🔥 | RECENT | Running Grok is burning a hole in xAI's pocket, admits Musk | https://yourstory.com/ai-story/grok-costs-xai-expensive-ai-challenge
+2026-11-03 | ZEC | 🔥 | RECENT | Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade | https://u.today/zcash-zec-whale-builds-14-million-long-ahead-of-300-speed-upgrade
+2026-11-03 | AAVE | ⚠️ | RECENT | Aave Dips 3.1% Amid Binance Hack Fallout and Risk Tightening | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae8602fcec4e019f4503824/
+2026-11-03 | INJ | 🔥 | UPCOMING | Injective (INJ)launches Institutional Rail for block production access | https://blockchain.news/news/injective-launches-institutional-rail-for-block-production-access
+2026-11-03 | WLD | ⚠️ | RECENT | WLD Price Falls 13.26% Amid Binance Hack and Short Selling | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6ae7e1a09b5a9a598fa8d0f9/
