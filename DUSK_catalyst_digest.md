@@ -4,9 +4,7 @@
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 ZEC [CORE] — Zcash grants committee drops plan to redirect 98,000 ZEC to future mining reward https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards
    🔥 ZEC [CORE] — Binance says 90% of stolen crypto assets replenished; withdrawals to resume on N https://www.businesstoday.in/technology/news/story/binance-says-90-of-stolen-crypto-assets-replenished-withdrawals-to-resume-on-november-1-564957-2026-10-31
-   🔥 AAVE [CORE] — Aave V4 launches first externally curated lending markets with Sentora https://crypto.news/aave-v4-launches-first-externally-curated-lending-markets-with-sentora/
    🔥 JUP [CORE] — Virtune Launches Virtune AI Crypto Index ETP on Nasdaq Stockholm and Deutsche Bö https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/virtune-launches-virtune-ai-crypto-index-etp-on-nasdaq-stockholm-and-deutsche-borse-xetra/2460377
    🔥 PYTH [VERIFY] — Virtune Launches Virtune AI Crypto Index ETP on Nasdaq Stockholm and Deutsche Bö https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/virtune-launches-virtune-ai-crypto-index-etp-on-nasdaq-stockholm-and-deutsche-borse-xetra/2460377
    🔥 AVAX [CORE] — Best Crypto to Invest In: Franklin Backs Bitcoin as Buyers Eye Pepeto's Binance  https://techbullion.com/best-crypto-to-invest-in-franklin-backs-bitcoin-as-buyers-eye-pepetos-binance-listing/
@@ -15,14 +13,12 @@
    🔥 STX [WATCH] — How to earn yield on Bitcoin in 2026: Staking, lending and DeFi https://crypto.news/how-to-earn-yield-on-bitcoin-in-2026-staking-lending-and-defi/
 
 📰 recent catalysts:
+   ⚠️ ZEC [CORE] — Crypto News Today: Bitcoin Outflow, Zcash Seven Zebra Security Fixes, BitMart Ha
+   🔥 ZEC [CORE] — Options Traders Drop Their Election Hedges as BTC Retakes $78,500, and Zcash Lev
    🔥 ZEC [CORE] — Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields.
-   🔥 ZEC [CORE] — Zcash Gains About 12% as NU7 Upgrade Nears Activation Block
-   🔥 ZEC [CORE] — Zcash Is Getting a Major Upgrade in November. Could This Be a Catalyst for Furth
    🔥 ZEC [CORE] — Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade
    🔥 ZEC [CORE] — Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments
    🔥 ZEC [CORE] — Zcash (ZEC) Launched 10 Years Ago, 2 Things That Made It Stand Out in 2026
-   ⚠️ AAVE [CORE] — Crypto News Today: $3B Frozen After Binance Hack as Aave Surges 9% and Pepeto Bu
    🔥 INJ [CORE] — Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments
-   🔥 FORM [CORE] — Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields.
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
