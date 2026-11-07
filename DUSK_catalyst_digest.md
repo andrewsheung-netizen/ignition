@@ -1,27 +1,40 @@
-📅 DUSK watchlist — catalyst brief 2026-11-06
+📅 DUSK watchlist — catalyst brief 2026-11-07
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
+   🔥 ZEC [CORE] — ZEC Price Analysis: Zcash Down 1.5% After NU7 Upgrade Launch https://us.headtopics.com/news/zec-price-analysis-zcash-down-1-5-after-nu7-upgrade-launch-89611874
+   🔥 ZEC [CORE] — Zcash resists crypto market selloff as network upgrade goes live. What's next? https://investinglive.com/cryptocurrency/zcash-resists-crypto-market-selloff-as-network-upgrade-goes-live-what-s-next/
+   🔥 ZEC [CORE] — Zcash News: The Countdown to NU7 Is On as AlphaPepe Smashes Past $3.3M Ahead of  https://www.openpr.com/news/4683678/zcash-news-the-countdown-to-nu7-is-on-as-alphapepe-smashes-past
    🔥 ZEC [CORE] — Binance says 90% of stolen crypto assets replenished; withdrawals to resume on N https://www.businesstoday.in/technology/news/story/binance-says-90-of-stolen-crypto-assets-replenished-withdrawals-to-resume-on-november-1-564957-2026-10-31
-   🔥 BONK [CORE] — DeFi Technologies' Subsidiary Valour Launches Eight New Digital Asset ETPs on Sp https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/defi-technologies-subsidiary-valour-launches-eight-new-digital-asset-etps-on-spotlight-stock-market-expanding-access-to-ai-institutional-blockchain-defi-and-community-tokens/2462884
    🔥 WIF [CORE] — DeFi Technologies' Subsidiary Valour Launches Eight New Digital Asset ETPs on Sp https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/defi-technologies-subsidiary-valour-launches-eight-new-digital-asset-etps-on-spotlight-stock-market-expanding-access-to-ai-institutional-blockchain-defi-and-community-tokens/2462884
+   🔥 AAVE [CORE] — Best Crypto to Buy in 2026: Pepeto Raises $11.2M While AAVE and INJ Push Higher  https://techbullion.com/best-crypto-to-buy-in-2026-pepeto-raises-11-2m-while-aave-and-inj-push-higher-as-altcoins-wait/
+   🔥 INJ [CORE] — Injective (INJ) Surges 10% on Nasdaq ETF Launch | Top Stories | CoinMarketCap https://coinmarketcap.com/top-stories/6aed2763186e1f6fb5ca7ec5/
+   🔥 INJ [CORE] — Canary Capital Brings Injective to Nasdaq With New INJ Staked ETF https://news.bitcoin.com/featured/canary-capital-brings-injective-nasdaq-inj-staked-etf/
+   🔥 INJ [CORE] — Canary's Injective ETF debuts on Nasdaq with exposure to staking rewards https://us.headtopics.com/news/canary-s-injective-etf-debuts-on-nasdaq-with-exposure-to-89587187
+   🔥 RAY [VERIFY] — Raydium (RAY) Volatility: ETP Listing and Market Swings | Top Stories | CoinMark https://coinmarketcap.com/top-stories/6aedb530186e1f6fb5caf65f/
    🔥 RAY [VERIFY] — DeFi Technologies' Subsidiary Valour Launches Eight New Digital Asset ETPs on Sp https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/defi-technologies-subsidiary-valour-launches-eight-new-digital-asset-etps-on-spotlight-stock-market-expanding-access-to-ai-institutional-blockchain-defi-and-community-tokens/2462884
-   🔥 STX [WATCH] — How to earn yield on Bitcoin in 2026: Staking, lending and DeFi https://crypto.news/how-to-earn-yield-on-bitcoin-in-2026-staking-lending-and-defi/
+   🔥 AVAX [CORE] — Best Crypto to Invest In: Franklin Backs Bitcoin as Buyers Eye Pepeto's Binance  https://techbullion.com/best-crypto-to-invest-in-franklin-backs-bitcoin-as-buyers-eye-pepetos-binance-listing/
+   🔥 AVAX [CORE] — Best Crypto to Invest In? Coinbase Ventures Backs $10.6M Round as Pepeto Offers  https://techbullion.com/best-crypto-to-invest-in-coinbase-ventures-backs-10-6m-round-as-pepeto-offers-160-apy/
+   🔥 PORTAL [VERIFY] — Portal launched for registration to attend Bhupen Hazarika centenary event in De https://www.theweek.in/wire-updates/national/2026/11/06/portal-launched-for-registration-to-attend-bhupen-hazarika-centenary-event-in-delhi.html
+   🔥 RED [VERIFY] — Tether's Hadron Partners with RedStone to Enhance Tokenized Asset Infrastructure https://blockchain.news/news/tether-hadron-redstone-tokenized-assets
 
 📰 recent catalysts:
-   🔥 ZEC [CORE] — Crypto News Today: Bitcoin ETFs See Fresh Inflows, Polygon Rallies, Uniswap Hits
+   🔥 ZEC [CORE] — Zcash NU7 Upgrade Activated With New Security Model
+   🔥 ZEC [CORE] — Zcash Price Holds Above USD 1,300 as NU7 Upgrade Fuels Breakout Talks
+   🔥 ZEC [CORE] — Zcash Upgrade Could Lock $16 Million in Crypto Forever
    🔥 ZEC [CORE] — Zcash (ZEC) Whale Builds $14 Million Long Ahead of 300% Speed Upgrade
-   🔥 ZEC [CORE] — Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments
-   🔥 ZEC [CORE] — Zcash (ZEC) Launched 10 Years Ago, 2 Things That Made It Stand Out in 2026
+   🔥 AAVE [CORE] — Aave Price Prediction: Kraken Parent Buys AAVE, Pepeto Presale Tops $11.2 millio
+   🔥 AAVE [CORE] — Kraken Parent Payward Acquires AAVE Tokens in DeFi Push
    🔥 AAVE [CORE] — Payward, Inc.: Payward and Its Clients Acquire AAVE Token Stake
-   🔥 AAVE [CORE] — Payward and Its Clients Acquire AAVE Token Stake
-   🔥 AAVE [CORE] — Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push
-   🔥 INJ [CORE] — Can Injective Coin Hit $60 After ETF Approval?
-   🔥 INJ [CORE] — Injective Surges 3.69% on ETF Approval and Market Rebound | Top Stories | CoinMa
+   ⚠️ AAVE [CORE] — Aave and Lido lose $1.7B in massive DeFi capital drop after the Binance hack
+   ⚠️ AAVE [CORE] — Crypto News Today: $3B Frozen After Binance Hack as Aave Surges 9% and Pepeto Bu
+   🔥 INJ [CORE] — Injective Leads Listed Gainers as Bitcoin and Ether Turn Lower
+   🔥 INJ [CORE] — The First Staked Injective ETF Starts Trading Today. Can INJ Reach $20 by 2027?
+   🔥 INJ [CORE] — Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments
    ⚠️ WLD [CORE] — Worldcoin (WLD) Down 4.5% Amid Binance Hack, Whale Deposits | Top Stories | Coin
-   🔥 AVAX [CORE] — Avalanche Gains 4.88% Amid Altcoin Rally and Coinbase Prime | Top Stories | Coin
-   🔥 GALA [VERIFY] — OneRoyal Celebrates 20 Years of Success in Istanbul with a Luxurious Gala Honour
+   🔥 AVAX [CORE] — AVAT Reports Preliminary Third Quarter 2026 Financial Results and Treasury Metri
+   ⚠️ USUAL [VERIFY] — Crypto Exchange GOPAX Halts Trading and Standard Withdrawals After Hacking Threa
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.
