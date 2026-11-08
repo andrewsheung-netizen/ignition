@@ -1374,3 +1374,9 @@
 2026-11-08 | RAY | 🔥 | UPCOMING | Raydium (RAY) Volatility: ETP Listing and Market Swings | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aedb530186e1f6fb5caf65f/
 2026-11-08 | PORTAL | ⚠️ | RECENT | Larwyn’s Linx: The Great Rug Pull | https://beforeitsnews.com/opinion-conservative/2026/11/larwyns-linx-the-great-rug-pull-3747394.html
 2026-11-08 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
+2026-11-08 | ZEC | 🔥 | RECENT | Zcash Surges 3% on NU7 Upgrade Amid Flat Crypto Market | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeeb160186e1f6fb5cc1de1/
+2026-11-08 | BONK | 🔥 | UPCOMING | Bonk Price Today: A Swedish ETP Lists BONK, but Meme Money Heads to Pepeto's $11.3 Million | https://www.openpr.com/news/4684671/bonk-price-today-a-swedish-etp-lists-bonk-but-meme-money-heads
+2026-11-08 | AAVE | 🔥 | UPCOMING | BTC, ETH or Pepeto: Which Is the Best Crypto to Buy in 2026 After Kraken's Parent Bought A | https://www.openpr.com/news/4684631/btc-eth-or-pepeto-which-is-the-best-crypto-to-buy-in-2026-after
+2026-11-08 | INJ | 🔥 | RECENT | Canary Capital’s Staked Injective ETF Begins Nasdaq Trading With 1.10% Fee | https://econotimes.com/Canary-Capital-s-Staked-Injective-ETF-Begins-Nasdaq-Trading-With-1-10-Fee-1772709
+2026-11-08 | RAY | 🔥 | UPCOMING | Raydium (RAY) Volatility: ETP Listing and Market Swings | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aedb530186e1f6fb5caf65f/
+2026-11-08 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
