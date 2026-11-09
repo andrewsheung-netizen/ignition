@@ -1380,3 +1380,8 @@
 2026-11-08 | INJ | 🔥 | RECENT | Canary Capital’s Staked Injective ETF Begins Nasdaq Trading With 1.10% Fee | https://econotimes.com/Canary-Capital-s-Staked-Injective-ETF-Begins-Nasdaq-Trading-With-1-10-Fee-1772709
 2026-11-08 | RAY | 🔥 | UPCOMING | Raydium (RAY) Volatility: ETP Listing and Market Swings | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aedb530186e1f6fb5caf65f/
 2026-11-08 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
+2026-11-09 | AAVE | 🔥 | RECENT | Kraken Parent Payward Takes AAVE Stake as Institutions Look Deeper Into DeFi | https://www.newsbtc.com/news/defi/kraken-parent-payward-takes-aave-stake-as-institutions-look-deeper-into-defi/
+2026-11-09 | INJ | 🔥 | UPCOMING | Nasdaq Lists Canary’s Staked INJ ETF, Adding Another Route to Altcoin Exposure | https://www.newsbtc.com/altcoin/nasdaq-lists-canary-s-staked-inj-etf-adding-another-route-to-altcoin-exposure/
+2026-11-09 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 3.18% on ETF Launch and Milestones | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aef682e186e1f6fb5cccbc8/
+2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
+2026-11-09 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
