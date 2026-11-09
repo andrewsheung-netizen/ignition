@@ -1385,3 +1385,8 @@
 2026-11-09 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 3.18% on ETF Launch and Milestones | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aef682e186e1f6fb5cccbc8/
 2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
 2026-11-09 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
+2026-11-09 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 3.18% on ETF Launch and Milestones | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aef682e186e1f6fb5cccbc8/
+2026-11-09 | FORM | 🔥 | RECENT | Intercontinental Exchange Inc. $ICE Stock: Candriam S.C.A. Raises Stake | https://www.themarketsdaily.com/2026/11/08/intercontinental-exchange-inc-ice-stock-candriam-s-c-a-raises-stake.html
+2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 3.47% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af0735d186e1f6fb5cdd38a/
+2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
+2026-11-09 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/

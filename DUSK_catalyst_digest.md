@@ -10,9 +10,7 @@
    🔥 INJ [CORE] — Nasdaq Lists Canary’s Staked INJ ETF, Adding Another Route to Altcoin Exposure https://www.newsbtc.com/altcoin/nasdaq-lists-canary-s-staked-inj-etf-adding-another-route-to-altcoin-exposure/
    🔥 INJ [CORE] — Injective (INJ) Surges 3.18% on ETF Launch and Milestones | Top Stories | CoinMa https://coinmarketcap.com/top-stories/6aef682e186e1f6fb5cccbc8/
    🔥 INJ [CORE] — Canary Capital Launches the First U.S. Spot Staked INJ ETF (Ticker: INJC) https://itbusinessnet.com/2026/11/canary-capital-launches-the-first-u-s-spot-staked-inj-etf-ticker-injc/
-   🔥 INJ [CORE] — Cryptocurrency News: Injective's Staked ETF Debuts on Nasdaq While AVAX and LTC  https://www.openpr.com/news/4684401/cryptocurrency-news-injective-s-staked-etf-debuts-on-nasdaq
    🔥 AVAX [CORE] — Best Crypto to Invest In: Franklin Backs Bitcoin as Buyers Eye Pepeto's Binance  https://techbullion.com/best-crypto-to-invest-in-franklin-backs-bitcoin-as-buyers-eye-pepetos-binance-listing/
-   🔥 STX [WATCH] — How to earn yield on Bitcoin in 2026: Staking, lending and DeFi https://crypto.news/how-to-earn-yield-on-bitcoin-in-2026-staking-lending-and-defi/
 
 📰 recent catalysts:
    🔥 ZEC [CORE] — Zcash Upgrade Could Lock $16 Million in Crypto Forever
@@ -24,6 +22,8 @@
    ⚠️ JUP [CORE] — Building SolShield AI: Byte-Level Honeypot & Rug Defense for Solana AI Agents
    🔥 INJ [CORE] — Canary Capital’s Staked Injective ETF Begins Nasdaq Trading With 1.10% Fee
    🔥 INJ [CORE] — Winklevoss Zcash ETF Filing Among Three Crypto ETF Proposal Amendments
+   🔥 FORM [CORE] — Intercontinental Exchange Inc. $ICE Stock: Candriam S.C.A. Raises Stake
+   🔥 STX [WATCH] — Stacks (STX) Surges 3.47% on Institutional Bitcoin Staking | Top Stories | CoinM
    🔥 STX [WATCH] — Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMa
    ⚠️ ZRO [WATCH] — LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | Co
 
