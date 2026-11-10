@@ -1395,3 +1395,8 @@
 2026-11-10 | AVAX | 🔥 | UPCOMING | Funtico retires TICO, launches PLAYR token on Robinhood Chain | https://egamers.io/funtico-retires-tico-launches-playr-token-on-robinhood-chain/
 2026-11-10 | SNT | 🔥 | RECENT | Coinbase Secures Full US Trust Charter as OCC Expands Crypto Banking Access | https://coinpedia.org/news/coinbase-secures-full-us-trust-charter-as-occ-expands-crypto-banking-access/
 2026-11-10 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
+2026-11-10 | ZEC | 🔥 | UPCOMING | Zcash Activates NU7 Upgrade to Slash Block Times and Boost Privacy | https://us.headtopics.com/news/zcash-activates-nu7-upgrade-to-slash-block-times-and-boost-89688776
+2026-11-10 | BONK | 🔥 | RECENT | Chasing Financial Freedom? 10 Top Meme Coins in 2026 as Apeing Presale Raises $125K+ | https://www.openpr.com/news/4685612/chasing-financial-freedom-10-top-meme-coins-in-2026-as-apeing
+2026-11-10 | AVAX | 🔥 | UPCOMING | NYSE to settle tokenized stocks on Avalanche in planned 24/7 market | https://us.headtopics.com/news/nyse-to-settle-tokenized-stocks-on-avalanche-in-planned-89690981
+2026-11-10 | AVAX | 🔥 | UPCOMING | NYSE selects Avalanche to power settlement for tokenized stock platform | https://crypto.news/nyse-selects-avalanche-to-power-settlement-for-tokenized-stock-platform/
+2026-11-10 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
