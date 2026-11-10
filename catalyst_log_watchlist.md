@@ -1390,3 +1390,8 @@
 2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 3.47% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af0735d186e1f6fb5cdd38a/
 2026-11-09 | STX | 🔥 | RECENT | Stacks (STX) Surges 4.5% on Institutional Bitcoin Staking | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6aeebf32186e1f6fb5cc2b10/
 2026-11-09 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
+2026-11-10 | ZEC | 🔥 | RECENT | Zcash developers want 20-second blocks just days after major speed upgrade | https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade
+2026-11-10 | INJ | 🔥 | RECENT | Injective (INJ)Celebrates 5 Years with $12B Onchain Trading and Major Upgrades | https://blockchain.news/news/injective-5-year-anniversary
+2026-11-10 | AVAX | 🔥 | UPCOMING | Funtico retires TICO, launches PLAYR token on Robinhood Chain | https://egamers.io/funtico-retires-tico-launches-playr-token-on-robinhood-chain/
+2026-11-10 | SNT | 🔥 | RECENT | Coinbase Secures Full US Trust Charter as OCC Expands Crypto Banking Access | https://coinpedia.org/news/coinbase-secures-full-us-trust-charter-as-occ-expands-crypto-banking-access/
+2026-11-10 | ZRO | ⚠️ | RECENT | LayerZero (ZRO) Drops 3.8% Amid Infrastructure Pause, Unlocks | Top Stories | CoinMarketCa | https://coinmarketcap.com/top-stories/6af002de186e1f6fb5cd7705/
