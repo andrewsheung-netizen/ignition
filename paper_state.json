@@ -6,7 +6,7 @@
     "entry": 0.1736,
     "notional": 1898.7363835248082,
     "ts": 1792756800000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.1998,
     "half": false,
     "tier": "CORE"
@@ -15,8 +15,8 @@
     "entry": 0.0118,
     "notional": 1748.783642978378,
     "ts": 1794153600000,
-    "last_check": 1794379500000,
-    "peak": 0.01273,
+    "last_check": 1794410100000,
+    "peak": 0.01292,
     "half": false,
     "tier": "VERIFY"
    },
@@ -24,7 +24,7 @@
     "entry": 0.2558,
     "notional": 1748.783642978378,
     "ts": 1794240000000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.2641,
     "half": false,
     "tier": "CORE"
@@ -33,7 +33,7 @@
     "entry": 0.0376,
     "notional": 1748.783642978378,
     "ts": 1794283200000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.0378,
     "half": false,
     "tier": "WATCH"
@@ -384,7 +384,7 @@
     "entry": 0.2571,
     "notional": 1844.7981559088178,
     "ts": 1793102400000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.2696,
     "half": false,
     "tier": "VERIFY"
@@ -393,8 +393,8 @@
     "entry": 0.0118,
     "notional": 1734.2984017800018,
     "ts": 1794153600000,
-    "last_check": 1794379500000,
-    "peak": 0.01273,
+    "last_check": 1794410100000,
+    "peak": 0.01292,
     "half": false,
     "tier": "VERIFY"
    },
@@ -402,7 +402,7 @@
     "entry": 0.2558,
     "notional": 1734.2984017800018,
     "ts": 1794240000000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.2641,
     "half": false,
     "tier": "CORE"
@@ -411,7 +411,7 @@
     "entry": 0.0376,
     "notional": 1734.2984017800018,
     "ts": 1794283200000,
-    "last_check": 1794379500000,
+    "last_check": 1794410100000,
     "peak": 0.0378,
     "half": false,
     "tier": "WATCH"
@@ -875,6 +875,6 @@
   }
  },
  "candle": 1782331200,
- "last_4h": 1794369600,
+ "last_4h": 1794398400,
  "hb_date": "2026-11-11"
 }
