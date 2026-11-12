@@ -1426,3 +1426,9 @@
 2026-11-12 | STX | 🔥 | RECENT | What Is Crypto Restaking? Same ETH, Extra Yield — and Extra Slashing | https://dev.to/biacryptotrading/what-is-crypto-restaking-same-eth-extra-yield-and-extra-slashing-1jo4
 2026-11-12 | ZRO | 🔥 | RECENT | What Is Crypto Restaking? Same ETH, Extra Yield — and Extra Slashing | https://dev.to/biacryptotrading/what-is-crypto-restaking-same-eth-extra-yield-and-extra-slashing-1jo4
 2026-11-12 | AXL | 🔥 | UPCOMING | Immutable Chain Will Switch to Optimism’s OP Stack in Mid-2027: Faster Blocks, Seven-Day W | https://egamers.io/immutable-chain-will-switch-to-optimisms-op-stack-in-mid-2027-faster-blocks-seven-day-withdrawals-and-a-testnet-shutdown/
+2026-11-12 | PYTH | 🔥 | RECENT | Pyth Network Gains 7% on RWA Perps Dominance, Growth | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af3f75f6dcd1d4966215784/
+2026-11-12 | AVAX | 🔥 | RECENT | NYSE Plans Tokenized Securities Platform on Avalanche, Boosting AVAX Prices | https://us.headtopics.com/news/nyse-plans-tokenized-securities-platform-on-avalanche-89761083
+2026-11-12 | AVAX | 🔥 | RECENT | AVAX Eyes $15 as Treasury Debt Hits Zero, but $8.33 Stands in the Way | https://coinpedia.org/news/avax-eyes-15-as-treasury-debt-hits-zero-but-8-33-stands-in-the-way/
+2026-11-12 | FORM | ⚠️ | UPCOMING | Germany's left-wing Die Linke struggles to form coalition as anti-Israel controversy swirl | https://www.jpost.com/international/article-914609
+2026-11-12 | PORTAL | 🔥 | UPCOMING | NEAR News: JuvrixAI, a Platform for AI Agents With Built-In Spending Limits on NEAR Protoc | https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/near-news-juvrixai-a-platform-for-ai-agents-with-built-in-spending-limits-on-near-protocol-launches-its-presale/2467690
+2026-11-12 | STX | 🔥 | UPCOMING | Zest Launches Stacks Pools for Concentrated Liquidity Trading on Stacks | https://www.stacks.co/blog/zest-launches-stacks-pools-for-concentrated-liquidity-trading-on-stacks
