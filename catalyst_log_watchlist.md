@@ -1440,3 +1440,8 @@
 2026-11-13 | PYTH | 🔥 | RECENT | Pyth Network Gains 7% on RWA Perps Dominance, Growth | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af3f75f6dcd1d4966215784/
 2026-11-13 | AVAX | 🔥 | RECENT | ICE Taps Avalanche for Clearing and Settlement at Planned Tokenized Securities Venue | https://econotimes.com/ICE-Taps-Avalanche-for-Clearing-and-Settlement-at-Planned-Tokenized-Securities-Venue-1775817
 2026-11-13 | TURBO | 🔥 | UPCOMING | BetFury Introduces Turbo Bet: Up to 100 000 Bets in a Single Session Across Its Original G | https://coinpedia.org/press-release/betfury-introduces-turbo-bet-up-to-100-000-bets-in-single-session/
+2026-11-13 | ZEC | 🔥 | RECENT | Zcash Falls 3.03% on Binance as Long Liquidations Hit $1.26 Million | https://econotimes.com/Zcash-Falls-3-03-on-Binance-as-Long-Liquidations-Hit-1-26-Million-1775832
+2026-11-13 | PYTH | 🔥 | RECENT | Pyth Network's NYSE Integration Drives PYTH Volatility | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af5572b0ada0c77afad272b/
+2026-11-13 | PYTH | 🔥 | RECENT | Pyth Network Gains 7% on RWA Perps Dominance, Growth | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af3f75f6dcd1d4966215784/
+2026-11-13 | AVAX | 🔥 | RECENT | New York Stock Exchange selects Avalanche for 24/7 tokenized stock settlement | https://www.crypto-reporter.com/news/new-york-stock-exchange-selects-avalanche-for-24-7-tokenized-stock-settlement-133268/
+2026-11-13 | GALA | 🔥 | UPCOMING | Every App Can Now Be a Force for Good: Pledge Launches a Charitable Giving Connector on Lo | https://www.manilatimes.net/2026/11/12/tmt-newswire/globenewswire/every-app-can-now-be-a-force-for-good-pledge-launches-a-charitable-giving-connector-on-lovable/2468705
