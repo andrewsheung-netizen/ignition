@@ -1450,3 +1450,9 @@
 2026-11-14 | JUP | 🔥 | UPCOMING | Jupiter's Multi-Product Launch Drives JUP Price Surge | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af621e80ada0c77afade4e6/
 2026-11-14 | PYTH | 🔥 | RECENT | Pyth Network's NYSE Integration Drives PYTH Volatility | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af5572b0ada0c77afad272b/
 2026-11-14 | FORM | 🔥 | RECENT | FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2.3 Million | https://www.manilatimes.net/2026/11/13/tmt-newswire/pr-newswire/ff-eai-robotics-ecosystem-ffr-announces-2026-q3-results-with-approximately-23-million-in-cumulative-revenue-for-acquired-robotics-business/2469191
+2026-11-14 | AAVE | 🔥 | RECENT | Ethereum Dancing on Two Fronts as Quantum Upgrade Advances and Treasury Leverage Bites | https://cryptonews.com/news/ethereum-quantum-upgrade-btcs-aave-debt/
+2026-11-14 | JUP | 🔥 | UPCOMING | Jupiter's Multi-Product Launch Drives JUP Price Surge | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af621e80ada0c77afade4e6/
+2026-11-14 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 6.12% on Veyra Upgrade, ETF Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af6ff630ada0c77afaebceb/
+2026-11-14 | PYTH | 🔥 | RECENT | Pyth Network's NYSE Integration Drives PYTH Volatility | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af5572b0ada0c77afad272b/
+2026-11-14 | AVAX | 🔥 | RECENT | NYSE Selects Avalanche for Proposed Tokenized Securities Clearing | https://econotimes.com/NYSE-Selects-Avalanche-for-Proposed-Tokenized-Securities-Clearing-1776311
+2026-11-14 | FORM | 🔥 | RECENT | Kraken Parent Payward Breaks Trading Reliance as Services and Custody Drive Q3 Margin | https://www.financemagnates.com/cryptocurrency/exchange/kraken-parent-payward-breaks-trading-reliance-as-services-and-custody-drive-q3-margin/
