@@ -1456,3 +1456,11 @@
 2026-11-14 | PYTH | 🔥 | RECENT | Pyth Network's NYSE Integration Drives PYTH Volatility | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af5572b0ada0c77afad272b/
 2026-11-14 | AVAX | 🔥 | RECENT | NYSE Selects Avalanche for Proposed Tokenized Securities Clearing | https://econotimes.com/NYSE-Selects-Avalanche-for-Proposed-Tokenized-Securities-Clearing-1776311
 2026-11-14 | FORM | 🔥 | RECENT | Kraken Parent Payward Breaks Trading Reliance as Services and Custody Drive Q3 Margin | https://www.financemagnates.com/cryptocurrency/exchange/kraken-parent-payward-breaks-trading-reliance-as-services-and-custody-drive-q3-margin/
+2026-11-15 | ZEC | 🔥 | UPCOMING | Zcash to vote on removing 50,000 ZEC from grants treasury | https://bitcoinworld.co.in/zcash-50000-zec-grants-treasury-vote/
+2026-11-15 | ZEC | 🔥 | RECENT | Zcash (ZEC) Rises $29 on Binance as Short Liquidations Top Longs | https://econotimes.com/Zcash-ZEC-Rises-29-on-Binance-as-Short-Liquidations-Top-Longs-1776342
+2026-11-15 | ZEC | 🔥 | RECENT | Zcash’s Binance Slide Coincides With $1.2 Million in Long Liquidations | https://econotimes.com/Zcash-s-Binance-Slide-Coincides-With-1-2-Million-in-Long-Liquidations-1776325
+2026-11-15 | WIF | ⚠️ | UPCOMING | What Makes Apeing the Best Meme Coin to Buy Now When Other Cryptos Struggle for Attention? | https://www.openpr.com/news/4690020/what-makes-apeing-the-best-meme-coin-to-buy-now-when-other-cryptos
+2026-11-15 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 6.12% on Veyra Upgrade, ETF Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af6ff630ada0c77afaebceb/
+2026-11-15 | AVAX | 🔥 | UPCOMING | NYSE Taps Avalanche to Settle Tokenized Stock Trades | https://bitcoinworld.co.in/nyse-taps-avalanche-to-settle-tokenized-stock-trades/
+2026-11-15 | PORTAL | 🔥 | UPCOMING | How to Scrape Funda Property Listings in Python with Funda Scraper | https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d
+2026-11-15 | PORTAL | 🔥 | UPCOMING | How to Scrape German Real Estate Listings with ImmoScout24 Scraper | https://dev.to/reventadata/how-to-scrape-german-real-estate-listings-with-immoscout24-scraper-1d2h
