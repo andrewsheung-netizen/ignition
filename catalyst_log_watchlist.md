@@ -1464,3 +1464,6 @@
 2026-11-15 | AVAX | 🔥 | UPCOMING | NYSE Taps Avalanche to Settle Tokenized Stock Trades | https://bitcoinworld.co.in/nyse-taps-avalanche-to-settle-tokenized-stock-trades/
 2026-11-15 | PORTAL | 🔥 | UPCOMING | How to Scrape Funda Property Listings in Python with Funda Scraper | https://dev.to/reventadata/how-to-scrape-funda-property-listings-in-python-with-funda-scraper-n9d
 2026-11-15 | PORTAL | 🔥 | UPCOMING | How to Scrape German Real Estate Listings with ImmoScout24 Scraper | https://dev.to/reventadata/how-to-scrape-german-real-estate-listings-with-immoscout24-scraper-1d2h
+2026-11-15 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 6.12% on Veyra Upgrade, ETF Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af6ff630ada0c77afaebceb/
+2026-11-15 | AVAX | 🔥 | RECENT | Bitcoin below $70K, Coinbase charter, NYSE | https://crypto.news/bitcoin-70k-coinbase-charter-nyse-weekly-recap/
+2026-11-15 | USUAL | 🔥 | UPCOMING | OpenAI Launches ChatGPT Wallet, Lets AI Agents Make Purchases | https://www.ciol.com/news/openai-launches-chatgpt-wallet-lets-ai-agents-make-purchases-12809961
