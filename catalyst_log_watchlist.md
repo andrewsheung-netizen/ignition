@@ -1473,3 +1473,6 @@
 2026-11-16 | AVAX | 🔥 | RECENT | Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, con | https://biztoc.com/x/201fd18eb1007561
 2026-11-16 | XAI | 🔥 | RECENT | Meet Hussain Sajwani, the Dubai investor who made more money from Anthropic in 2 years tha | https://www.livemint.com/companies/people/meet-hussain-sajwani-the-dubai-investor-who-made-more-money-from-anthropic-in-2-years-than-his-30-years-of-investments-11794726343697.html
 2026-11-16 | ZRO | ⚠️ | UPCOMING | Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40% | https://biztoc.com/x/2170bad4bb0093b2
+2026-11-16 | ZEC | 🔥 | RECENT | Midnight (NIGHT) Surges 6.2% on Upgrades and Market Strength | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af991be19ea3e3530cebd4d/
+2026-11-16 | ZEC | 🔥 | RECENT | Zcash Drops 3.57% Amid ETF Outflows, Governance Uncertainty | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af8ccff19ea3e3530cde5e3/
+2026-11-16 | AAVE | 🔥 | UPCOMING | Aave Price Prediction: Bulls Fight for a $120 Comeback as AlphaPepe Heads Toward Its 2027  | https://www.openpr.com/news/4690381/aave-price-prediction-bulls-fight-for-a-120-comeback-as
