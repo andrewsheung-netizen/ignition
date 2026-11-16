@@ -1467,3 +1467,9 @@
 2026-11-15 | INJ | 🔥 | UPCOMING | Injective (INJ) Surges 6.12% on Veyra Upgrade, ETF Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af6ff630ada0c77afaebceb/
 2026-11-15 | AVAX | 🔥 | RECENT | Bitcoin below $70K, Coinbase charter, NYSE | https://crypto.news/bitcoin-70k-coinbase-charter-nyse-weekly-recap/
 2026-11-15 | USUAL | 🔥 | UPCOMING | OpenAI Launches ChatGPT Wallet, Lets AI Agents Make Purchases | https://www.ciol.com/news/openai-launches-chatgpt-wallet-lets-ai-agents-make-purchases-12809961
+2026-11-16 | ZEC | 🔥 | RECENT | Midnight (NIGHT) Surges 6.2% on Upgrades and Market Strength | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af991be19ea3e3530cebd4d/
+2026-11-16 | ZEC | 🔥 | RECENT | Zcash Drops 3.57% Amid ETF Outflows, Governance Uncertainty | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af8ccff19ea3e3530cde5e3/
+2026-11-16 | AVAX | 🔥 | RECENT | Avalanche's Binance Quote Drops 5.80% While Later Snapshot Shows 10.17% 24-Hour Loss | https://econotimes.com/Avalanche-s-Binance-Quote-Drops-5-80-While-Later-Snapshot-Shows-10-17-24-Hour-Loss-1776885
+2026-11-16 | AVAX | 🔥 | RECENT | Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, con | https://biztoc.com/x/201fd18eb1007561
+2026-11-16 | XAI | 🔥 | RECENT | Meet Hussain Sajwani, the Dubai investor who made more money from Anthropic in 2 years tha | https://www.livemint.com/companies/people/meet-hussain-sajwani-the-dubai-investor-who-made-more-money-from-anthropic-in-2-years-than-his-30-years-of-investments-11794726343697.html
+2026-11-16 | ZRO | ⚠️ | UPCOMING | Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40% | https://biztoc.com/x/2170bad4bb0093b2
