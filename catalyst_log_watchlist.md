@@ -1476,3 +1476,7 @@
 2026-11-16 | ZEC | 🔥 | RECENT | Midnight (NIGHT) Surges 6.2% on Upgrades and Market Strength | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af991be19ea3e3530cebd4d/
 2026-11-16 | ZEC | 🔥 | RECENT | Zcash Drops 3.57% Amid ETF Outflows, Governance Uncertainty | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6af8ccff19ea3e3530cde5e3/
 2026-11-16 | AAVE | 🔥 | UPCOMING | Aave Price Prediction: Bulls Fight for a $120 Comeback as AlphaPepe Heads Toward Its 2027  | https://www.openpr.com/news/4690381/aave-price-prediction-bulls-fight-for-a-120-comeback-as
+2026-11-17 | AAVE | 🔥 | RECENT | Uniswap News: Uniswap v2, v3 and v4 Go Live on Elysium as Remittix Earn Opens Aave, Morpho | https://techbullion.com/uniswap-news-uniswap-v2-v3-and-v4-go-live-on-elysium-as-remittix-earn-opens-aave-morpho-and-maple-finance-pools/
+2026-11-17 | AVAX | ⚠️ | UPCOMING | Can $250 Unlock 277K Apeing Tokens? Apeing's Staking Rewards Challenge Cardano and Avalanc | https://www.openpr.com/news/4690666/can-250-unlock-277k-apeing-tokens-apeing-s-staking-rewards
+2026-11-17 | AVAX | 🔥 | UPCOMING | NYSE Chooses Avalanche to Power Tokenized Stock Market Settlement | https://growmudra.com/news/details/7ad45ac2157d72801438b07dffcbbb20/nyse-chooses-avalanche-to-power-tokenized-stock-market-settlement
+2026-11-17 | AVAX | 🔥 | UPCOMING | Two Weeks After Record $6.3 Billion Heist, Binance Reveals When Customers Will Get Full Ac | https://www.zerohedge.com/crypto/two-weeks-after-record-63-billion-heist-binance-announces-when-customers-will-get-full
