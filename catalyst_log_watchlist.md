@@ -1480,3 +1480,5 @@
 2026-11-17 | AVAX | ⚠️ | UPCOMING | Can $250 Unlock 277K Apeing Tokens? Apeing's Staking Rewards Challenge Cardano and Avalanc | https://www.openpr.com/news/4690666/can-250-unlock-277k-apeing-tokens-apeing-s-staking-rewards
 2026-11-17 | AVAX | 🔥 | UPCOMING | NYSE Chooses Avalanche to Power Tokenized Stock Market Settlement | https://growmudra.com/news/details/7ad45ac2157d72801438b07dffcbbb20/nyse-chooses-avalanche-to-power-tokenized-stock-market-settlement
 2026-11-17 | AVAX | 🔥 | UPCOMING | Two Weeks After Record $6.3 Billion Heist, Binance Reveals When Customers Will Get Full Ac | https://www.zerohedge.com/crypto/two-weeks-after-record-63-billion-heist-binance-announces-when-customers-will-get-full
+2026-11-17 | AVAX | 🔥 | RECENT | Avalanche ETF Inflows Stand Out as Other Altcoin Funds Bleed | https://bitcoinworld.co.in/avalanche-etf-inflows-altcoin-outflows/
+2026-11-17 | ZRO | ⚠️ | UPCOMING | Nov. 20-21 Account for More Than Half of Weekly Scheduled Token Unlock Value | https://econotimes.com/Nov-20-21-Account-for-More-Than-Half-of-Weekly-Scheduled-Token-Unlock-Value-1777693
