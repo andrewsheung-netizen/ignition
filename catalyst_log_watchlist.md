@@ -1514,3 +1514,5 @@
 2026-11-20 | USUAL | 🔥 | RECENT | Critics Have Their Say On Netflix's 'Intense' And 'Chaotic' New True Crime Drama | https://www.huffingtonpost.co.uk/entry/the-altruists-netflix-reviews-julia-garner-anthony-boyle_uk_6afedefbe4b03f9a6579b075
 2026-11-20 | GALA | 🔥 | RECENT | Donald Trump’s $TRUMP Gala is Listed as Sold Out, but There’s a Catch | https://www.mandatory.com/news/1895666-donald-trump-dinner-thousands-deny-memecoin-gala
 2026-11-20 | ZRO | ⚠️ | UPCOMING | ZRO Volatility: 5.38% Swing on Whale Moves, Unlocks, Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afe3d871bf1a972fe2e48c2/
+2026-11-20 | JUP | 🔥 | UPCOMING | Jupiter (JUP) Surges 5.59% on Ecosystem Launches, Buybacks | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afddabd1bf1a972fe2df13f/
+2026-11-20 | ZRO | ⚠️ | UPCOMING | ZRO Volatility: 5.38% Swing on Whale Moves, Unlocks, Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afe3d871bf1a972fe2e48c2/
