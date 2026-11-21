@@ -9,11 +9,12 @@
    🔥 INJ [CORE] — Injective Partners With the University of Tokyo, Japan’s Top University, to Adva https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/injective-partners-with-the-university-of-tokyo-japans-top-university-to-advance-blockchain-innovation/2471528
    🔥 INJ [CORE] — Cryptocurrency News: Injective's Staked ETF Hits Nasdaq as AVAX, LTC and Remitti https://techbullion.com/cryptocurrency-news-injectives-staked-etf-hits-nasdaq-as-avax-ltc-and-remittix-earns-public-launch-draw-focus/
    🔥 AVAX [CORE] — NYSE selects Avalanche to power settlement for tokenized stock platform https://crypto.news/nyse-selects-avalanche-to-power-settlement-for-tokenized-stock-platform/
+   🔥 SNT [VERIFY] — GTA 6 phone apps explained: what we know about Peekhole before launch https://egamers.io/gta-6-phone-apps-explained-what-we-know-about-peekhole-before-launch/
    🔥 ZRO [WATCH] — MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/mica-licensed-zbx-and-boomfi-power-hoppas-stablecoin-exchange-launch/2474743
 
 📰 recent catalysts:
+   🔥 ZEC [CORE] — Ethereum falls 10.8% as $2.89B ETF outflows hit altcoins
    🔥 ZEC [CORE] — Crypto Market Today: Ethereum, Zcash, Altcoins Face Selling Amid Bitcoin ETF Out
-   🔥 ZEC [CORE] — US NEAR and ZEC Spot ETFs Record Combined Net Outflow of US$1.3882 Million
    🔥 ZEC [CORE] — ‘More Secret’ Version of Bitcoin: Zcash (ZEC) Eyes Another Wall Street ETF
    🔥 ZEC [CORE] — Crypto Treasury Firms Keep Buying as Bitcoin, Ether, Zcash Slide
    🔥 PYTH [VERIFY] — Binance Blockchain Week 2026: Main Stage Agenda
@@ -22,8 +23,8 @@
    🔥 AVAX [CORE] — AVAX Leads Broad Crypto Gains After NYSE Tokenization Deal
    🔥 AVAX [CORE] — NYSE Picks Tokenization Partner As 24/7 Stock Trading Gets Closer
    🔥 FORM [CORE] — FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2
+   🔥 GALA [VERIFY] — ADFW 2026 Unveils Largest-Ever Partner-Driven Programme, Headlined by L'IMAD
    ⚠️ XVG [VERIFY] — Tech News Weekly 464: GTA VI, Ring's Drone, and a Hacked Web
-   🔥 PORTAL [VERIFY] — Digital Gold Investment 2026: Safety, Regulation and Ownership Risks
    🔥 RED [VERIFY] — Binance Blockchain Week 2026: Main Stage Agenda
    🔥 PROS [WATCH] — Binance Blockchain Week 2026: Main Stage Agenda
 

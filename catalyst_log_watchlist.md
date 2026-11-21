@@ -1526,3 +1526,6 @@
 2026-11-21 | RED | 🔥 | RECENT | Binance Blockchain Week 2026: Main Stage Agenda | https://www.africa-newsroom.com/press/binance-blockchain-week-2026-main-stage-agenda?lang=en
 2026-11-21 | PROS | 🔥 | RECENT | Binance Blockchain Week 2026: Main Stage Agenda | https://www.africa-newsroom.com/press/binance-blockchain-week-2026-main-stage-agenda?lang=en
 2026-11-21 | ZRO | 🔥 | UPCOMING | MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch | https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/mica-licensed-zbx-and-boomfi-power-hoppas-stablecoin-exchange-launch/2474743
+2026-11-21 | ZEC | 🔥 | RECENT | Ethereum falls 10.8% as $2.89B ETF outflows hit altcoins | https://bitcoinworld.co.in/ethereum-altcoins-crash-etf-outflows-nov-2026/
+2026-11-21 | GALA | 🔥 | RECENT | ADFW 2026 Unveils Largest-Ever Partner-Driven Programme, Headlined by L'IMAD | https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/adfw-2026-unveils-largest-ever-partner-driven-programme-headlined-by-limad/2475048
+2026-11-21 | SNT | 🔥 | UPCOMING | GTA 6 phone apps explained: what we know about Peekhole before launch | https://egamers.io/gta-6-phone-apps-explained-what-we-know-about-peekhole-before-launch/
