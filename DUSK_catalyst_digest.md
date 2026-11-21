@@ -1,23 +1,30 @@
-📅 DUSK watchlist — catalyst brief 2026-11-20
+📅 DUSK watchlist — catalyst brief 2026-11-21
 
 ⭐ DUSK (CORE)
    · no new catalysts (quiet) — watch for a 4h ignition
 
 🔭 UPCOMING CATALYSTS (watchlist):
-   🔥 JUP [CORE] — Jupiter Launches Native Equities Market as Abra Partners with ICE on Institution https://www.tekedia.com/jupiter-launches-native-equities-market-as-abra-partners-with-ice-on-institutional-crypto-lending/
-   🔥 JUP [CORE] — Jupiter (JUP) Surges 5.59% on Ecosystem Launches, Buybacks | Top Stories | CoinM https://coinmarketcap.com/top-stories/6afddabd1bf1a972fe2df13f/
-   🔥 INJ [CORE] — Injective Publishes New Whitepaper After First U.S. INJ ETF Launch https://bitcoinworld.co.in/injective-whitepaper-inj-etf-launch/
-   🔥 INJ [CORE] — Injective Promotes New Whitepaper After First US-Listed INJ ETF Launch https://www.analyticsinsight.net/news/injective-promotes-new-whitepaper-after-first-us-listed-inj-etf-launch
-   ⚠️ ZRO [WATCH] — ZRO Volatility: 5.38% Swing on Whale Moves, Unlocks, Launch | Top Stories | Coin https://coinmarketcap.com/top-stories/6afe3d871bf1a972fe2e48c2/
-   🔥 ZRO [WATCH] — MöB Plans Nov. 30 Onchain Venue Launch With LayerZero Infrastructure https://econotimes.com/M-B-Plans-Nov-30-Onchain-Venue-Launch-With-LayerZero-Infrastructure-1779068
+   🔥 JUP [CORE] — Ledger launches Clear Signing on Solana with Jupiter https://cfotech.asia/story/ledger-launches-clear-signing-on-solana-with-jupiter
+   🔥 INJ [CORE] — Injective releases new whitepaper weeks after first U.S. INJ ETF launch https://crypto.news/injective-releases-new-whitepaper-weeks-after-first-u-s-inj-etf-launch/
+   🔥 INJ [CORE] — Injective Partners With the University of Tokyo, Japan’s Top University, to Adva https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/injective-partners-with-the-university-of-tokyo-japans-top-university-to-advance-blockchain-innovation/2471528
+   🔥 INJ [CORE] — Cryptocurrency News: Injective's Staked ETF Hits Nasdaq as AVAX, LTC and Remitti https://techbullion.com/cryptocurrency-news-injectives-staked-etf-hits-nasdaq-as-avax-ltc-and-remittix-earns-public-launch-draw-focus/
+   🔥 AVAX [CORE] — NYSE selects Avalanche to power settlement for tokenized stock platform https://crypto.news/nyse-selects-avalanche-to-power-settlement-for-tokenized-stock-platform/
+   🔥 ZRO [WATCH] — MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/mica-licensed-zbx-and-boomfi-power-hoppas-stablecoin-exchange-launch/2474743
 
 📰 recent catalysts:
-   🔥 ZEC [CORE] — Zcash Gains $20 on Binance as Short Liquidations Reach $370,000
-   🔥 ZEC [CORE] — Bitwise Files For Texas Zcash ETF, Excluding Shielded Transactions
+   🔥 ZEC [CORE] — Crypto Market Today: Ethereum, Zcash, Altcoins Face Selling Amid Bitcoin ETF Out
+   🔥 ZEC [CORE] — US NEAR and ZEC Spot ETFs Record Combined Net Outflow of US$1.3882 Million
    🔥 ZEC [CORE] — ‘More Secret’ Version of Bitcoin: Zcash (ZEC) Eyes Another Wall Street ETF
    🔥 ZEC [CORE] — Crypto Treasury Firms Keep Buying as Bitcoin, Ether, Zcash Slide
-   🔥 PENDLE [VERIFY] — Boros Funding-Rate Spread Market Posts $309.7 Million Open-Interest High
-   🔥 INJ [CORE] — Crypto News Today: Bitcoin Outflow, Monero FCMP++ Upgrade, Injective Releases Ne
-   🔥 GALA [VERIFY] — Donald Trump’s $TRUMP Gala is Listed as Sold Out, but There’s a Catch
+   🔥 PYTH [VERIFY] — Binance Blockchain Week 2026: Main Stage Agenda
+   🔥 AVAX [CORE] — How Blockchain Could Reshape Research Funding
+   🔥 AVAX [CORE] — Bitcoin below $70K, Coinbase charter, NYSE
+   🔥 AVAX [CORE] — AVAX Leads Broad Crypto Gains After NYSE Tokenization Deal
+   🔥 AVAX [CORE] — NYSE Picks Tokenization Partner As 24/7 Stock Trading Gets Closer
+   🔥 FORM [CORE] — FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2
+   ⚠️ XVG [VERIFY] — Tech News Weekly 464: GTA VI, Ring's Drone, and a Hacked Web
+   🔥 PORTAL [VERIFY] — Digital Gold Investment 2026: Safety, Regulation and Ownership Risks
+   🔥 RED [VERIFY] — Binance Blockchain Week 2026: Main Stage Agenda
+   🔥 PROS [WATCH] — Binance Blockchain Week 2026: Main Stage Agenda
 
 Catalyst = context/conviction; entry is still the 4h ignition. Not financial advice.

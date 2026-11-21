@@ -1516,3 +1516,13 @@
 2026-11-20 | ZRO | ⚠️ | UPCOMING | ZRO Volatility: 5.38% Swing on Whale Moves, Unlocks, Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afe3d871bf1a972fe2e48c2/
 2026-11-20 | JUP | 🔥 | UPCOMING | Jupiter (JUP) Surges 5.59% on Ecosystem Launches, Buybacks | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afddabd1bf1a972fe2df13f/
 2026-11-20 | ZRO | ⚠️ | UPCOMING | ZRO Volatility: 5.38% Swing on Whale Moves, Unlocks, Launch | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6afe3d871bf1a972fe2e48c2/
+2026-11-21 | ZEC | 🔥 | RECENT | Crypto Market Today: Ethereum, Zcash, Altcoins Face Selling Amid Bitcoin ETF Outflows | https://www.analyticsinsight.net/news/crypto-market-today-ethereum-zcash-altcoins-face-selling-amid-bitcoin-etf-outflows
+2026-11-21 | ZEC | 🔥 | RECENT | US NEAR and ZEC Spot ETFs Record Combined Net Outflow of US$1.3882 Million | https://bitcoinworld.co.in/near-zec-spot-etf-outflows-november-19/
+2026-11-21 | JUP | 🔥 | UPCOMING | Ledger launches Clear Signing on Solana with Jupiter | https://cfotech.asia/story/ledger-launches-clear-signing-on-solana-with-jupiter
+2026-11-21 | PYTH | 🔥 | RECENT | Binance Blockchain Week 2026: Main Stage Agenda | https://www.africa-newsroom.com/press/binance-blockchain-week-2026-main-stage-agenda?lang=en
+2026-11-21 | AVAX | 🔥 | RECENT | How Blockchain Could Reshape Research Funding | https://www.securities.io/how-blockchain-could-reshape-research-funding/
+2026-11-21 | XVG | ⚠️ | RECENT | Tech News Weekly 464: GTA VI, Ring's Drone, and a Hacked Web | https://twit.tv/shows/tech-news-weekly/episodes/464
+2026-11-21 | PORTAL | 🔥 | RECENT | Digital Gold Investment 2026: Safety, Regulation and Ownership Risks | https://industrywired.com/finance/digital-gold-investment-2026-safety-regulation-and-ownership-risks-12826663
+2026-11-21 | RED | 🔥 | RECENT | Binance Blockchain Week 2026: Main Stage Agenda | https://www.africa-newsroom.com/press/binance-blockchain-week-2026-main-stage-agenda?lang=en
+2026-11-21 | PROS | 🔥 | RECENT | Binance Blockchain Week 2026: Main Stage Agenda | https://www.africa-newsroom.com/press/binance-blockchain-week-2026-main-stage-agenda?lang=en
+2026-11-21 | ZRO | 🔥 | UPCOMING | MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch | https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/mica-licensed-zbx-and-boomfi-power-hoppas-stablecoin-exchange-launch/2474743
