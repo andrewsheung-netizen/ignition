@@ -1545,3 +1545,7 @@
 2026-11-23 | PORTAL | 🔥 | RECENT | Terror Network Crumble in J&K: 1,891 terrorists killed since 2014; Amit Shah maps integrat | https://organiser.org/2026/11/22/428114/bharat/terror-network-crumble-in-j-amit-shah-maps-integrated-counter-terrorism-strategy/
 2026-11-23 | ZRO | ⚠️ | UPCOMING | LayerZero (ZRO) Drops 4.76% on Token Unlock and Crypto Selloff | Top Stories | CoinMarketC | https://coinmarketcap.com/top-stories/6b00fc6941b2a86394626849/
 2026-11-23 | AVAX | 🔥 | UPCOMING | Where Should Your Next Crypto Investment Go? These 7 Top Altcoins to Buy Now Deserve Your  | https://www.openpr.com/news/4696508/where-should-your-next-crypto-investment-go-these-7-top-altcoins
+2026-11-24 | ZEC | 🔥 | RECENT | 2x ZCSH ETF , Built by Grayscale, Begins Trading on NYSE Arca | https://investingnews.com/2x-zcsh-etf-built-by-grayscale-begins-trading-on-nyse-arca/
+2026-11-24 | ZEC | 🔥 | UPCOMING | Zcash Developer Seeks Grant to Enhance Privacy on iPhone Wallets | https://us.headtopics.com/news/zcash-developer-seeks-grant-to-enhance-privacy-on-iphone-90103394
+2026-11-24 | WIF | 🔥 | UPCOMING | 7 Top Cryptos to Buy in November: Apeing's LIVE Presale Sparks Buzz as Stage 13 Moves Towa | https://www.openpr.com/news/4696544/7-top-cryptos-to-buy-in-november-apeing-s-live-presale-sparks
+2026-11-24 | ZRO | 🔥 | UPCOMING | LayerZero (ZRO) Gains 4% Amid Upcoming Launch and Market Rebound | Top Stories | CoinMarke | https://coinmarketcap.com/top-stories/6b0401dcd816830ac0a07d30/
