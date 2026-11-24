@@ -1549,3 +1549,6 @@
 2026-11-24 | ZEC | 🔥 | UPCOMING | Zcash Developer Seeks Grant to Enhance Privacy on iPhone Wallets | https://us.headtopics.com/news/zcash-developer-seeks-grant-to-enhance-privacy-on-iphone-90103394
 2026-11-24 | WIF | 🔥 | UPCOMING | 7 Top Cryptos to Buy in November: Apeing's LIVE Presale Sparks Buzz as Stage 13 Moves Towa | https://www.openpr.com/news/4696544/7-top-cryptos-to-buy-in-november-apeing-s-live-presale-sparks
 2026-11-24 | ZRO | 🔥 | UPCOMING | LayerZero (ZRO) Gains 4% Amid Upcoming Launch and Market Rebound | Top Stories | CoinMarke | https://coinmarketcap.com/top-stories/6b0401dcd816830ac0a07d30/
+2026-11-24 | ZEC | 🔥 | RECENT | 2x ZCSH ETF (Ticker: ZECX), Built by Grayscale, Begins Trading on NYSE Arca | https://www.manilatimes.net/2026/11/23/tmt-newswire/globenewswire/2x-zcsh-etf-ticker-zecx-built-by-grayscale-begins-trading-on-nyse-arca/2476380
+2026-11-24 | AVAX | 🔥 | RECENT | Ethena $7.5B Buyback Trigger Nears as ENA Eyes Breakout | https://coinpedia.org/price-analysis/ethena-7-5b-buyback-trigger-nears-as-ena-eyes-breakout/
+2026-11-24 | XVG | ⚠️ | UPCOMING | How freaked out should we be? After mass outages, experts tell us how close we are to ‘doo | https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
