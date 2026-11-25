@@ -1552,3 +1552,10 @@
 2026-11-24 | ZEC | 🔥 | RECENT | 2x ZCSH ETF (Ticker: ZECX), Built by Grayscale, Begins Trading on NYSE Arca | https://www.manilatimes.net/2026/11/23/tmt-newswire/globenewswire/2x-zcsh-etf-ticker-zecx-built-by-grayscale-begins-trading-on-nyse-arca/2476380
 2026-11-24 | AVAX | 🔥 | RECENT | Ethena $7.5B Buyback Trigger Nears as ENA Eyes Breakout | https://coinpedia.org/price-analysis/ethena-7-5b-buyback-trigger-nears-as-ena-eyes-breakout/
 2026-11-24 | XVG | ⚠️ | UPCOMING | How freaked out should we be? After mass outages, experts tell us how close we are to ‘doo | https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
+2026-11-25 | ZEC | 🔥 | RECENT | Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble | https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407
+2026-11-25 | ZEC | 🔥 | RECENT | Zcash Surges 3.80% on ETF News, Relief Rally, Short Squeeze | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b04aa5ed816830ac0a13eab/
+2026-11-25 | RAY | 🔥 | RECENT | RAY Surges 3.38% on Raydium's Tokenized Stocks Narrative | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b049ec4d816830ac0a12476/
+2026-11-25 | USUAL | 🔥 | UPCOMING | I Sent Crypto to a Suspicious Investment Site. How Do I Report the Transfer? | https://www.openpr.com/news/4697341/i-sent-crypto-to-a-suspicious-investment-site-how-do-i-report
+2026-11-25 | SNT | ⚠️ | RECENT | I give you learnings & checklists: from 23 Postmortems. 27 Outages | https://dev.to/debashish_ghosal/i-give-you-learnings-checklists-from-23-postmortems-27-outages-1e33
+2026-11-25 | STX | 🔥 | UPCOMING | Swiss Bitcoin-App Relai Launches Stacks: A Better Way to Save in Bitcoin | https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/swiss-bitcoin-app-relai-launches-stacks-a-better-way-to-save-in-bitcoin/2476965
+2026-11-25 | ZRO | 🔥 | RECENT | LayerZero (ZRO) Down 11% as Staking Euphoria Reverses | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b05535bd816830ac0a1e98e/
