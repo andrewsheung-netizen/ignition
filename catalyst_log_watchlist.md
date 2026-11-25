@@ -1559,3 +1559,10 @@
 2026-11-25 | SNT | ⚠️ | RECENT | I give you learnings & checklists: from 23 Postmortems. 27 Outages | https://dev.to/debashish_ghosal/i-give-you-learnings-checklists-from-23-postmortems-27-outages-1e33
 2026-11-25 | STX | 🔥 | UPCOMING | Swiss Bitcoin-App Relai Launches Stacks: A Better Way to Save in Bitcoin | https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/swiss-bitcoin-app-relai-launches-stacks-a-better-way-to-save-in-bitcoin/2476965
 2026-11-25 | ZRO | 🔥 | RECENT | LayerZero (ZRO) Down 11% as Staking Euphoria Reverses | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b05535bd816830ac0a1e98e/
+2026-11-25 | AAVE | 🔥 | UPCOMING | Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says 'we do n | https://us.headtopics.com/news/ethereum-treasury-firm-btcs-sells-43-8-million-in-eth-to-90146491
+2026-11-25 | AAVE | 🔥 | UPCOMING | Ethereum Treasury BTCS Dumps 27,300 ETH To Repay $43.8M Aave Debt | https://coinpedia.org/news/ethereum-treasury-btcs-dumps-27300-eth-to-repay-43-8m-aave-debt/
+2026-11-25 | AAVE | 🔥 | UPCOMING | Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt | https://crypto.news/btcs-sells-ethereum-43-million-aave-debt/
+2026-11-25 | INJ | 🔥 | UPCOMING | INJ Goes Live on Base with Aero and Seven Launch Partners | https://blockchain.news/news/inj-live-on-base
+2026-11-25 | RAY | 🔥 | RECENT | RAY Surges 3.38% on Raydium's Tokenized Stocks Narrative | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b049ec4d816830ac0a12476/
+2026-11-25 | GALA | 🔥 | UPCOMING | Trump family cryptocurrency projects generated 635 million from token launch | https://english.pravda.ru/news/world/174119-trump-crypto-wealth-divergence/
+2026-11-25 | ZRO | 🔥 | RECENT | LayerZero (ZRO) Down 11% as Staking Euphoria Reverses | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b05535bd816830ac0a1e98e/
