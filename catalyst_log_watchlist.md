@@ -1569,3 +1569,6 @@
 2026-11-26 | AVAX | 🔥 | RECENT | Avax One Technology Ltd. Common Shares (NASDAQ:AVX) Stock: Insider Philip Press Acquires 2 | https://www.tickerreport.com/banking-finance/13672311/avax-one-technology-ltd-common-shares-nasdaqavx-stock-insider-philip-press-acquires-24419-shares.html
 2026-11-26 | SNT | 🔥 | RECENT | Understanding HTTP Status Codes in SAP CPI Integrations: A Practical Troubleshooting Guide | https://community.sap.com/t5/technology-blog-posts-by-members/understanding-http-status-codes-in-sap-cpi-integrations-a-practical/ba-p/14528349
 2026-11-26 | ZRO | 🔥 | RECENT | LayerZero (ZRO) Down 11% as Staking Euphoria Reverses | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b05535bd816830ac0a1e98e/
+2026-11-26 | AAVE | 🔥 | RECENT | Aave Horizon Holds $6M in Tokenized Bond Collateral | https://bitcoinworld.co.in/aave-horizon-tokenized-bond-collateral/
+2026-11-26 | AAVE | 🔥 | UPCOMING | Aave Labs publicly launches savings app as balances top $63 million | https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674
+2026-11-26 | FORM | 🔥 | RECENT | Love, lies and a $32-billion crypto empire. Netflix’s ‘The Altruists’ has viewers hooked | https://theprint.in/entertainment/love-lies-and-a-32-billion-crypto-empire-netflixs-the-altruists-has-viewers-hooked/3107235/
