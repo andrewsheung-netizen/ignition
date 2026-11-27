@@ -1580,3 +1580,8 @@
 2026-11-27 | SNT | ⚠️ | RECENT | Robinhood Must Fight Sports Betting Lawsuit in Court After Arbitration Bid Fails | https://www.financemagnates.com/fintech/robinhood-must-fight-sports-betting-lawsuit-in-court-after-arbitration-bid-fails/
 2026-11-27 | STX | 🔥 | UPCOMING | How to Upgrade to llama.cpp v1.0.0 and Run GGUF Models on Windows ML | https://dev.to/mango7777/how-to-upgrade-to-llamacpp-v100-and-run-gguf-models-on-windows-ml-4b70
 2026-11-27 | ZRO | 🔥 | RECENT | Ondo Gains 3.07% on USDY Interoperability Update and RWA Narrative | Top Stories | CoinMar | https://coinmarketcap.com/top-stories/6b0793ec8a1daa09b20dd98f/
+2026-11-27 | ZEC | 🔥 | UPCOMING | Zcash Whale Wakes Up After 9 Years, Moves $11.39 Million To Kraken | https://www.newsbtc.com/altcoin-news/zcash-whale-kraken-nine-years/
+2026-11-27 | INJ | 🔥 | RECENT | Injective Eyes $125 as 7.3M INJ Burn and Veyra Upgrade Strengthen Bullish Outlook | https://coinpedia.org/price-analysis/injective-eyes-125-as-7-3m-inj-burn-and-veyra-upgrade-strengthen-bullish-outlook/
+2026-11-27 | INJ | 🔥 | UPCOMING | Injective Launches Veyra Mainnet Upgrade with New Institutional Trading Tools | https://www.analyticsinsight.net/news/injective-launches-veyra-mainnet-upgrade-with-new-institutional-trading-tools
+2026-11-27 | RAY | 🔥 | RECENT | Raydium Surpasses $9B Tokenized Stock Volume, RAY Surges | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b0769808a1daa09b20dbf9f/
+2026-11-27 | ZRO | 🔥 | UPCOMING | ZRO Gains 3.75% as Genesis Validators, Mainnet Launch Loom | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b082e5e8a1daa09b20e6822/
