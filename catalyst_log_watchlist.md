@@ -1572,3 +1572,11 @@
 2026-11-26 | AAVE | 🔥 | RECENT | Aave Horizon Holds $6M in Tokenized Bond Collateral | https://bitcoinworld.co.in/aave-horizon-tokenized-bond-collateral/
 2026-11-26 | AAVE | 🔥 | UPCOMING | Aave Labs publicly launches savings app as balances top $63 million | https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674
 2026-11-26 | FORM | 🔥 | RECENT | Love, lies and a $32-billion crypto empire. Netflix’s ‘The Altruists’ has viewers hooked | https://theprint.in/entertainment/love-lies-and-a-32-billion-crypto-empire-netflixs-the-altruists-has-viewers-hooked/3107235/
+2026-11-27 | INJ | 🔥 | RECENT | Injective Activates Veyra Upgrade After 99.51% Governance Vote | https://bitcoinworld.co.in/injective-veyra-upgrade-rwa-infrastructure/
+2026-11-27 | RAY | 🔥 | RECENT | Raydium Surpasses $9B Tokenized Stock Volume, RAY Surges | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b0769808a1daa09b20dbf9f/
+2026-11-27 | USUAL | 🔥 | RECENT | Best Plumbers in San Diego: A Local Company Lists Seven-Day Hours, a Usual One-Hour Respon | https://express-press-release.net/news/2026/11/26/1787496
+2026-11-27 | XAI | 🔥 | RECENT | Third Point resumes private investments after FTX losses | https://hedgeweek.com/news/third-point-resumes-private-investments-after-ftx-losses
+2026-11-27 | PORTAL | ⚠️ | UPCOMING | Frame Transactions Shift Direction, Fluidkey’s $1,6M Hack, Glamsterdam Slips to 2027, Latt | https://dev.to/etherspot/frame-transactions-shift-direction-fluidkeys-16m-hack-glamsterdam-slips-to-2027-lattice-33g6
+2026-11-27 | SNT | ⚠️ | RECENT | Robinhood Must Fight Sports Betting Lawsuit in Court After Arbitration Bid Fails | https://www.financemagnates.com/fintech/robinhood-must-fight-sports-betting-lawsuit-in-court-after-arbitration-bid-fails/
+2026-11-27 | STX | 🔥 | UPCOMING | How to Upgrade to llama.cpp v1.0.0 and Run GGUF Models on Windows ML | https://dev.to/mango7777/how-to-upgrade-to-llamacpp-v100-and-run-gguf-models-on-windows-ml-4b70
+2026-11-27 | ZRO | 🔥 | RECENT | Ondo Gains 3.07% on USDY Interoperability Update and RWA Narrative | Top Stories | CoinMar | https://coinmarketcap.com/top-stories/6b0793ec8a1daa09b20dd98f/
