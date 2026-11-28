@@ -1596,3 +1596,8 @@
 2026-11-28 | SEI | 🔥 | RECENT | Sei Price Rally Accelerates After v6.8 Upgrade: Is $0.05 Next? | https://coinpedia.org/price-analysis/sei-price-rally-accelerates-after-v6-8-upgrade-is-0-05-next/
 2026-11-28 | SEI | 🔥 | RECENT | Sei (SEI) Surges 10–12% on Upgrade, Tokenized Stocks Reveal | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b0947a18a1daa09b20f7615/
 2026-11-28 | ZRO | 🔥 | UPCOMING | ZRO Gains 3.75% as Genesis Validators, Mainnet Launch Loom | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b082e5e8a1daa09b20e6822/
+2026-11-28 | AAVE | 🔥 | RECENT | UK FCA Plans Strict DeFi Rules as Coinbase and Aave Push Back | https://news.bitcoin.com/defi/uk-fca-plans-strict-defi-rules-as-coinbase-and-aave-push-back/
+2026-11-28 | SEI | 🔥 | RECENT | Sei (SEI) Surges 10–12% on Upgrade, Tokenized Stocks Reveal | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b0947a18a1daa09b20f7615/
+2026-11-28 | ZRO | 🔥 | UPCOMING | LayerZero’s Biggest Launch Is Days Away – Can ZRO Price Finally Break Its Downtrend? | https://coinpedia.org/price-analysis/layerzeros-biggest-launch-is-days-away-can-zro-price-finally-break-its-downtrend/
+2026-11-28 | ZRO | 🔥 | RECENT | Cardano Sets Q1 2027 Target for Next Major Blockchain Upgrade | https://coingape.com/cardano-sets-q1-2027-target-for-next-major-blockchain-upgrade/
+2026-11-28 | ZRO | 🔥 | UPCOMING | ZRO Gains 3.75% as Genesis Validators, Mainnet Launch Loom | Top Stories | CoinMarketCap | https://coinmarketcap.com/top-stories/6b082e5e8a1daa09b20e6822/
